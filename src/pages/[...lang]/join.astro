@@ -35,7 +35,7 @@ const { title, description, meta_title, image } = join[0].data;
               <ImageMod
                 class="mx-auto mb-6 rounded-lg"
                 src={image}
-                width={300}
+                width={900}
                 height={200}
                 alt={title}
                 format="webp"
@@ -44,10 +44,8 @@ const { title, description, meta_title, image } = join[0].data;
           }
           <h2 set:html={markdownify(title)} class="h3 mb-6" />
           <div class="row justify-left">
-          <div class="text-left">
+          <div class="text-left md:col-10 lg:col-200">
           <div class="content">
-          </div>
-          </div>
             <Content />
           </div>
         </div>
