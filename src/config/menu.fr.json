@@ -24,7 +24,8 @@
         { "name": "受賞", "url": "/award" }
       ]
     },
-    { "name": "研究環境", "url": "/environment" }
+    { "name": "研究環境", "url": "/environment" },
+    { "name": "How to Join", "url": "/join" }
   ],
   "footer": [
     { "name": "Address & Access", "url": "/address" }

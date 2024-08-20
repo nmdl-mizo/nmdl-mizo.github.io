@@ -24,7 +24,8 @@
         { "name": "Awards", "url": "/award" }
       ]
     },
-    { "name": "Environment", "url": "/environment" }
+    { "name": "Environment", "url": "/environment" },
+    { "name": "How to join", "url": "/join" }
   ],
   "footer": [
     { "name": "Address & Access", "url": "/address" }

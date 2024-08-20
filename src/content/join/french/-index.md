@@ -2,18 +2,18 @@
 title: "How to join NMDL"
 meta_title: "How to join NMDL"
 description: "How to join NMDL"
-image: "/images/content-1.png"
+image: "/images/join.png"
 draft: false
 ---
+<center>
+
 ###### 大学院進学，博士取得，研究者としての自立を目指す皆様へ
 
 ###### 当研究室では大学院生およびJSPS特別研究員を募集しております  
 (2024.5.博士進学に関する内容を追記)
-<br>
+</center>
 
 ----
-<br>
-
 **◆ 研究目的：「物質の構造機能相関を解明し物質設計を実現する」**
 
 物質の特性を主に決定する「原子と電子の構造」を明らかにし，さらに「構造と機能の相関性」を理解することができれば，物質設計は実現可能です．  

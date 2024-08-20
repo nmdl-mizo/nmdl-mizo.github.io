@@ -29,7 +29,7 @@ const { title, description, meta_title, image } = member[0].data;
   <section class="section-sm">
     <div class="container">
       <div class="row justify-center">
-        <div class="text-center md:col-10 lg:col-7">
+        <div class="text-center md:col-10 lg:col-10">
           {
             image && (
               <ImageMod
@@ -44,7 +44,7 @@ const { title, description, meta_title, image } = member[0].data;
           }
           <h2 set:html={markdownify(title)} class="h3 mb-6" />
           <div class="row justify-left">
-          <div class="text-left md:col-10 lg:col-200">
+          <div class="text-left md:col-10 lg:col-10">
           <div class="content">
             <Content />
           </div>
