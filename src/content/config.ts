@@ -1,3 +1,4 @@
+import Testimonial from "@/partials/Testimonial.astro";
 import { defineCollection, z } from "astro:content";
 
 // Blog collection schema
@@ -71,6 +72,33 @@ const aboutCollection = defineCollection({
   }),
 });
 
+// Member collection schema
+const memberCollection = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    meta_title: z.string().optional(),
+    description: z.string().optional(),
+    image: z.string(),
+    draft: z.boolean().optional(),
+  }),
+});
+
+// Testimonial schema
+const testimonialSchema = z.object({
+  name: z.string(),
+  designation: z.string(),
+  avatar: z.string(),
+  content: z.string(),
+  button: z.object({
+    enable: z.boolean(),
+    label: z.string(),
+    link: z.string().url(),
+  }),
+});
+
+// Testimonials schema
+const testimonialsSchema = z.array(testimonialSchema);
+
 // Banner schema
 const bannerSchema = z.object({
   title: z.string(),
@@ -99,6 +127,7 @@ const featureSchema = z.object({
 // Content schema (for the main content structure with banner and features)
 const contentSchema = z.object({
   banner: bannerSchema,
+  testimonial: testimonialsSchema,
   features: z.array(featureSchema),
 });
 
@@ -106,17 +135,6 @@ const contentSchema = z.object({
 const contentCollection = defineCollection({
   schema: contentSchema,
 });
-
-// Testimonial schema
-const testimonialSchema = z.object({
-  name: z.string(),
-  designation: z.string(),
-  avatar: z.string(),
-  content: z.string(),
-});
-
-// Testimonials schema
-const testimonialsSchema = z.array(testimonialSchema);
 
 // Call to Action schema
 const callToActionSchema = z.object({
@@ -133,12 +151,13 @@ const callToActionSchema = z.object({
 
 // Export collections
 export const collections = {
+  testimonials: testimonialsSchema,
   blog: blogCollection,
   authors: authorsCollection,
   pages: pagesCollection,
   contact: contactCollection,
   about: aboutCollection,
   content: contentCollection,
-  testimonials: testimonialsSchema,
   callToAction: callToActionSchema,
+  member: memberCollection,
 };

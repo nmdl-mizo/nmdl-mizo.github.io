@@ -1,10 +1,10 @@
 ---
-enable: true
-title: "Ready to build your next project with Astro?"
-image: "/images/call-to-action.png"
-description: "Experience the future of web development with Astroplate and Astro. Build lightning-fast static sites with ease and flexibility."
+enable: false
+title: "Top page"
+image: "/images/NMDLlogo-color.jpg"
+description: "Top page"
 button:
   enable: true
-  label: "Get Started Now"
-  link: "https://github.com/zeon-studio/astroplate"
+  label: "Top page"
+  link: "https://www.edge.iis.u-tokyo.ac.jp/"
 ---

@@ -1,24 +1,32 @@
 {
   "main": [
-    { "name": "Home", "url": "/" },
-    { "name": "About", "url": "/about" },
-    { "name": "Elements", "url": "/elements" },
+    { "name": "Top", "url": "/" },
+    { "name": "NEWS", "url": "/news" },
+    { "name": "Research", "url": "/about" },
     {
-      "name": "Pages",
+      "name": "Team",
       "url": "",
       "hasChildren": true,
       "children": [
-        { "name": "Contact", "url": "/contact" },
-        { "name": "Blog", "url": "/blog" },
-        { "name": "Authors", "url": "/authors" },
-        { "name": "Categories", "url": "/categories" },
-        { "name": "Tags", "url": "/tags" },
-        { "name": "404 Page", "url": "/404" }
+        { "name": "Member", "url": "/member" },
+        { "name": "Alumni", "url": "/alumni" }
       ]
-    }
+    },
+    {
+      "name": "Achievements",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        { "name": "Mauscripts", "url": "/manuscript" },
+        { "name": "Invited", "url": "/invited" },
+        { "name": "Presentations", "url": "/presentation" },
+        { "name": "Books", "url": "/book" },
+        { "name": "Awards", "url": "/award" }
+      ]
+    },
+    { "name": "Environment", "url": "/environment" }
   ],
   "footer": [
-    { "name": "Elements", "url": "/elements" },
-    { "name": "Privacy Policy", "url": "/privacy-policy" }
+    { "name": "Address & Access", "url": "/address" }
   ]
 }

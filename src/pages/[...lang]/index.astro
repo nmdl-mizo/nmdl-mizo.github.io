@@ -36,15 +36,15 @@ const call_to_action = await getSinglePage(
 
 <Base>
   <!-- Banner -->
-  <section class="section pt-14">
+  <section class="section pt-1">
     <div class="container">
       <div class="row justify-center">
         <div class="lg:col-7 md:col-9 mb-8 text-center">
           <h1
             set:html={markdownify(banner.title)}
-            class="mb-4 text-h3 lg:text-h1"
+            class="mb-1 text-h3 lg:text-h1"
           />
-          <p set:html={markdownify(banner.content)} class="mb-8" />
+          <p set:html={markdownify(banner.content)} class="mb-1" />
           {
             banner.button.enable && (
               <a
@@ -78,6 +78,8 @@ const call_to_action = await getSinglePage(
   </section>
   <!-- /Banner -->
 
+  <Testimonial testimonial={testimonial[0]} />
+
   <!-- Features -->
   {
     features.map((feature: Feature, index: number) => (
@@ -89,7 +91,7 @@ const call_to_action = await getSinglePage(
             >
               <ImageMod
                 src={feature.image}
-                height={480}
+                height={180}
                 width={520}
                 alt={feature.title}
                 format="webp"
@@ -111,6 +113,26 @@ const call_to_action = await getSinglePage(
                   {feature.button.label}
                 </a>
               )}
+              {feature.button2.enable && (
+                <a class="btn btn-primary mt-5" href={feature.button.link}>
+                  {feature.button2.label}
+                </a>
+              )}
+              {feature.button3.enable && (
+                <a class="btn btn-primary mt-5" href={feature.button3.link}>
+                  {feature.button3.label}
+                </a>
+              )}
+              {feature.button4.enable && (
+                <a class="btn btn-primary mt-5" href={feature.button4.link}>
+                  {feature.button4.label}
+                </a>
+              )}
+              {feature.button5.enable && (
+                <a class="btn btn-primary mt-5" href={feature.button5.link}>
+                  {feature.button5.label}
+                </a>
+              )}
             </div>
           </div>
         </div>
@@ -119,6 +141,5 @@ const call_to_action = await getSinglePage(
   }
   <!-- /Features -->
 
-  <Testimonial testimonial={testimonial[0]} />
   <CallToAction call_to_action={call_to_action[0]} />
 </Base>

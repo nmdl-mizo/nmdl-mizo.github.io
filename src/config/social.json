@@ -1,24 +1,34 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "FaFacebook",
-      "link": "https://www.facebook.com/"
+      "name": "X(twitter)",
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/nmdl_mizo"
     },
     {
-      "name": "twitter",
-      "icon": "FaTwitter",
-      "link": "https://twitter.com/"
+      "name": "youtube",
+      "icon": "FaYoutube",
+      "link": "https://www.youtube.com/channel/UC3I2Ja4R_ieYFb0sKBlyCVQ"
     },
     {
       "name": "github",
       "icon": "FaGithub",
-      "link": "https://www.github.com/"
+      "link": "https://github.com/nmdl-mizo"
     },
     {
-      "name": "linkedin",
-      "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/"
+      "name": "Manual",
+      "icon": "FaM",
+      "link": "https://www.edge.iis.u-tokyo.ac.jp/CASTEP-ELNES-manual-2021.htm"
+    },
+    {
+      "name": "Growi",
+      "icon": "FaG",
+      "link": "http://127.0.0.1:3000//"
+    },
+    {
+      "name": "Growi_local",
+      "icon": "FaL",
+      "link": "http://192.168.100.99:3000/"
     }
   ]
 }
