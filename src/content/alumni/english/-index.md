@@ -65,7 +65,7 @@ draft: false
 **M Eiki Suzuki (鈴木叡輝)**
 <br> 表面インフォマティクスという新しいテーマに取り組み，吸着する前の情報から吸着後の諸物性を予測する人工知能技術を開発してくれました．
 
-<img src="/images/alumni/image12.png" style="width:1.61667in;height:2.08333in"  />
+<img src="/images/mem/image10.png" style="width:1.56667in;height:2.08333in" />
 
 **UROP Izumi Takahara (高原泉)**
 <br> [UROP](http://www.oshimalab.iis.u-tokyo.ac.jp/UROP/index.html)制度を使った研究体験で在籍しました．教養学部２年（当時）の短期間でしたが，LiおよびNaイオン伝導体の第一原理計算に関する研究に取り組み，[学術論文](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.085401)も出してくれました！
