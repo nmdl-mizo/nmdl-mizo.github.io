@@ -13,7 +13,7 @@ draft: false
 **D & PD: Xie Yaoshu**
 <br>CNIDやInterface Masterなど界面構造解析を加速させる手法開発に取り組んでくれました（現在，清華大学で活躍中！）
 
-<img src="/images/alumni/2022nishio.jpeg" style="width:1.80208in;height:2.30499in" />
+<img src="/images/alumni/2022nishio.jpg" style="width:1.80208in;height:2.30499in" />
 
 **M: Kento Nishio（西尾　健人）**
 <br>Graph neural networkを用いた予測モデルの構築や学習コスト低減のための手法開発に関する研究テーマに取り組んでくれました
