@@ -40,7 +40,7 @@ Takumi Nakano（仲野 匠）
 Tasuku Sugiura（杉浦　佑）
 <br>email：tsugiura_at_iis.u-tokyo.ac.jp
 
-<img src="/images/mem/image7.png" style="width:1.57292in;height:1.57292in" />
+<img src="/images/mem/sangjun.jpg" style="width:1.61292in;height:2.07292in" />
 
 Sangjun Lee, Ph. D
 <br>email：sangjun_at_iis.u-tokyo.ac.jp
