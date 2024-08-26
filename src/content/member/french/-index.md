@@ -72,7 +72,7 @@ M: Riuki Nakagawa（中川 諒記）
 M: Gen Fukuzawa（福沢 源）
 <br>email：genf_at_iis.u-tokyo.ac.jp
 
-<img src="/images/mem/image13.jpeg" style="width:1.95833in;height:1.95833in"  />
+<img src="/images/mem/okubo2024.jpg" style="width:2.0833in;height:2.30in"  />
 
 M: Ren Okubo（大久保　怜）
 <br>email：ROKUBO_at_iis.u-tokyo.ac.jp
