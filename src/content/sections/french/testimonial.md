@@ -16,5 +16,16 @@ testimonials:
     avatar: ""
     content: "Web pageを更新しました．まだ仮運用中です．ブックマークは<u>[こちら](https://www.edge.iis.u-tokyo.ac.jp)</u>に．"
 
+  - name: "2024, Aug."
+    designation: ""
+    avatar: ""
+    content: "韓国で行われた国際人工知能会議（IJCAI）で学生が発表しました．<u>[こちら](https://twitter.com/nmdl_mizo/status/1833093497697845521)</u>"
+
+  - name: "2024, Sep."
+    designation: ""
+    avatar: ""
+    content: "4090を搭載したGPU機を組み立てて気分転換しました．<u>[こちら](https://twitter.com/nmdl_mizo/status/1833094737982623775)</u>"
+
+
 
 ---

@@ -16,5 +16,15 @@ testimonials:
     avatar: ""
     content: "Web page updated!"
 
+  - name: "2024, Aug."
+    designation: ""
+    avatar: ""
+    content: "A student has a presentation in IJCAI @ Jeju, Korea.<u>[HERE](https://twitter.com/nmdl_mizo/status/1833093497697845521)</u>"
+
+- name: "2024, Sep."
+    designation: ""
+    avatar: ""
+    content: "Our reflesh is making 4090GPU PC!<u>[HERE](https://twitter.com/nmdl_mizo/status/1833094737982623775)</u>"
+
 
 ---

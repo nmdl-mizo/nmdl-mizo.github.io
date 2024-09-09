@@ -172,14 +172,10 @@ draft: false
     *Scientifc Reports,  *11 (2021) 21599-1-12. ** [\[Open Access\]](https://www.nature.com/articles/s41598-021-00595-x#citeas)** ([arxiv](https://arxiv.org/abs/2102.09698))  
     **Our manuscript was selected as “Top 100 in Physics”!!**
 
-39. “First principles study on formation and migration energies of sodium and lithium in graphite”**  
-    I. Takahara** and** T. Mizoguchi**  
+39. “First principles study on formation and migration energies of sodium and lithium in graphite”, **I. Takahara** and** T. Mizoguchi**  
     *Phys. Rev. Mater.* 5 (2021) 085401-1-7. doi:10.1103/PhysRevMaterials.5.085401 [**\[here\]**](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.085401)
 
-40. “Accurate prediction of bonding properties by a machine learning–based model using isolated states before bonding”**  
-    E. Suzuki**, **K. Shibata**, and** T. Mizoguchi  
-    ***Appl. Phys. Exp.* 14 (2021) 085503-1-6 doi: 10.35848/1882-0786/ac083b  **[ \[Open Access\]  
-    ](https://iopscience.iop.org/article/10.35848/1882-0786/ac083b)*\[This paper was selected as “Spotlights 2021 in Applied Physics Express”\]***
+40. “Accurate prediction of bonding properties by a machine learning–based model using isolated states before bonding”**E. Suzuki**, **K. Shibata**, and**T. Mizoguchi**, *Appl. Phys. Exp.* 14 (2021) 085503-1-6 doi: 10.35848/1882-0786/ac083b **[\[Open Access\]](https://iopscience.iop.org/article/10.35848/1882-0786/ac083b)*\[This paper was selected as “Spotlights 2021 in Applied Physics Express”\]***
 
 41. “ピクセル型STEM検出器によるタイコグラフィーの初歩”  
     三石和貴，**中澤克昭，溝口照康**，佐川隆亮，山崎裕一  
@@ -187,7 +183,7 @@ draft: false
 
 42. “Dataset on structure and physical properties of stable diatomic systems based on van der Waals density functional method”  
     **K. Shibata**, **E. Suzuki**, and **T. Mizoguchi**  
-    *Data in Brief*, 36 (2021) 106968.** [\[Open Access\]](https://www.sciencedirect.com/science/article/pii/S2352340921002523)**  
+    *Data in Brief*, 36 (2021) 106968.**[\[Open Access\]](https://www.sciencedirect.com/science/article/pii/S2352340921002523)**  
       
 **—2020—**
 
@@ -196,7 +192,7 @@ draft: false
     *日本化学会情報化学部会誌*, 38 (2020) 16-19
 
 44. “Revealing Spatial Distribution of Al-Coordinated Species in a Phase-Separated Aluminosilicate Glass by STEM-EELS”  
-    **K. Liao**, A. Masuno, A. Taguchi, H. Moriwake, H. Inoue, and** T. Mizoguchi**  
+    **K. Liao**, A. Masuno, A. Taguchi, H. Moriwake, H. Inoue, and **T. Mizoguchi**  
     *J. Phys. Chem. Lett.*, 11 (2020) 9637–9642. [**\[Open Access\]**](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.0c02687)
 
 45. “Quantum Deep Field: Data-Driven Wave Function, Electron Density Generation, and Atomization Energy Prediction and Extrapolation with Machine Learning”  
@@ -204,15 +200,14 @@ draft: false
     *Phys. Rev. Lett.*, 125 (2020) 206401-1-6. [**\[Open Access\]**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.206401)
 
 46. “In situ observation of the dynamics in the middle stage of spinodal decomposition of a silicate glass via scanning transmission electron microscopy”  
-    **K. Nakazawa**,** **S. Amma, and** T.** **Mizoguchi**  
+    **K. Nakazawa**, **S. Amma, and** **T.Mizoguchi**  
     *Acta Mater.* 200 (2020) 720-726. [**\[Open Access\]**](https://www.sciencedirect.com/science/article/pii/S1359645420307308?via%3Dihub)
 
-47. “Radial distribution function from X-ray absorption near edge structure with an artificial neural network”**  
-    S. Kiyohara** and** T. Mizoguchi**  
+47. “Radial distribution function from X-ray absorption near edge structure with an artificial neural network”**S. Kiyohara** and**T. Mizoguchi**  
     *J. Phys. Soc. Jpn (Letter)*, 89 (2020) 103001-1-4. [**\[Open Access\]**](https://journals.jps.jp/doi/full/10.7566/JPSJ.89.103001)
 
 48. “Local thickness and composition measurements from scanning convergent-beam electron diffraction of a binary non-crystalline material obtained by a pixelated detector “  
-    **K. Nakazawa**,** K. Shibata**, K. Mitsuishi, S. Amma, and** T.** **Mizoguchi**  
+    **K. Nakazawa**,**K. Shibata**, K. Mitsuishi, S. Amma, and**T.Mizoguchi**  
     *Ultramicroscopy*, 217 (2020) 113077-1-8 [**\[Open Access\]  
     **](https://www.sciencedirect.com/science/article/pii/S030439912030228X?via%3Dihub)
 
@@ -221,7 +216,7 @@ draft: false
     *J. Alloy and Comp.*, 846 (2020) 156469-1-7 [**\[here\]**](https://www.sciencedirect.com/science/article/pii/S0925838820328334?via%3Dihub)
 
 50. “Learning excited states from ground states by using an artificial neural network”  
-    **S. Kiyohara**,** **M. Tsubaki, and** T.** **Mizoguchi**  
+    **S. Kiyohara**,** **M. Tsubaki, and **T.Mizoguchi**  
     *npj Comp. Mater.*, 6 (2020) 68-1-6 DOI:10.1038/s41524-020-0336-3 [**\[Open Access\]**](https://www.nature.com/articles/s41524-020-0336-3)
 
 51. “Real-Space Mapping of Oxygen Coordination in Phase-Separated Aluminosilicate Glass: Implication for Glass Stability”  
@@ -265,15 +260,15 @@ draft: false
     *セラミックス*, 54 (2019) 456-463.
 
 60. “機械学習を活用した界面構造探索とスペクトル解析”  
-    **清原慎**，**溝口照康  
-    **人工知能，34巻 3号， (2019) 345-350.
+    **清原慎**，**溝口照康**
+    人工知能，34巻 3号， (2019) 345-350.
 
 61. “Machine learning for structure determination and investigating the structure-property relationships of interfaces”  
     **H. Oda, S. Kiyohara and T. Mizoguchi**  
     *J. Phys.: Materials*, 2 (2019) 034005-1-8  \[You can download this manuscript from [***here***](https://iopscience.iop.org/article/10.1088/2515-7639/ab15c8)\]
 
 62. “Quantitative estimation of properties from core-loss spectrum via neural network”  
-    **S. Kiyohara**, M. Tsubaki,** Kunyen Liao**, and** T. Mizoguchi**  
+    **S. Kiyohara**, M. Tsubaki,**Kunyen Liao**, and**T. Mizoguchi**  
     *J. Phys.: Materials*, 2 (2019) 024003-1-9  \[You can download this manuscript from [***here***](https://iopscience.iop.org/article/10.1088/2515-7639/ab0b68)\]
 
 63. “Atomic-scale investigation of the heterogeneous structure and ionic distribution in an ionic liquid using scanning transmission electron microscopy”  
@@ -285,27 +280,27 @@ draft: false
     *J. Phys. Chem. C* 123 (2019) 9688–9692.
 
 65. “走査透過型電子顕微鏡法によるガラス，イオン液体，および気体の構造解析”  
-    **溝口照康**，**宮田智衆**，**清原慎**，**中澤克昭**，**杉森悠貴  
-    ***セラミックス*, 54 (2019) 66-71.
+    **溝口照康**，**宮田智衆**，**清原慎**，**中澤克昭**，**杉森悠貴**  
+    セラミックス*, 54 (2019) 66-71.
 
 66. “機械学習を用いた物質界面構造の高速決定”  
-    **清原慎**，**溝口照康  
-    ***表面と真空*，62 (2019) 130-135.  
+    **清原慎**，**溝口照康**  
+    表面と真空*，62 (2019) 130-135.  
       
       
 **—2018—**
 
 67. “Lattice expansion and local lattice distortion in Nb- and La-doped SrTiO3 single crystals investigated by x-ray diffraction and first-principles calculations”  
-    S. Kobayashi, Y. Ikuhara and **T. Mizoguchi  
-    ***Phys. Rev. B.*, 98 (2018) 134114-1-13
+    S. Kobayashi, Y. Ikuhara and **T. Mizoguchi**  
+    Phys. Rev. B.*, 98 (2018) 134114-1-13
 
 68. “Fast and Accurate Molecular Property Prediction: Learning Atomic Interactions and Potentials with Neural Networks”  
-    M. Tsubaki and **T. Mizoguchi  
-    ***J. Phys. Chem. Lett.*, 9 (2018), 5733-5741. DOI: 10.1021/acs.jpclett.8b01837.  
+    M. Tsubaki and **T. Mizoguchi** 
+    J. Phys. Chem. Lett.*, 9 (2018), 5733-5741. DOI: 10.1021/acs.jpclett.8b01837.  
     \*\*This manuscript has Correction!! \[[HERE](https://pubs.acs.org/doi/10.1021/acs.jpclett.9b00301)\]\*\*
 
 69. “透過型電子顕微鏡を用いたイオン液体の原子分解能観察”**  
-    宮田智衆**，**杉森悠貴**，橋口裕樹，奥西栄治，上杉文彦，**溝口照康**  
+    **宮田智衆**，**杉森悠貴**，橋口裕樹，奥西栄治，上杉文彦，**溝口照康**  
     *化学工業*，69 (2018) 15-22.
 
 70. “シリカ系ガラスの分相構造観察”  
@@ -313,13 +308,13 @@ draft: false
     *NEW Glass*, 33 (2018) 27-32
 
 71. “Data-driven approach for the prediction and interpretation of core-electron loss spectroscopy”**  
-    K. Kiyohara**, **T. Miyata**, K. Tsuda, and **T. Mizoguchi**  
+    **K. Kiyohara**, **T. Miyata**, K. Tsuda, and **T. Mizoguchi**  
     *Scientific Reports*, 8 (2018) 13548-1-12 \[You can download this manuscript from [***here***](https://rdcu.be/5Wfp)\]  
     *This manuscript was selected “top 100 materials science Scientific Reports papers in 2018”!!*
 
 72. “Progress in nanoinformatics and informational materials science”  
-    A. Seko, K. Toyoura, S. Muto, **T. Mizoguchi**, S. Broderick**  
-    ***MRS Bulletin*, 43 (2018) 690-695 DOI:10.1557/mrs.2018.206
+    A. Seko, K. Toyoura, S. Muto, **T. Mizoguchi**, S. Broderick, 
+    MRS Bulletin*, 43 (2018) 690-695 DOI:10.1557/mrs.2018.206
 
 73. “Identifying lithium K edge anisotropy in LiCoO2”  
     J. Kikkawa, **T. Mizoguchi**, T. Nagai, and K. Kimoto  
@@ -337,35 +332,35 @@ draft: false
     E. Tochigi, **T. Mizougchi**, E. Okunishi, A. Nakamura, N. Shibata, and Y. Ikuhara  
     *J. Mater. Sci*., 53 (2018) 8049-8058.
 
-77. “Effective search for stable segregation configurations at grain boundaries with data-mining techniques”**  
-    S. Kiyohara**, and **T. Mizoguchi**  
+77. “Effective search for stable segregation configurations at grain boundaries with data-mining techniques”
+    **S. Kiyohara**, and **T. Mizoguchi**  
     *Physica B*, 532 (2018) 9-14.
 
 78. “Bayesian optimization for efficient determination of metal oxide grain boundary structures**“  
-    S. Kikuchi**, **H. Oda**, **S. Kiyohara**, and **T. Mizoguchi**  
+    **S. Kikuchi**, **H. Oda**, **S. Kiyohara**, and **T. Mizoguchi**  
     *Physica B*, 532 (2018) 24-28.
 
 79. “High-resolution mapping of molecules in an ionic liquid via scanning transmission electron microscopy”**  
-    T. Miyata **and **T. Mizoguchi**  
+    **T. Miyata **and **T. Mizoguchi**  
     *Microscopy*, 67 (2018) i162–i167 doi.org/10.1093/jmicro/dfx119 \[You can download this manuscript from [***here***](https://academic.oup.com/jmicro/advance-article/doi/10.1093/jmicro/dfx119/4669822?guestAccessKey=66004833-0709-4d66-a770-11b1cacb234c).\]  
       
       
 **—2017—**
 
 80. “Real-space analysis of diffusion behavior and activation energy of individual monatomic ions in a liquid”  
-    **T. Miyata**, F. Uesugi, and **T. Mizoguchi  
+    **T. Miyata**, F. Uesugi, and **T. Mizoguchi**  
     ** *Science Advances*, 3 (2017)  e1701546-1-5. \[You can download this manuscript from [***here***](http://advances.sciencemag.org/content/3/12/e1701546).\]
 
 81. “Estimation of the molecular vibration of gases using electron microscopy”**  
-    H. Katsukura**,** T. Miyata**, M. Shirai, H. Matsumoto, and **T. Mizoguchi**  
+    **H. Katsukura**,**T. Miyata**, M. Shirai, H. Matsumoto, and **T. Mizoguchi**  
     *Scientific Reports*, 7 (2017), 16434-1-9.  \[You can download this manuscript from [***here***](https://www.nature.com/articles/s41598-017-16423-0).\]
 
 82. “Transfer Learning to Accelerate Interface Structure Searches”  
-    **H. Oda, S. Kiyohara**, K. Tsuda, and** T. Mizoguchi**  
+    **H. Oda, S. Kiyohara**, K. Tsuda, and**T. Mizoguchi**  
     *J. Phys. Soc. Jpn (Letter)*, 86 (2017)  123601-1-4. *\[You can download this manuscript from [**here**](http://journals.jps.jp/doi/10.7566/JPSJ.86.123601).\]*
 
 83. “Basics and Applications of ELNES calculation” **(Invited Review)**  
-    H. Ikeno and** T. Mizoguchi**  
+    H. Ikeno and**T. Mizoguchi**  
     *Microscopy*, 66 (2017) 305–327. *\[You can get this manuscript from [**here**](https://academic.oup.com/jmicro/article/doi/10.1093/jmicro/dfx033/4110334/Basics-and-applications-of-ELNES-calculations?guestAccessKey=63e6a550-36a3-4d2a-8833-c7dbdd6692f0).\]*
 
 84. “Excitonic, vibrational, and van der Waals interactions in electron energy loss spectroscopy” **(Invited Manuscript)**  
@@ -373,15 +368,15 @@ draft: false
     *Ultramicroscopy*, 180 (2017) 93-103. dx.doi.org/10.1016/j.ultramic.2017.03.003
 
 85. “Fabrication of Thin TEM Sample of Ionic Liquid for High-Resolution ELNES Measurements”**  
-    T. Miyata** and **T. Mizoguchi  
-    ***Ultramicroscopy*, 178 (2017) 81-87.  doi:10.1016/j.ultramic.2016.10.009
+    **T. Miyata** and **T. Mizoguchi**  
+    *Ultramicroscopy*, 178 (2017) 81-87.  doi:10.1016/j.ultramic.2016.10.009
 
 86. “Effect of van der Waals interaction on the electron energy-loss near edge structure theoretical calculation”  
-    **H. Katsukura**, **T. Miyata**, **K. Tomita**, and **T. Mizoguchi  
-    ***Ultramicroscopy*, 178 (2017) 88-95. doi:10.1016/j.ultramic.2016.07.012
+    **H. Katsukura**, **T. Miyata**, **K. Tomita**, and **T. Mizoguchi**  
+    *Ultramicroscopy*, 178 (2017) 88-95. doi:10.1016/j.ultramic.2016.07.012
 
 87. “Strong excitonic interactions in the oxygen K-edge of perovskite oxides”  
-    **K. Tomita**,** T. Miyata**, W. Olovsson, and **T. Mizoguchi**  
+    **K. Tomita**,**T. Miyata**, W. Olovsson, and **T. Mizoguchi**  
     *Ultramicroscopy*, 178 (2017) 105-111. DOI:10.1016/j.ultramic.2016.04.006i   
       
  **—2016—**
@@ -390,8 +385,8 @@ draft: false
     **S. Kiyohara**, **H. Oda**, **T. Miyata**, and **T. Mizoguchi**  
     *Science Adv.*, 2 (2016) e1600746-1-7 . doi:10.1126/sciadv.1600746 \[You can download this manuscript from [***here***](https://advances.sciencemag.org/content/2/11/e1600746/tab-pdf).\]
 
-89. “A valence state evaluation of a positive electrode material in a Li-ion battery with first-principles K- and L-edge XANES spectral simulations and resonance photoelectron spectroscopy”**  
-    K. Kubobuchi**, **M. Mogi**, M. Matsumoto, T. Baba, C. Sato, T. Yamamoto, **T. Mizoguchi**, H. Imai  
+89. “A valence state evaluation of a positive electrode material in a Li-ion battery with first-principles K- and L-edge XANES spectral simulations and resonance photoelectron spectroscopy”,
+    **K. Kubobuchi**, **M. Mogi**, M. Matsumoto, T. Baba, C. Sato, T. Yamamoto, **T. Mizoguchi**, H. Imai  
     *J. Appl. Phys.,* 120 (2016) 142125-1-13; doi: 10.1063/1.4963379.
 
 90. “Experimental system combined with a micromachine and double-tilt TEM holder”  
@@ -399,28 +394,28 @@ draft: false
     *Microelectronic Engineering*, 164 (2016) 43-47. doi:10.1016/j.mee.2016.06.018
 
 91. “Effect of van der Waals interactions on the stability of SiC polytypes”  
-    **S. Kawanishi** and **T. Mizoguchi  
-    ***J. Appl. Phys.* 119 (2016) 175101-1-4. doi:10.1063/1.4948329
+    **S. Kawanishi** and **T. Mizoguchi**  
+    *J. Appl. Phys.* 119 (2016) 175101-1-4. doi:10.1063/1.4948329
 
 92. “Core–Excitonic Interaction in Sodium L2,3 Edge Structure Investigated Using the Bethe-Salpeter Equation”  
-    **K. Tomita**, **T. Miyata**, W. Olovsson, and **T. Mizoguchi  
-    ***J. Phys. Chem. C*, 120 (2016) 9036-9042. DOI: 10.1021/acs.jpcc.5b12389 
+    **K. Tomita**, **T. Miyata**, W. Olovsson, and **T. Mizoguchi**  
+    *J. Phys. Chem. C*, 120 (2016) 9036-9042. DOI: 10.1021/acs.jpcc.5b12389 
 
 93. ” COMBO: An Efficient Bayesian Optimization Library for Materials Science”  
     T. Ueno, T. D. Rhone, Z. Hou, **T. Mizoguchi**, K. Tsuda  
     *Materials Discovery*, 4 (2016) 18-21.
 
 94. “Acceleration of stable interface structure searching using a kriging approach”  
-    **S. Kiyohara**, **H. Oda**, K. Tsuda, and **T. Mizoguchi  
-    ***Jpn. J. Appl. Phys.*, 55 (2016) 045502-1-4.
+    **S. Kiyohara**, **H. Oda**, K. Tsuda, and **T. Mizoguchi**  
+    *Jpn. J. Appl. Phys.*, 55 (2016) 045502-1-4.
 
 95. “Characterization of Vanadium in Oil Sands Fluid Petroleum Coke”  
-    **J. E Zuliani**,** T. Miyata**,** T. Mizoguchi**, J. Feng, D. W Kirk, and C. Jia  
+    **J. E Zuliani**,**T. Miyata**,**T. Mizoguchi**, J. Feng, D. W Kirk, and C. Jia  
     *Fuel*, 178 (2016) 124-128.
 
 96. “First principles calculation of oxygen K edge absorption spectrum of acetic acid: Relationship between the spectrum and molecular dynamics”  
-    **Y. Matsui** and **T. Mizoguchi  
-    ***Chem. Phys. Lett.*, 649 (2016) 92-96. 
+    **Y. Matsui** and **T. Mizoguchi**  
+    *Chem. Phys. Lett.*, 649 (2016) 92-96. 
 
 97. “Atomic Structure Characterization of Stacking Faults on the {1-100} Plane in α-Alumina by Scanning Transmission Electron Microscopy”  
     E. Tochigi, S. D. Findlay, E. Okunishi, **T. Mizoguchi,** A. Nakamura, N. Shibata, and Y. Ikuhara  
@@ -437,7 +432,7 @@ draft: false
     *Sci. Rep.*, 5 (2015) 15233-1-8.
 
 100. “A new LiNbO3-type polar oxides with closed-shell cations: ZnPbO3”  
-     R. Yu, H. Hojo,** T. Mizoguchi** and M. Azuma  
+     R. Yu, H. Hojo,**T. Mizoguchi** and M. Azuma  
      *J. Appl. Phys.*, 118 (2015) 094103-1-5
 
 101. “Copper accumulation in the sequestrum of medication-related osteonecrosis of the jaw”  
@@ -464,7 +459,7 @@ draft: false
      **—2014—**
 
 106. “Importance of Fermi energy for understanding the intermixing behavior at the LaAlO3/SrTiO3 heterointerface”**  
-     T. Yamamoto** and **T. Mizoguchi**  
+     **T. Yamamoto** and **T. Mizoguchi**  
      *Appl. Phys. Lett.*,105 (2014) 201604-1-4. (DOI: 10.1063/1.4902314)
 
 107. “Measurement of vibrational spectrum of liquid using monochromated scanning transmission electron microscopy-electron energy loss spectroscopy”   
@@ -499,8 +494,7 @@ draft: false
      **K. Kubobuchi**, H. Ikeno, M. Mogi, I. Tanaka, H. Imai, and **T. Mizoguchi**  
      *Appl. Phys. Lett.*, 104 (2014) 053906-1-4.   
        
-     **  
-     —-2013—-**
+     **—-2013—-**
 
 115. ” High pressure infrared and X-ray Raman studies of aluminum nitride”   
      M. Pravica, N. Bhattacharya, Y. Liu, J. Robinson, WS Au, **T. Mizoguchi**, Z. liu, Y. Xao  
@@ -546,8 +540,7 @@ draft: false
      **T. Yamamoto** and **T. Mizoguchi**   
      *Ceram. Inter.*, 39(2013)S287–S292.   
        
-     **  
-     –2012–**
+     **–2012–**
 
 126. “Removing the effects of elastic and thermal scattering from electron energy-loss spectroscopic data”   
      N. R. Lugg, M. Haruta, M. J. Neish, S. D. Findlay, **T. Mizoguchi**, K. Kimoto, and L. J. Allen,   
@@ -589,8 +582,7 @@ draft: false
      **T. Mizoguchi**, K. Matsunaga, E. Tochigi, Y. Ikuhara  
      *Micron*, 43 (2012) 37–42.   
        
-     **  
-     –2011–**
+     **–2011–**
 
 136. “Ab-initio multiplet calculation of oxygen vacancy effect on Ti-L2,3 electron energy loss near edge structures of BaTiO3”   
      **S. Ootsuki**, H. Ikeno, Y. Umeda, H. Moriwake, A. Kuwabara, O. Kido, S. Ueda, I. Tanaka, Y. Fujikawa, and **T. Mizoguchi**  
@@ -672,9 +664,7 @@ draft: false
      T. Nakagawa, A. Nakamura, I. Sakaguchi, N. Shibata, **T. Mizoguchi**, T. Yamamoto, H. Haneda, N. Ohashi, Y. Ikuhara  
      *Acta Materialia 59 (2011) 1105-1111  
        
-     ***  
-     –2010–***  
-     *
+     **–2010–**  
 
 156. “Quantitative analyses of oxidation states for cubic SrMnO3 and orthorhombic SrMnO2.5 with electron energy loss spectroscopy”   
      S. Kobayashi, Y. Tokuda, **T. Mizoguchi**, N. Shibata, Y. Sato, Y. Ikuhara and T. Yamamoto   
@@ -690,11 +680,11 @@ draft: false
 
 159. “Origins of Hole Doping and Relevant Optoelectronic Properties of Wide Gap p-Type Semiconductor, LaCuOSe”  
      H. Hiramatsu, T. Kamiya, T. Tohei, E. Ikenaga, **T. Mizoguchi**, Yuichi Ikuhara, K. Kobayashi, and H. Hosono  
-     *J. Am. Chem. Soc., 132 (2010), 15060–15067 *
+     *J. Am. Chem. Soc., 132 (2010), 15060–15067*
 
 160. “Theoretical ELNES: one particle and many particle calculations”**(Invited Review)**  
      **T. Mizoguchi**, W. Olovsson, H. Ikeno, and I. Tanaka  
-     *Micron 41 (2010) 695–709 *
+     *Micron 41 (2010) 695–709*
 
 161. “First-principles calculations of Zn-K XANES in Ca-deficient hydroxyapatite”   
      ”’ H. Murata, K. Shitara, I. Tanaka, A. Nakahira, **T. Mizoguchi**, and K. Matsunaga  
@@ -702,11 +692,11 @@ draft: false
 
 162. “Interface atomic structure of LaCuOSe:Mg epitaxial thin film and MgO substrate”  
      T. Tohei, **T. Mizoguchi**, H. Hiramatsu, H. Hosono, and Y. Ikuhara  
-     *Mater. Sci. Eng. B. 173 (2010) 229-233 *
+     *Mater. Sci. Eng. B. 173 (2010) 229-233*
 
 163. “Electrical current flow at conductive nanowires formed in GaN thin films by a dislocation template technique”   
      S. Amma, Y. Tokumoto, K. Edagawa, N. Shibata, **T. Mizoguchi**, T. Yamamoto, and Y. Ikuhara  
-     *App.Phy.Lett.96(2010)193109-1-3 *
+     *App.Phy.Lett.96(2010)193109-1-3*
 
 164. “HAADF-STEM observations of a S13 grain boundary in a-Al2O3 from two orthogonal directions”  
      S. Azuma, N. Shibata, S. D. Findlay, **T. Mizoguchi**, T. Yamamoto, and Y. Ikuhara  
@@ -722,11 +712,10 @@ draft: false
 
 167. “Dissociation Structures of Dislocation and {1-100} Stacking faults of Alumina (a-Al2O3)”  
      E. Tochigi, N. Shibata, A. Nakamura, **T. Mizoguchi**, T. Yamamoto, and Y. Ikuhara  
-     *Act. Mater., (2010) 208-215.  
+     *Act. Mater., (2010) 208-215*.  
        
        
      **–2009–**  
-     *
 
 168. “Fabrication of electrically conductive nanowires using high-density dislocations in AlN thin films”  
      Y. Tokumoto, S. Amma, N. Shibata, **T. Mizoguchi**, T. Yamamoto, Y. Ikuhara  
