@@ -26,6 +26,11 @@ testimonials:
     avatar: ""
     content: "4090を搭載したGPU機を組み立てて気分転換しました．<u>[こちら](https://twitter.com/nmdl_mizo/status/1833094737982623775)</u>"
 
+  - name: "2024, Sep."
+    designation: ""
+    avatar: ""
+    content: "顕微鏡誌に機械学習を用いたEELS解析に関する解説が掲載されました"
+
 
 
 ---

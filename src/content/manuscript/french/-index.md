@@ -21,6 +21,10 @@ draft: false
 
 **— 2024 —**
 
+4. 「ELNESの理論計算と機械学習」  
+    **柴田基洋**，**溝口照康**  
+    顕微鏡，Vol.59, No.2，74-81.
+
 4.  “Toward the Atomic-Level Analysis of Ground-State Electronic Structures of Solid Materials via Prediction from Core-Loss Spectra: A Computational Study in Si”  
     **I. Takahara**, F. Uesugi, K. Kimoto, **K. Shibata**, and **T. Mizoguchi**  
     *The Journal of Physical Chemistry C*, 128 (2024), 13500-13507. \[[**here**](https://pubs.acs.org/doi/10.1021/acs.jpcc.4c02818)\]
