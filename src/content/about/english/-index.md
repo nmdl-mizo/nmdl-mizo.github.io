@@ -6,7 +6,7 @@ image: "/images/content-1.png"
 draft: false
 ---
 
-##### Our Research Objective = “Paving the way for Materials Desing through a deep understanding of chemical bonding ”
+##### Our Research Objective = “Paving the way for Materials Design through a deep understanding of chemical bonding ”
 
 <p align="left">Enormous time and effort have been devoted to material development. However, as society continues to change dynamically and rapidly, more accurate and swift material development is now required than ever before. If we can realize material design by understanding the correlation between atomic/electronic structures and functional expression, we can significantly accelerate material development. To achieve such material design, it is essential to elucidate the atomic and electronic structures in the local regions responsible for functional expression, and further understand the mechanisms and laws governing functional expression from the obtained results. The Mizoguchi Laboratory aims to achieve 'Material Design Realization' through research using first-principles calculations, informatics methods, and atomic-resolution measurements (STEM-EELS). <br> The Mizoguchi Laboratory is engaged in the following research themes:
 

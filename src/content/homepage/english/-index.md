@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: ""
-  content: "<h2>Nano-materials desing laboratory <br> The University of Tokyo</h>"
+  content: "<h2>Nano-materials design laboratory <br> The University of Tokyo</h>"
   image: "/images/head2e.jpg"
   button:
     enable: false
