@@ -7,45 +7,45 @@ draft: false
 ---
 <center>
 
-###### To everyone who aims to go on to graduate school, obtain Ph.D, or become an independent researcher
+###### 大学院進学，博士取得，研究者としての自立を目指す皆様へ
 
-###### Our laboratory is recruiting graduate students and JSPS researchers.
-(May 2024. Added content regarding doctoral admission)
+###### 当研究室では大学院生およびJSPS特別研究員を募集しております  
+(2024.5.博士進学に関する内容を追記)
 </center>
 
 ----
-**◆ Research purpose: "Reveal the structure-function relationship of materials to realize materials design"**
+**◆ 研究目的：「物質の構造機能相関を解明し物質設計を実現する」**
 
-Materials design is possible if we can clarify the ``atomic and electronic structure'' that primarily determines the properties of materials, and furthermore understand the ``correlation between structure and function.''
+物質の特性を主に決定する「原子と電子の構造」を明らかにし，さらに「構造と機能の相関性」を理解することができれば，物質設計は実現可能です．  
+　これまで物質開発には膨大な時間と労力が費やされてきました．しかし，持続可能なカーボンニュートラル社会を達成するためには，これまで以上に正確で迅速な物質開発が不可欠です．当研究室では第一原理計算，原子分解能電子顕微鏡法，分光法，および機械学習を複合利用することにより，物質の構造と機能との相関性，つまり**構造機能相関を解明**することで **『物質設計』の実現**を目指しています．
 
-Until now, material development has required a huge amount of time and effort. However, to achieve a sustainable carbon-neutral society, more accurate and rapid material development is essential than ever before. In our laboratory, we aim to realize **material design** by elucidating the correlation between the structure and function of materials, that is, **structure-function correlation**, through a combination of first-principles calculations, atomic resolution electron microscopy, spectroscopy, and machine learning.
+　具体的には量子材料や触媒，エネルギー材料，セラミックスなどの先進機能物質をこれまで研究対象としてきましたが，当研究室では第一原理計算，原子分解能計測，機械学習を研究手法として使用しているため，いかなる物質系も研究対象とすることが出来ます．新規超伝導体やイオン伝導帯の探索，ペロブスカイト太陽電池材料や高分子材料，バイオマテリアルの材料設計，さらに原子分解能気体液体解析や，量子技術への挑戦など，**個々の好奇心を尊重して研究を行っています**．
 
-Specifically, we have been researching advanced functional materials such as quantum materials, catalysts, energy materials, and ceramics, but since we use first-principles calculations, atomic resolution measurements, and machine learning as research methods, we can research any material system. We respect each individual's curiosity and conduct research, such as searching for new superconductors and ionic conduction bands, designing perovskite solar cell materials, polymer materials, and biomaterials, as well as atomic resolution gas-liquid analysis and the challenge of quantum technology.
+**◆ 指導方針：「科学史に名を残す＝国際科学雑誌に筆頭著者として論文執筆」**
 
-**◆ Our policy: "Leave your name in the science history = write a manuscript as the first author"**
+　当研究室は付置研究所にあるため学部に属しておらず，工学系研究科マテリアル工学専攻所属の大学院生のみで構成されています．そのため当研究室に所属している学生は，大学院進学に伴って大学や研究室を移って来ております．研究室に配属された後，まず量子化学や結晶学について基礎から学び，プログラミングや理論計算，電子顕微鏡の使い方を覚えます．その後研究を通して，研究者に不可欠なプレゼンテーションや論文執筆，ディスカッションのスキルを習得していきます．
 
-Since our laboratory is located at an affiliated research institute, it does not belong to a faculty and is composed only of graduate students in the Department of Materials Engineering, Graduate School of Engineering. Therefore, students in our laboratory have to be moved from other universities and groups when they advance to the graduate school. After joining, the students will first learn the basics of quantum chemistry and crystallography, and then learn how to program, perform theoretical calculations, machine learning, and use an electron microscope. After that, through research, they will acquire presentation, paper writing, and discussion skills that are essential for researchers.
+　研究室や大学を移ることは大変なことですが，それ以上に得るものもたくさんあります．これまでに在籍した学生はすべて国内学会や国際学会で発表するとともに，科学史に残るような学術論文の筆頭著者になっております．良い成果がでれば，その成果でプレスリリースの後，新聞やwebに載ったり，学会で賞をもらったり，講演会に招待される学生もおります．**溝口研究室は学生が主体となり成長，活躍する研究室です**．
 
-Although it is difficult to change laboratories or universities, there are many benefits to doing so. All students who have been enrolled to date have presented at domestic and international conferences, and become lead authors of academic papers that will go down in science history. If they achieve good results, they will be featured in newspapers and on the web after a press release, and some students will receive awards at academic conferences and be invited to lectures. **The Mizoguchi research group is a laboratory where the students grow and thrive**.
+　　原子と電子の視点からの深い物質理解をとおして，今後の**物質科学を牽引する人材の育成を溝口研究室は目指しています．**
 
-Through a deep understanding of materials from the perspective of atoms and electrons, the Mizoguchi Laboratory aims to develop talent that will lead the future of materials science.
+**◆ 当研究室では大学院生＆JSPS特別研究員を募集しております！**
 
-**◆ We are recruiting graduate students and JSPS special researchers!**
+　当研究室の学生は大学院入学後から新たな研究テーマをスタートし，限られた期間の中でも科学史に名を残す研究成果を多数あげています．プログラミングや理論計算，電子顕微鏡の知識を事前に持っている必要はありません．これまで所属した学生のほぼ全員が，そのような知識をもたずに研究をスタートし，研究を進める中で習得していきました．重要なことは**原子と電子に興味がある**ことです．溝口研究室では**原子と電子が好きな学生**を広く募集しております．  
+　また，当研究室を受け入れ先とする[**JSPS特別研究員のPD・RPD申請**](https://www.jsps.go.jp/j-pd/)も歓迎します．JSPS PD・RPD特別研究員は独立して自由な研究ができる貴重な機会です．新しい知識やスキルを身につけ，独立した研究者として成長するための場として当研究室をご活用ください．
 
-Students in our laboratory start new research themes after entering graduate school, and even in a limited period of time, they have produced many research results that will go down in science history. It is not necessary to have prior knowledge of programming, theoretical calculations, or electron microscopes. Almost all of the students who have belonged to us so far started their research without such knowledge and acquired it as they progressed with their research. The important thing is to be interested in atoms and electrons. The Mizoguchi Laboratory is looking for students who love atoms and electrons. We also welcome JSPS Research Fellowship PD/RPD applications (https://www.jsps.go.jp/j-pd/) to be accepted by our laboratory. The JSPS PD/RPD Research Fellowship is a valuable opportunity to conduct independent and free research. Please use our laboratory as a place to acquire new knowledge and skills and grow as an independent researcher. 
+**◆ 博士進学のススメ (2024.5.追記)**
 
-**◆Recommendation for doctoral studies (Added May 2024)** 
+　昨今の社会情勢の変化を鑑み，最近は博士課程への進学をおすすめしています．当研究室での研究を通じて得られるのは，シミュレーションや計測，機械学習に関する高度なスキル，物質の現象を原子・電子レベルで理解するための深い知識だけではありません．様々な課題に対する論理的なアプローチ法や，まだ顕在化していない未然課題を発見するための鋭い洞察力を養うことができます．博士課程では自分の研究に対する深い探求心を持ちつつ，独自の課題を見つけ出し，さらに解決に向けた新たな道を切り開く「力」を養うことができます．
 
-In light of recent changes in social conditions, we have recently been recommending that students continue on to a doctoral course. Through research in our laboratory, you will not only gain advanced skills in simulation, measurement, and machine learning, but also deep knowledge to understand material phenomena at the atomic and electronic levels. You will also develop logical approaches to various problems and sharp insight to discover problems that have not yet been identified. In the doctoral program, students can develop the ability to find unique problems and open up new paths to solving them while maintaining a deep inquisitive mind about their own research.
+　博士課程で習得できるそのような能力はいかなる分野においても非常に有用であり，アカデミックな研究の場に限らず，民間企業やベンチャーでも求められております．近年では民間企業の方の博士取得に関する相談も増えてきました．また，昨今では博士学生のライフスタイルも大きく変化しています．当研究室の博士学生はJSPSやJST，東京大学からサポート（財政的支援など）を受けております．特に東京大学では **<u>博士課程への進学を予定している修士学生にも同様な支援</u>** が行われております．また，当研究室でも学生が研究活動に専念し，能力を養うために必要な支援を独自に提供しております．
 
-Such abilities can be acquired in the doctoral program and are extremely useful in any field, and are required not only in academic research but also in private companies and ventures. In recent years, we have seen an increase in consultations from private companies about obtaining a doctorate. The lifestyles of doctoral students have also changed significantly in recent years. Doctoral students in our laboratory receive support (financial support, etc.) from JSPS, JST, and the University of Tokyo. In particular, the University of Tokyo provides similar support to master's students who plan to proceed to a doctoral program. In addition, our laboratory also provides its own support necessary for students to concentrate on research activities and develop their skills.
+　当研究室ではこれまで約4割以上の学生が博士課程に進学しており，進学相談件数は近年増加傾向にあります．博士課程を修了した当研究室の卒業生は，大学や研究所，民間企業など様々な場で活躍しています．進学に対する不安や疑問があれば，溝口までご相談ください．研究室の学生は大学院入学後から新たな研究テーマをスタートし，限られた期間の中でも「力」を養い，科学史に名を残す研究成果を多数あげています．
 
-To date, more than 40% of students in our laboratory have proceeded to doctoral programs, and the number of consultations about entering a doctoral program has been increasing in recent years. Graduates of our laboratory who have completed their doctoral programs are active in a variety of fields, including universities, research institutes, and private companies. If you have any concerns or questions about entering a doctoral program, please contact Mizoguchi. Students in the laboratory start new research themes after entering graduate school, and even in a limited time, they develop their "power" and produce many research results that will go down in science history.
+**◆ 溝口研究室に参加するためには**
 
-**◆ How to join the Mizoguchi Laboratory**
-
-This laboratory belongs to the Department of Materials Engineering, Graduate School of Engineering, The University of Tokyo. If you wish to join our laboratory as a graduate student, please take the graduate school entrance exam. For details, please refer to the Department of Materials Engineering's [**Entrance Examination Information Homepage**](https://www.material.t.u-tokyo.ac.jp/e/prospective_students/briefing/).
+　当研究室は[**東京大学大学院工学系研究科マテリアル工学専攻**](https://www.material.t.u-tokyo.ac.jp/faculty/graduate/)に所属しております．当研究室へ大学院生として参加希望の方は，大学院入試を受験してください．詳細はマテリアル工学専攻の[**入試情報のホームページ**](https://www.material.t.u-tokyo.ac.jp/prospective_students/)をご参照ください．
 
 <p align="right">
-Mizoguchi Teruyasu 2024. May
+溝口照康　2024. May
 </p>

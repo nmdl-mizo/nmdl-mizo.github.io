@@ -9,7 +9,7 @@ draft: false
     Award of the Outstanding Papers and Reviews Published in the JCerSJ, 2024年6月
 
 2.  **溝口照康**  
-    日本セラミックス協会学術賞2024年6月
+    日本セラミックス協会, 学術賞2024年6月
 
 3.  **西尾健人**  
     マテリアル工学優秀修士論文賞2024年3月
@@ -33,20 +33,20 @@ draft: false
     The Editor-in-Chief Award of Distinguished Reviewer  
     日本セラミックス協会， 2021年4月6日
 
-10. **菊政翔  
-    **工学研究科長賞（研究）  
+10. **菊政翔**  
+    工学研究科長賞（研究）  
     東京大学大学院工学系研究科， 2021年3月
 
 11. **溝口照康  
     **オンライン授業・ハイブリッド授業グッドプラクティス総長表彰  
     東京大学， 2021年3月22日
 
-12. **Kakeru Kikumasa**，Shin Kiyohara, Kiyou Shibata, Teruyasu Mizgouchi**  
-    **“Quantitative property prediction of organic molecules from ELNES via artificial neural network”  
+12. **Kakeru Kikumasa**，Shin Kiyohara, Kiyou Shibata, Teruyasu Mizgouchi  
+    “Quantitative property prediction of organic molecules from ELNES via artificial neural network”  
     Microscopy and Microanalysis （米国顕微鏡学会）Student Scholar Award 受賞, 2020年8月
 
-13. **清原慎  
-    **工学研究科長賞（研究）  
+13. **清原慎**  
+    工学研究科長賞（研究）  
     東京大学大学院工学系研究科， 2020年3月
 
 14. **柴田基洋**  
@@ -113,8 +113,8 @@ draft: false
     Best Presentation Award  
     IIS PhD student live, 2016年7月
 
-30. **溝口照康，Gustavo Rosales, 増野敦信，井上博之  
-    **学術写真賞  
+30. **溝口照康**，Gustavo Rosales, 増野敦信，井上博之  
+    学術写真賞  
     日本セラミックス協会 優秀賞,2016年3月
 
 31. **S. Kiyohara **and **T. Mizoguchi**  

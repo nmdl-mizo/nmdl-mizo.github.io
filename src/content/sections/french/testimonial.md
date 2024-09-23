@@ -31,6 +31,22 @@ testimonials:
     avatar: ""
     content: "顕微鏡誌に機械学習を用いたEELS解析に関する解説が掲載されました"
 
+  - name: "2024, Sep."
+    designation: ""
+    avatar: ""
+    content: "新潟で行われた応用物理学会秋季大会で研究員およびスタッフが発表しました"
+
+  - name: "2024, Sep."
+    designation: ""
+    avatar: ""
+    content: "大阪で行われた日本金属学会秋季大会で学生および研究員が発表しました"
+
+  - name: "2024, Sep."
+    designation: ""
+    avatar: ""
+    content: "化学構造文字列（SMILES）を用いた電子構造及びELNES予測に関する東北大学および防衛大学との研究成果がMicronに掲載決定しました"
+  
+
 
 
 ---

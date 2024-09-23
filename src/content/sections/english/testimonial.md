@@ -21,10 +21,14 @@ testimonials:
     avatar: ""
     content: "A student has a presentation in IJCAI @ Jeju, Korea.<u>[HERE](https://twitter.com/nmdl_mizo/status/1833093497697845521)</u>"
 
-- name: "2024, Sep."
+  - name: "2024, Sep."
     designation: ""
     avatar: ""
     content: "Our reflesh is making 4090GPU PC!<u>[HERE](https://twitter.com/nmdl_mizo/status/1833094737982623775)</u>"
 
+  - name: "2024, Sep."
+    designation: ""
+    avatar: ""
+    content: "Our research on the prediction of electronic structures and ELNES from SMILES via machine learning has been accepted for publication in Micron"
 
 ---

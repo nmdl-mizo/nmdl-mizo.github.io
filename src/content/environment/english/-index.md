@@ -5,23 +5,23 @@ description: "Our environment"
 image: "/images/environment.png"
 draft: false
 ---
-##### Research Environments 
+##### Research Environments / 研究環境
 <img src="/images/environment/image1.png" style="width:2.13889in;height:1.848in"  /> 
 <img src="/images/environment/image2.png" style="width:2.17361in;height:1.84902in" />
 <p align = "center">
-Private space & meeting space
+各自のスペース & ミーティングスペース
 </p>
 
 <img src="/images/environment/image3.png" style="width:2.15117in;height:1.36528in" />
 <img src="/images/environment/image4.png" style="width:2.61806in;height:1.25667in" />
 <p align = "center">
-Text book for knowledge and whiteboard for discussion
+固体物理，量子化学，機械学習，ナノ計測など共用教科書 & 議論用ホワイトボードを多数設置
 </p>
 
 ---
 <br>
 
-##### Research Equipments 
+##### Research Equipments / 研究設備
 
 ###### PC Cluster and Supercomputer
 
@@ -79,13 +79,13 @@ Text book for knowledge and whiteboard for discussion
 
 <img src="/images/environment/image10.png" style="width:3.27019in;height:0.66181in"/>
 
-Komaba Analysis Core 
+Komaba Analysis Core / [東京大学・生産技術研究所・駒場分析コア](https://sites.google.com/g.ecc.u-tokyo.ac.jp/iis-materials-core)
 
 <img src="/images/environment/image11.png" style="width:3.4in;height:0.60012in" />
 
-ARIM 
+ARIM / [マテリアル先端リサーチインフラ](https://nanonet.mext.go.jp/)
 
-We are using [Komaba analysis core](https://sites.google.com/g.ecc.u-tokyo.ac.jp/iis-materials-core), [ARIM](https://nanonet.mext.go.jp/), and other user facilities.
+ナノ物質設計工学研究室では主に<u>[駒場分析コア](https://sites.google.com/g.ecc.u-tokyo.ac.jp/iis-materials-core) </u>および<u>[ARIM](https://nanonet.mext.go.jp/)</u>等の共同利用設備を活用して実験を行っております
 
 ---
 <br>
