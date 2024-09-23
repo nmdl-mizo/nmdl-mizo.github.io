@@ -18,7 +18,7 @@ draft: false
 
 **— 2024 —**
 
-2.  "Predicting ELNES/XANES spectra by Machine Learning with Atomic Coordinate-independent Descriptor and Further application to ground state electronic structure"
+2.  "Predicting ELNES/XANES spectra by Machine Learning with Atomic Coordinate-independent Descriptor and Further application to ground state electronic structure"<br>
     **PY Chen**, **K. Shibata**, K. Hagita, T. Miyata, and **T. Mizoguchi**  
     ***Micron***, accepted.
 

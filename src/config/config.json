@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Mizoguchi Resarch Group",
-    "base_url": "https://tmizoguchim.netlify.app",
+    "base_url": "https://nmdl-mizo.github.io/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
