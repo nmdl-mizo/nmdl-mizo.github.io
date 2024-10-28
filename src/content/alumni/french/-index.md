@@ -6,6 +6,13 @@ image: "/images/content-2.png"
 draft: false
 ---
 
+##### 2024
+
+<img src="/images/alumni/image6.jpeg" style="width:1.80208in;height:2.30499in" />
+
+**Researcher: Tasuku Sugiura（杉浦 佑）**
+<br>
+
 ##### 2023
 
 <img src="/images/alumni/image1.jpeg" style="width:1.80208in;height:2.30499in" />

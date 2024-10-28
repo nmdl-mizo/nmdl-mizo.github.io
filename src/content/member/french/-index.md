@@ -35,11 +35,6 @@ Administrative staff, Kyoko Miyamoto（秘書・宮本 京子）
 Takumi Nakano（仲野 匠）
 <br>email：ntakumi_at_iis.u-tokyo.ac.jp
 
-<img src="/images/mem/image6.jpeg" style="width:1.61667in;height:2.08333in" />
-
-Tasuku Sugiura（杉浦　佑）
-<br>email：tsugiura_at_iis.u-tokyo.ac.jp
-
 <img src="/images/mem/sangjun.jpg" style="width:1.61292in;height:2.07292in" />
 
 Sangjun Lee, Ph. D
@@ -61,6 +56,16 @@ D: Poyen Chen
 
 [D: Izumi Takahara](https://izumitkh.github.io/)（[高原 泉](https://izumitkh.github.io/)）
 <br>email：KOUGEN_at_iis.u-tokyo.ac.jp
+
+<img src="/images/mem/fujikata.jpg" style="width:1.56667in;height:2.08333in" />
+
+D: Yu Fujikata (藤方　悠)
+<br>email：fujikata_at_iis.u-tokyo.ac.jp
+
+<img src="/images/mem/lowis.jpg" style="width:1.56667in;height:2.08333in" />
+
+D: Lowis Wong 
+<br>email：lwong_at_iis.u-tokyo.ac.jp
 
 <img src="/images/mem/image11.png" style="width:1.61667in;height:2.08333in" />
 

@@ -41,10 +41,20 @@ testimonials:
     avatar: ""
     content: "大阪で行われた日本金属学会秋季大会で学生および研究員が発表しました"
 
-  - name: "2024, Sep."
+  - name: "2024, Oct."
     designation: ""
     avatar: ""
-    content: "化学構造文字列（SMILES）を用いた電子構造及びELNES予測に関する東北大学および防衛大学との研究成果がMicronに掲載決定しました"
+    content: "化学構造文字列（SMILES）を用いた電子構造及びELNES予測に関する東北大学および防衛大学との研究成果がMicronに掲載されました．<u>[こちら](https://www.sciencedirect.com/science/article/abs/pii/S0968432824001409)</u>"
+  
+  - name: "2024, Oct."
+    designation: ""
+    avatar: ""
+    content: "メンバーを更新しました！"
+  
+  - name: "2024, Oct."
+    designation: ""
+    avatar: ""
+    content: "9000種類以上の層間化合物のバンド構造データベースに関する研究成果がScientific Dataに掲載されました．"
   
 
 
