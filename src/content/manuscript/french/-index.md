@@ -10,17 +10,21 @@ draft: false
 
  **Bold** *indicates Mizoguchi Lab. member*
 
+1.  **S. Lee, K. Shibata**, D. Bae, and **T. Mizoguchi**  
+    submitted
+
 1.  **I. Takahara, K. Shibata**, and **T. Mizoguchi**  
     submitted
 
-3.  **N. Kawaguchi**, **K. Shibata**, and **T. Mizoguchi**  
-    submitted 
-
 **— 2024 —**
+
+3.  "Band structure database of layered intercalation compounds with various intercalant atoms and layered hosts"
+    **N. Kawaguchi**, **K. Shibata**, and **T. Mizoguchi**  
+    ***Scientific Data***, (2024) in press.
 
 2.  "Predicting ELNES/XANES spectra by Machine Learning with Atomic Coordinate-independent Descriptor and Further application to ground state electronic structure"<br>
     **PY Chen**, **K. Shibata**, K. Hagita, T. Miyata, and **T. Mizoguchi**  
-    ***Micron***, accepted.
+    ***Micron***, 187 (2024) 103723-1-7.
 
 4. 「ELNESの理論計算と機械学習」  
     **柴田基洋**，**溝口照康**  

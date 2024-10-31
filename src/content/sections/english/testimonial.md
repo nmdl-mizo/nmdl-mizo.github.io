@@ -5,11 +5,20 @@ description: "<b><u> [Previous News](/en/news) </u></b>"
 
 # Testimonials
 testimonials:
-  - name: "2024, July."
+  - name: "2024, Oct."
     designation: ""
     avatar: ""
-    content: "New publication has been published in JPCC on ML application for new nano-analysis.
-                  <b><u> [HERE](https://pubs.acs.org/doi/10.1021/acs.jpcc.4c02818) </u></b>"
+    content: "Our research on the prediction of electronic structures and ELNES from SMILES via machine learning has been published in Micron. <u>[HERE](https://www.sciencedirect.com/science/article/abs/pii/S0968432824001409)</u>"
+
+  - name: "2024, Oct."
+    designation: ""
+    avatar: ""
+    content: "Member updated!"
+  
+  - name: "2024, Oct."
+    designation: ""
+    avatar: ""
+    content: "Our research on the database of more than 9000 layered compound has been accepted for publication in Scientific Data."
 
   - name: "2024, Aug."
     designation: ""
@@ -26,19 +35,10 @@ testimonials:
     avatar: ""
     content: "Our reflesh is making 4090GPU PC!<u>[HERE](https://twitter.com/nmdl_mizo/status/1833094737982623775)</u>"
 
-  - name: "2024, Oct."
+  - name: "2024, July."
     designation: ""
     avatar: ""
-    content: "Our research on the prediction of electronic structures and ELNES from SMILES via machine learning has been published in Micron. <u>[HERE](https://www.sciencedirect.com/science/article/abs/pii/S0968432824001409)</u>"
-
-  - name: "2024, Oct."
-    designation: ""
-    avatar: ""
-    content: "Member updated!"
-  
-  - name: "2024, Oct."
-    designation: ""
-    avatar: ""
-    content: "Our research on the database of more than 9000 layered compound has been accepted for publication in Scientific Data."
+    content: "New publication has been published in JPCC on ML application for new nano-analysis.
+                  <b><u> [HERE](https://pubs.acs.org/doi/10.1021/acs.jpcc.4c02818) </u></b>"
 
 ---
