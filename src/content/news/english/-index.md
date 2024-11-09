@@ -5,6 +5,24 @@ description: "news"
 image: ""
 draft: false
 ---
+**<b> Please see top-page and Twitter(X) for the latest new! </b>**
+
+**2024, July-Oct:**
+
+- Sep. Our reflesh is making 4090GPU PC!<u>[Here](https://twitter.com/nmdl_mizo/status/1833094737982623775)</u>
+
+- Sep. Japanese review on EELS simulation and machine learning application was published
+
+- Sep. Presentations in JAPS
+
+- Sep. Presentations in JIM
+
+- Aug. Web page updated! But please set your bookmark --><u>[Here](https://www.edge.iis.u-tokyo.ac.jp)</u>．
+
+- Aug. A student has a presentation in IJCAI @ Jeju, Korea.<u>[Here](https://twitter.com/nmdl_mizo/status/1833093497697845521)</u>
+
+- July. New publication has been published in JPCC on ML application for new nano-analysis.<b><u> [Here](https://pubs.acs.org/doi/10.1021/acs.jpcc.4c02818) </u></b>
+
 **2024 , June :**
 
 - Students and staff gave presentations at the 80th Microscopy Society in Makuhari. [Click here](https://twitter.com/nmdl_mizo/status/1802988475186352441)

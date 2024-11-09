@@ -5,6 +5,23 @@ description: "news"
 image: ""
 draft: false
 ---
+**<b> 最新のニュースはTop pageやTwitter（X)をご覧ください </b>**
+
+**2024, July-Oct:**
+
+- Sep. 4090を搭載したGPU機を組み立てて気分転換しました．<u>[こちら](https://twitter.com/nmdl_mizo/status/1833094737982623775)</u>
+
+- Sep. 顕微鏡誌に機械学習を用いたEELS解析に関する解説が掲載されました
+
+- Sep. 新潟で行われた応用物理学会秋季大会で研究員およびスタッフが発表しました
+
+- Sep. 大阪で行われた日本金属学会秋季大会で学生および研究員が発表しました
+
+- Aug. Web pageを更新しました．まだ仮運用中です．ブックマークは<u>[こちら](https://www.edge.iis.u-tokyo.ac.jp)</u>に．
+
+- Aug. 韓国で行われた国際人工知能会議（IJCAI）で学生が発表しました．<u>[こちら](https://twitter.com/nmdl_mizo/status/1833093497697845521)</u>
+
+- July. 機械学習を活用した新しい電子構造計測手法に関する，NIMSとの共同研究成果がJ. Phys. Chem. Cに掲載されました．<b><u> [こちら](https://pubs.acs.org/doi/10.1021/acs.jpcc.4c02818) </u></b>
 
 **2024, June:**
 
