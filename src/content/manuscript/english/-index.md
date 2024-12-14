@@ -13,22 +13,19 @@ draft: false
 1.  **S. Lee, K. Shibata**, D. Bae, and **T. Mizoguchi**  
     submitted
 
-1.  **I. Takahara, K. Shibata**, and **T. Mizoguchi**  
-    submitted
-
 **— 2024 —**
 
 3.  "Band structure database of layered intercalation compounds with various intercalant atoms and layered hosts"
     **N. Kawaguchi**, **K. Shibata**, and **T. Mizoguchi**  
-    ***Scientific Data***, (2024) in press.
+    *Scientific Data*, 11 (2024) 1244-1-10. [**here**](https://doi.org/10.1038/s41597-024-04008-2)\]
 
 2.  "Predicting ELNES/XANES spectra by Machine Learning with Atomic Coordinate-independent Descriptor and Further application to ground state electronic structure"<br>
     **PY Chen**, **K. Shibata**, K. Hagita, T. Miyata, and **T. Mizoguchi**  
-    ***Micron***, 187 (2024) 103723-1-7.
+    *Micron*, 187 (2024) 103723-1-7.
 
 4. 「ELNESの理論計算と機械学習」  
     **柴田基洋**，**溝口照康**  
-    ***顕微鏡***，Vol.59, No.2，74-81.
+    *顕微鏡*，Vol.59, No.2，74-81.
 
 4.  “Toward the Atomic-Level Analysis of Ground-State Electronic Structures of Solid Materials via Prediction from Core-Loss Spectra: A Computational Study in Si”  
     **I. Takahara**, F. Uesugi, K. Kimoto, **K. Shibata**, and **T. Mizoguchi**  
@@ -43,7 +40,7 @@ draft: false
     *Micron* 180 (2024) 103623-1-8 \[[**here**](https://www.sciencedirect.com/science/article/pii/S0968432824000404)\]
 
 7.  “Effect of inorganic material surface chemistry on structures and fracture behaviours of epoxy resin”  
-    T. Miyata, YK. Sato, Y. Kawagoe, K. Shirasu, HF. Wang, A. Kumagai, S. Kinoshita, M. Mizukami, K. Yoshida, H.H. Huang, T. Okabe, K. Hagita, **T. Mizougchi**, and H. Jinnai
+    T. Miyata, YK. Sato, Y. Kawagoe, K. Shirasu, HF. Wang, A. Kumagai, S. Kinoshita, M. Mizukami, K. Yoshida, H.H. Huang, T. Okabe, K. Hagita, **T. Mizougchi**, and H. Jinnai,
     *Nature Comm.,* 15 (2024), 1898-1-10 . \[[**here**](https://www.nature.com/articles/s41467-024-46138-6)\]
 
 8.  “Unraveling the Stability of Layered Intercalation Compounds through First-Principles Calculations: Establishing a Linear Free Energy Relationship with Aqueous Ions”  
@@ -64,33 +61,33 @@ draft: false
 
 12. “LCAONet: Message-passing with physically optimized atomic basis functions”  
     **K. Nishio**, **K. Shibata** and **T. Mizoguchi  
-    ***arXiv preprint arXiv:2402.05634* (2024) \[[**here**](https://arxiv.org/abs/2402.05634)\]
+    *arXiv preprint arXiv:2402.05634* (2024) \[[**here**](https://arxiv.org/abs/2402.05634)\]
 
 13. “Full automation of point defect detection in transition metal dichalcogenides through a dual mode deep learning algorithm”  
     Dong-Hwan Yang, Yu-Seong Chu, Odongo Francis Ngome Okello, Seung-Young Seo, Gunho Moon, Kwang Ho Kim, Moon-Ho Jo, Dongwon Shin, **Teruyasu Mizoguchi**, Sejung Yang, Si-Young Choi**  
-    ***Materials Horizons*, 11 (2024), 747-757 \[[**here**](https://pubs.rsc.org/en/content/articlelanding/2024/mh/d3mh01500a)\]
+    *Materials Horizons*, 11 (2024), 747-757 \[[**here**](https://pubs.rsc.org/en/content/articlelanding/2024/mh/d3mh01500a)\]
 
 14. “A message passing neural network for predicting dipole moment dependent core electron excitation spectra”  
     **K. Shibata** and **T. Mizoguchi  
-    ***Digital Discovery*, 3 (2024), 649-653 \[[**here**](https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00021h)\]
+    *Digital Discovery*, 3 (2024), 649-653 \[[**here**](https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00021h)\]
 
 **— 2023 —** 
 
 15. 「機械学習を利用した電子・X線分光からの物性予測」  
     **溝口照康**  
-    科学と工業，12月号 in press
+    *科学と工業*，12月号 in press
 
 16. 「機械学習を活用した界面および表面の構造解析と物性予測」  
     **溝口照康**  
-    セラミックス，58, 11 (2023), 732-736.
+    *セラミックス*，58, 11 (2023), 732-736.
 
 17. “A lithium superionic conductor for millimeter-thick battery electrode”  
-    Y. Lee, S. Song, H. Kim, K. Nomoto, H. Kim, X. Sun, S. Hori, K. Suzuki, N. Matsui, M. Hirayama, **T. Mizoguchi**, T. Saito, T. Kamiyama, and R. Kanno
-    ***Science***, 381 (2023), 50-53 \[[**here**](https://www.science.org/doi/10.1126/science.add7138)\]
+    Y. Lee, S. Song, H. Kim, K. Nomoto, H. Kim, X. Sun, S. Hori, K. Suzuki, N. Matsui, M. Hirayama, **T. Mizoguchi**, T. Saito, T. Kamiyama, and R. Kanno, 
+    *Science*, 381 (2023), 50-53 \[[**here**](https://www.science.org/doi/10.1126/science.add7138)\]
 
 18. “Twist-induced interlayer charge buildup in a WS2 bilayer revealed by electron Compton scattering and density functional theory”  
     **A Talmantaite**, **Y Xie**, A Cohen, PK Mohapatra, A Ismach, **T Mizoguchi**, SJ Clark, BG Mendis   
-    ***Phys. Rev. B***, 107 (2023) 235424-1-10 [**\[Open access\]**](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.235424)
+    *Phys. Rev. B*, 107 (2023) 235424-1-10 [**\[Open access\]**](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.235424)
 
 19. “Prediction of the Ground State Electronic Structure from Core-loss Spectra of Organic Molecules by Machine Learning”  
     **PY. Chen, K. Shibata**, K. Hagita, T. Miyata, and **T. Mizoguchi**  
@@ -116,16 +113,15 @@ draft: false
 
 24. “interface_master: Python package building CSL and approximate CSL interfaces of any two lattices — an effective tool for interface engineers”  
     **YS. Xie, K. Shibata, **and **T. Mizoguchi**  
-    arxiv, (2022) [https://arxiv.org/abs/2211.15173  
-    ](https://arxiv.org/abs/2211.15173)
+    *arxiv, (2022) [https://arxiv.org/abs/2211.15173]* (https://arxiv.org/abs/2211.15173)
 
 25. “STEM-EELSを用いた局所原子配位環境と熱膨張の計測”  
     **溝口照康**，**柴田基洋**  
-    ファインセラミックスレポート，Vol. 40, No. 4, P146-153.
+    *ファインセラミックスレポート*，Vol. 40, No. 4, P146-153.
 
 26. “機能コア解析のためのソフトウェア開発と応用”  
     世古敦人，豊浦和明，**柴田基洋，溝口照康**  
-    まてりあ，Vol. 61, No. 10, P634-639
+    *まてりあ*，Vol. 61, No. 10, P634-639
 
 27. ” Multimetastability effect on the intermediate stage of phase separation in BaO-SiO2 glass”  
     **K. Nakazawa**, Y. Tsukada, S. Amma, **K. Shibata, and T. Mizoguchi**,  
@@ -240,8 +236,8 @@ draft: false
 
 54. “Machine learning applications for ELNES/XANES” **(Invited review)**  
     **T.Mizoguchi and S. Kiyohara**  
-    *Microscopy*, 69 (2020) 92-109. [doi.org/10.1093/jmicro/dfz109](https://academic.oup.com/jmicro/advance-article/doi/10.1093/jmicro/dfz109/5714813)  [**\[Open Acess\]  
-    **](https://academic.oup.com/jmicro/advance-article/doi/10.1093/jmicro/dfz109/5714813?searchresult=1)*\[**This manuscript was selected as a “Most Read Article in 2020-2021” !** [here](https://academic.oup.com/jmicro/pages/Most_Read/), [here](http://www.edge.iis.u-tokyo.ac.jp/e/image/most-read-article-Microscopy.pdf)\]  *
+    *Microscopy*, 69 (2020) 92-109. [doi.org/10.1093/jmicro/dfz109](https://academic.oup.com/jmicro/advance-article/doi/10.1093/jmicro/dfz109/5714813)  [\[Open Acess\]  
+    (https://academic.oup.com/jmicro/advance-article/doi/10.1093/jmicro/dfz109/5714813?searchresult=1) \[**This manuscript was selected as a “Most Read Article in 2020-2021” !** [here](https://academic.oup.com/jmicro/pages/Most_Read/), [here](http://www.edge.iis.u-tokyo.ac.jp/e/image/most-read-article-Microscopy.pdf)\]  *
 
 55. “機械学習を利用した結晶界面構造決定と構造機能相関”  
     **溝口照康，清原慎，大谷龍剣**  
@@ -278,8 +274,8 @@ draft: false
     **S. Kiyohara**, M. Tsubaki,**Kunyen Liao**, and**T. Mizoguchi**  
     *J. Phys.: Materials*, 2 (2019) 024003-1-9  \[You can download this manuscript from [***here***](https://iopscience.iop.org/article/10.1088/2515-7639/ab0b68)\]
 
-63. “Atomic-scale investigation of the heterogeneous structure and ionic distribution in an ionic liquid using scanning transmission electron microscopy”  
-    **Y. Sugimori, T. Miyata, **H. Hashiguchi, E. Okunishi, and **T. Mizoguchi**  
+63. “Atomic-scale investigation of the heterogeneous structure and ionic distribution in an ionic liquid using scanning transmission electron microscopy”
+    **Y. Sugimori, T. Miyata,** H. Hashiguchi, E. Okunishi, and **T. Mizoguchi**  
     *RSC Advances,* 9 (2019) 10520-10527. \[You can download this manuscript from [***here***](https://pubs.rsc.org/en/content/articlehtml/2019/ra/c8ra10386k)\]
 
 64. “Vibrational Effects in X-ray Absorption Spectra of 2D Layered Materials”  

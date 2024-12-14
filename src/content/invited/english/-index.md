@@ -8,28 +8,29 @@ draft: false
  <p align="right"> **Bold** *indicates presenter*
 
 1.  **溝口照康**  
-    ”\*\*“,　大阪，Dec. 2024
+    ”ナノ構造解析における機械学習と第一原理計算の活用“,第35回光物性研究会，大阪公立大学，大阪，Dec. 14th 2024
 
-2.  **溝口照康**  
-    ”\*\*“,　オンライン，Dec. 2024
+2.  **溝口照康** 
+    ”EELSスペクトルのソフトウェア解析における最近の動向“,　分析電子顕微鏡討論会，オンライン，Dec. 5th, 2024
 
 3.  **溝口照康**  
-    ”\*\*“,，東京，Nov. 2024
+    ” 第一原理計算と電子顕微鏡，情報科学を用いた物質研究“  
+    東京理科大学特別講義，葛飾, 東京，Nov. 25th, 2024
 
 4.  **Teruyasu Mizoguchi**  
-    “\*\*\*”, Shimata， Nov.2024
+    “Machine learning for EELS/XAFS and materials generation”, Matsue, Shimane，ALC 2024, Nov.2024
 
 5.  **Teruyasu Mizoguchi**  
-    “\*\*\*”, Tsukuba， Oct.2024
+    “Generative AI for Microscopy”, EM-summit 2024, Tsukuba，22nd, Oct.2024
 
 6.  **Teruyasu Mizoguchi**  
-    “\*\*\*”, Italy， Sep.2024
+    “From modelling to generation: EELS and Materials Development”, Italy，3rd, Sep.2024
 
 7.  **溝口照康**  
-    ”\*\*“,，Online，Sep. 2024
+    ”物質のシミュレーションおよび計測における生成AI・機械学習の活用“, Qunasysセミナー，Online，Sep. 25th, 2024
 
 8.  **Teruyasu Mizoguchi**  
-    “\*\*\*”, Kanazawa，Ishikawa，Sep.2024
+    “Unlocking the Potential of EELS and XAFS with Machine Learning”, Big Data and Machine Learning in Microscopy MLM24, Kanazawa，Ishikawa，Sep. 17th, 2024
 
 9.  **溝口照康**  
     ”機械学習と計測・計算技術の融合による物質解析と探索“,三菱ケミカル講演会，横浜，June.21, 2024
