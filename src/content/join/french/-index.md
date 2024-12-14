@@ -44,7 +44,7 @@ draft: false
 
 **◆ 溝口研究室に参加するためには**
 
-　当研究室は[**東京大学大学院工学系研究科マテリアル工学専攻**](https://www.material.t.u-tokyo.ac.jp/faculty/graduate/)に所属しております．当研究室へ大学院生として参加希望の方は，大学院入試を受験してください．詳細はマテリアル工学専攻の[**入試情報のホームページ**](https://www.material.t.u-tokyo.ac.jp/prospective_students/)をご参照ください．
+　当研究室は[**東京大学大学院工学系研究科マテリアル工学専攻**](https://www.material.t.u-tokyo.ac.jp/faculty/graduate/)に所属しております．当研究室へ大学院生として参加希望の方は，大学院入試を受験してください．詳細はマテリアル工学専攻の[**入試情報のホームページ**](https://www.material.t.u-tokyo.ac.jp/prospective_students/)をご参照ください．随時見学を受け付けております．溝口 (teru_at_iis.u-tokyo.ac.jp)までご連絡ください．
 
 <p align="right">
 溝口照康　2024. May

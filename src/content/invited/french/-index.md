@@ -6,7 +6,7 @@ image: ""
 draft: false
 ---
  <p align="right"> **Bold** *indicates presenter*
-
+ 
 1.  **溝口照康**  
     ”ナノ構造解析における機械学習と第一原理計算の活用“,第35回光物性研究会，大阪公立大学，大阪，Dec. 14th 2024
 
