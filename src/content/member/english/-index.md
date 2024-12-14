@@ -54,7 +54,8 @@ D: Poyen Chen
 
 <img src="/images/mem/image10.png" style="width:1.56667in;height:2.08333in" />
 
-[D: Izumi Takahara](https://izumitkh.github.io/)（[高原 泉](https://izumitkh.github.io/)）
+<!-- [D: Izumi Takahara](https://izumitkhr.github.io/)（[高原 泉](https://izumitkhr.github.io/)） -->
+D: Izumi Takahara（高原 泉）
 <br>email：KOUGEN_at_iis.u-tokyo.ac.jp
 
 <img src="/images/mem/fujikata.jpg" style="width:1.56667in;height:2.08333in" />
