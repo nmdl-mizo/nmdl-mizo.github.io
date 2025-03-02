@@ -7,6 +7,9 @@ draft: false
 ---
 
 **International Conference**
+1.  **I. Takahara**, MRS Boston, Nov. 5, 2024
+
+1.  **P. Y. Chen**, NTU-UT workshop, Nov.,28 2024
 
 1.  **I. Takahara**, IJCAI 2024
 
@@ -439,6 +442,16 @@ draft: false
 ------------------------------------------------------------------------
 
 **Domestic Conference**
+
+1.  杉浦 佑　応用物理学会秋期大会＠新潟
+
+1.  柴田基洋　応用物理学会秋期大会＠新潟
+
+1.  Sangjun Lee　日本金属学会秋期大会＠大阪
+
+1.  高原泉　日本金属学会秋期大会＠大阪
+
+1.  中川諒記　日本金属学会秋期大会＠大阪
 
 1.  Yebin Lee　日本金属学会春季大会＠東京
 

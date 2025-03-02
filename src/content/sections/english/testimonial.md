@@ -5,6 +5,31 @@ description: "<b><u> [Previous News](/en/news) </u></b>"
 
 # Testimonials
 testimonials:
+  - name: "2025, Jan."
+    designation: ""
+    avatar: ""
+    content: "Our mauscript on a database of overlap population diagram of 13k organic molecules will be published in Chem. Lett. soon!"
+  
+  - name: "2024, Dec."
+    designation: ""
+    avatar: ""
+    content: "2024 Materials Free Subject Study has been finished! Thank you everybody! <u>[HERE](https://x.com/nmdl_mizo/status/1876508968513917128)</u>"
+  
+  - name: "2024, Dec."
+    designation: ""
+    avatar: ""
+    content: "We will upgrade our lab in 2025!!<u>[HERE](https://x.com/nmdl_mizo/status/1871873767154290828)</u>"
+  
+  - name: "2024, Dec."
+    designation: ""
+    avatar: ""
+    content: "One student made an oral presentation at MRS Boston. <u>[HERE](https://x.com/nmdl_mizo/status/1865739835652366835)</u>"
+  
+  - name: "2024, Nov."
+    designation: ""
+    avatar: ""
+    content: "One student made an oral presentation at UT-NTU workshop. <u>[HERE](https://x.com/nmdl_mizo/status/1865739625358340407)</u>"
+  
   - name: "2024, Nov."
     designation: ""
     avatar: ""

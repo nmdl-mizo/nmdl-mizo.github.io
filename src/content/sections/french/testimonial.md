@@ -5,6 +5,32 @@ description: "<b> [過去のニュース](/news) </b>"
 
 # Testimonials
 testimonials:
+
+  - name: "2025, Jan."
+    designation: ""
+    avatar: ""
+    content: "Overlap population diagramに関する化学結合データベースの構築と機械学習をもちいた予測に関する研究成果がChemistry Lett.に掲載決定しました．"
+  
+  - name: "2024, Dec."
+    designation: ""
+    avatar: ""
+    content: "2024年のマテリアル自由研究が終了しました．今年は「未来の住まい」をマテリアルの視点から考えました．皆さんお疲れ様でした！<u>[HERE](https://x.com/nmdl_mizo/status/1876508968513917128)</u>"
+  
+  - name: "2024, Dec."
+    designation: ""
+    avatar: ""
+    content: "年末の大掃除兼改装作業です．皆さん大変お疲れ様でした．<u>[HERE](https://x.com/nmdl_mizo/status/1871873767154290828)</u>"
+  
+  - name: "2024, Dec."
+    designation: ""
+    avatar: ""
+    content: "学生がBostonで行われたMRS fall meetingで発表しました．<u>[HERE](https://x.com/nmdl_mizo/status/1865739835652366835)</u>"
+  
+  - name: "2024, Nov."
+    designation: ""
+    avatar: ""
+    content: "学生が本郷で行われた東大・国立台湾大ワークショップ（UT-NTU workshop）で発表しました．<u>[HERE](https://x.com/nmdl_mizo/status/1865739625358340407)</u>"
+  
   - name: "2024, Nov."
     designation: ""
     avatar: ""

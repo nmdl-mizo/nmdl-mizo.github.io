@@ -13,6 +13,16 @@ draft: false
 1.  **S. Lee, K. Shibata**, D. Bae, and **T. Mizoguchi**  
     submitted
 
+1.  **P. Y. Chen, K. Shibata**, and **T. Mizoguchi**  
+    submitted
+
+**— 2025 —**
+
+3.  "Prediction of the overlap population diagram of organic molecules based on a graph neural network"
+    **R. Nakagawa, I. Takahara, K. Shibata**, and **T. Mizoguchi**  
+    *Chemistry Lett.*, in press. 
+
+
 **— 2024 —**
 
 3.  "Band structure database of layered intercalation compounds with various intercalant atoms and layered hosts"
@@ -40,7 +50,7 @@ draft: false
     *Micron* 180 (2024) 103623-1-8 \[[**here**](https://www.sciencedirect.com/science/article/pii/S0968432824000404)\]
 
 7.  “Effect of inorganic material surface chemistry on structures and fracture behaviours of epoxy resin”  
-    T. Miyata, YK. Sato, Y. Kawagoe, K. Shirasu, HF. Wang, A. Kumagai, S. Kinoshita, M. Mizukami, K. Yoshida, H.H. Huang, T. Okabe, K. Hagita, **T. Mizougchi**, and H. Jinnai,
+    T. Miyata, YK. Sato, Y. Kawagoe, K. Shirasu, HF. Wang, A. Kumagai, S. Kinoshita, M. Mizukami, K. Yoshida, H.H. Huang, T. Okabe, K. Hagita, **T. Mizougchi**, and H. Jinnai, 
     *Nature Comm.,* 15 (2024), 1898-1-10 . \[[**here**](https://www.nature.com/articles/s41467-024-46138-6)\]
 
 8.  “Unraveling the Stability of Layered Intercalation Compounds through First-Principles Calculations: Establishing a Linear Free Energy Relationship with Aqueous Ions”  
@@ -68,7 +78,7 @@ draft: false
     *Materials Horizons*, 11 (2024), 747-757 \[[**here**](https://pubs.rsc.org/en/content/articlelanding/2024/mh/d3mh01500a)\]
 
 14. “A message passing neural network for predicting dipole moment dependent core electron excitation spectra”  
-    **K. Shibata** and **T. Mizoguchi  
+    **K. Shibata** and **T. Mizoguchi**
     *Digital Discovery*, 3 (2024), 649-653 \[[**here**](https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00021h)\]
 
 **— 2023 —** 
@@ -112,7 +122,7 @@ draft: false
 **—2022—**
 
 24. “interface_master: Python package building CSL and approximate CSL interfaces of any two lattices — an effective tool for interface engineers”  
-    **YS. Xie, K. Shibata, **and **T. Mizoguchi**  
+    **YS. Xie, K. Shibata, and T. Mizoguchi**  
     *arxiv, (2022) [https://arxiv.org/abs/2211.15173]* (https://arxiv.org/abs/2211.15173)
 
 25. “STEM-EELSを用いた局所原子配位環境と熱膨張の計測”  
@@ -144,11 +154,11 @@ draft: false
     *Phys. Rev. Res. *4 (2022) L022002-1-6. [**\[Open Access\]**](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.L022002)
 
 32. “人工知能を利用した界面物性および表面物性の予測”  
-    \***溝口照康**,**柴田基洋**  
+    **溝口照康**,**柴田基洋**  
     セラミックデータブック 2021/2022, Vol49, p37-42.
 
 33. “Determination of the Spectrum–structure Relationship by Tree Structure-based Unsupervised and Supervised Learning”  
-    \***S. Kiyohara, \*K. Kikumasa**, **K. Shibata**, and **T. Mizoguchi**  
+    **S. Kiyohara, K. Kikumasa, K. Shibata, and T. Mizoguchi**  
     *Ultramicroscopy*, 233 (2022) 113438-1-8 [**\[Open Access\]**](https://www.sciencedirect.com/science/article/pii/S030439912100214X?via%3Dihub)
 
 34. “A brute-force code searching for cell of non-identical displacement for CSL grain boundaries and interfaces”  
@@ -156,9 +166,9 @@ draft: false
     *Comp. Phys. Comm.* 273 (2022) 108260-1-8  [**\[here\]**](https://www.sciencedirect.com/science/article/pii/S0010465521003726)
 
 35. “Quantification of the Properties of Organic Molecules Using Core-Loss Spectra as Neural Network Descriptors”  
-    **K. Kikumasa, S. Kiyohara, K. Shibata, and T. Mizoguchi**
+    **K. Kikumasa, S. Kiyohara, K. Shibata, and T. Mizoguchi** 
     ***Advanced Intelligent Systems, 4*** (2022) 2100103-1-10. doi:10.1002/aisy.202100103. [**\[Open Access\]**](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202100103)  
-    ***\[This paper was selected as “Hot Topic:Artificial Intelligence and Machine Learning”\]\[Selcted as [Back Side Cover](https://onlinelibrary.wiley.com/share/KJUN5INIWHVIRMI7DNDX?target=10.1002/aisy.202270004)\]***  
+    **[This paper was selected as “Hot Topic:Artificial Intelligence and Machine Learning”\]\[Selcted as [Back Side Cover](https://onlinelibrary.wiley.com/share/KJUN5INIWHVIRMI7DNDX?target=10.1002/aisy.202270004)\]**  
 
 **—2021—**  
 
@@ -167,19 +177,23 @@ draft: false
     *Nano Letters*, 21 (2021) 10416-10422 [**\[Open Access\]**](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c03735)
 
 37. “Quantum Deep Descriptor: Physically Informed Transfer Learning from Small Molecules to Polymers”  
-    M. Tsubaki and**T. Mizoguchi**  
+    M. Tsubaki and **T. Mizoguchi**  
     *J. Chem. Theory Comput.*, 17 (2021) 7814-7821. [**\[Open Access\]**](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.1c00568)
 
 38. “Robotic fabrication of high-quality lamellae for aberration-corrected transmission electron microscopy”  
     H. Tsurusawa, N. Nakanishi,K. Kawano, Y. Chen,B. V. Leer, **T. Mizoguchi**  
-    ***Scientifc Reports,*** 11 (2021) 21599-1-12. **[\[Open Access\]](https://www.nature.com/articles/s41598-021-00595-x#citeas)**
-    ([arxiv](https://arxiv.org/abs/2102.09698)), 
+    *Scientifc Reports,* 11 (2021) 21599-1-12. **[\[Open Access\]](https://www.nature.com/articles/s41598-021-00595-x#citeas)**
+    ([arxiv](https://arxiv.org/abs/2102.09698)),  
     ***Our manuscript was selected as “Top 100 in Physics”!!***
 
-39. “First principles study on formation and migration energies of sodium and lithium in graphite”, **I. Takahara** and **T. Mizoguchi**  
+39. “First principles study on formation and migration energies of sodium and lithium in graphite”,  
+   **I. Takahara** and **T. Mizoguchi**  
     *Phys. Rev. Mater.* 5 (2021) 085401-1-7. doi:10.1103/PhysRevMaterials.5.085401 [**\[here\]**](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.085401)
 
-40. “Accurate prediction of bonding properties by a machine learning–based model using isolated states before bonding”**E. Suzuki**, **K. Shibata**, and**T. Mizoguchi**, *Appl. Phys. Exp.* 14 (2021) 085503-1-6 doi: 10.35848/1882-0786/ac083b **[\[Open Access\]](https://iopscience.iop.org/article/10.35848/1882-0786/ac083b)*\[This paper was selected as “Spotlights 2021 in Applied Physics Express”\]***
+40. “Accurate prediction of bonding properties by a machine learning–based model using isolated states before bonding”  
+   **E. Suzuki**, **K. Shibata**, and**T. Mizoguchi**,  
+    *Appl. Phys. Exp.* 14 (2021) 085503-1-6 doi: 10.35848/1882-0786/ac083b
+    **[\[Open Access\]](https://iopscience.iop.org/article/10.35848/1882-0786/ac083b)*\[This paper was selected as “Spotlights 2021 in Applied Physics Express”\]***
 
 41. “ピクセル型STEM検出器によるタイコグラフィーの初歩”  
     三石和貴，**中澤克昭，溝口照康**，佐川隆亮，山崎裕一  
