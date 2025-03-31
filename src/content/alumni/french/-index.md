@@ -6,6 +6,41 @@ image: "/images/content-2.png"
 draft: false
 ---
 
+##### 2025
+
+<img src="/images/mem/image8.png" style="width:1.61667in;height:2.08333in"  />
+
+**D: Naoto Kawaguchi（川口 直登）**
+<br>層間化合物のデータベース構築と新物質探索という新しいテーマに取り組んでくれました．また，社会人博士として様々な場面で研究室の活動をサポートしてくれました．
+
+<img src="/images/mem/image11.png" style="width:1.61667in;height:2.08333in" />
+
+**M: Riuki Nakagawa（中川 諒記）**
+<br>物質の化学結合状態（Overlap population diagram）を予測するというテーマに取り組み，200万以上のOverlap population diagramのデータベースを構築してくれました． 
+
+<img src="/images/mem/image2.png" style="width:1.49167in;height:1.86458in" />
+
+**Assistant Professor, Kiyou Shibata （助教・柴田 基洋）, Ph. D**
+<br>溝口研初の助教として各所（学生の指導や研究環境，研究室運営などなど）で大変サポートいただきました．（現在，名古屋大学で准教授として活躍中！）
+<br>
+
+<img src="/images/mem/image4.png" style="width:1.61667in;height:2.08333in" />
+
+**Administrative staff, Kyoko Miyamoto（秘書・宮本 京子）**
+<br>4代目秘書として10年以上にわたって研究室をサポートしてくださいました．大変ありがとうございました！
+<br>
+
+<img src="/images/mem/image3.png" style="width:1.44133in;height:1.91667in" />
+
+**Technical Staff, Atsushi Fukuda（技術専門職員・福田 敦）, Ph. D**
+<br>駒場分析コアの活動にご協力いただきました．徳本研究室に異動しました．
+
+<img src="/images/mem/sangjun.jpg" style="width:1.61292in;height:2.07292in" />
+
+**Researcher, Sangjun Lee, Ph. D**
+<br>1年という短い間でしたが多くの成果を出してくれました！（現在，現代自動車で活躍中！）
+
+
 ##### 2024
 
 <img src="/images/alumni/image6.jpeg" style="width:1.80208in;height:2.30499in" />
@@ -99,7 +134,7 @@ draft: false
 <img src="/images/alumni/image15.png" style="width:1.61667in;height:2.08333in"  />
 
 **D Shin Kiyohara (清原 慎) Ph. D**
-<br> 修士では機械学習を利用した界面構造決定を実現し，博士ではスペクトルインフォマティクスの分野を切り拓くなど，研究室のアクティビティに大変貢献してくれました． （現在　助教として東北大・熊谷研で活躍中！）
+<br> 修士では機械学習を利用した界面構造決定を実現し，博士ではスペクトルインフォマティクスの分野を切り拓くなど，研究室のアクティビティに大変貢献してくれました． （現在　講師として東北大で活躍中！）
 
 <img src="/images/alumni/image16.png" style="width:1.61667in;height:2.08333in" />
 
@@ -112,7 +147,7 @@ draft: false
 
 **D Tomohiro Miyata (宮田 智衆)， Ph. D**
 <br> 液体の原子分解能計測を達成してくれました．また溝口研究室初博士学生として様々な場面で研究室をひっぱってくれました．  
-（現在　講師として東北大陣内研で活躍中！）
+（現在　准教授として東北大で活躍中！）
 
 <img src="/images/alumni/image18.png" style="width:1.61667in;height:2.08333in" />
 

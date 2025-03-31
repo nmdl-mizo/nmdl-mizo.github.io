@@ -16,20 +16,32 @@ draft: false
 1.  **P. Y. Chen, K. Shibata**, and **T. Mizoguchi**  
     submitted
 
+1.  M. Niibe, T. Nakashima, Y. Saito, Y. Ando, **T. Mizoguchi**, and I. Matsuda  
+    submitted
+
+1.  DH Yang et al.  
+    submitted
+
+1.  MS Kim et al.  
+    submitted
+
+
 **— 2025 —**
+3.  "AI×物質科学"  
+    **溝口照康，柴田基洋**  
+    *現代化学*, 4月号(2025)33-34. [**here**](https://x.com/tkd_hensyu/status/1899384804325445909)\]
 
-3.  "Prediction of the overlap population diagram of organic molecules based on a graph neural network"
+3.  "Prediction of the overlap population diagram of organic molecules based on a graph neural network"  
     **R. Nakagawa, I. Takahara, K. Shibata**, and **T. Mizoguchi**  
-    *Chemistry Lett.*, in press. 
-
+    *Chemistry Lett.*, 54(2025)upaf038. [**here**](https://academic.oup.com/chemlett/article/54/3/upaf038/8058640)\]
 
 **— 2024 —**
 
-3.  "Band structure database of layered intercalation compounds with various intercalant atoms and layered hosts"
+3.  "Band structure database of layered intercalation compounds with various intercalant atoms and layered hosts"  
     **N. Kawaguchi**, **K. Shibata**, and **T. Mizoguchi**  
     *Scientific Data*, 11 (2024) 1244-1-10. [**here**](https://doi.org/10.1038/s41597-024-04008-2)\]
 
-2.  "Predicting ELNES/XANES spectra by Machine Learning with Atomic Coordinate-independent Descriptor and Further application to ground state electronic structure"<br>
+2.  "Predicting ELNES/XANES spectra by Machine Learning with Atomic Coordinate-independent Descriptor and Further application to ground state electronic structure"  
     **PY Chen**, **K. Shibata**, K. Hagita, T. Miyata, and **T. Mizoguchi**  
     *Micron*, 187 (2024) 103723-1-7.
 

@@ -5,64 +5,35 @@ description: "<b><u> [Previous News](/en/news) </u></b>"
 
 # Testimonials
 testimonials:
-  - name: "2025, Jan."
+  - name: "2025, March"
     designation: ""
     avatar: ""
-    content: "Our mauscript on a database of overlap population diagram of 13k organic molecules will be published in Chem. Lett. soon!"
+    content: "We made BIG farewell party!! Thank you for your great efforts!!<u>[Here](https://x.com/nmdl_mizo/status/1904455865266319523)</u>"
   
-  - name: "2024, Dec."
+  - name: "2025, March"
     designation: ""
     avatar: ""
-    content: "2024 Materials Free Subject Study has been finished! Thank you everybody! <u>[HERE](https://x.com/nmdl_mizo/status/1876508968513917128)</u>"
-  
-  - name: "2024, Dec."
-    designation: ""
-    avatar: ""
-    content: "We will upgrade our lab in 2025!!<u>[HERE](https://x.com/nmdl_mizo/status/1871873767154290828)</u>"
-  
-  - name: "2024, Dec."
-    designation: ""
-    avatar: ""
-    content: "One student made an oral presentation at MRS Boston. <u>[HERE](https://x.com/nmdl_mizo/status/1865739835652366835)</u>"
-  
-  - name: "2024, Nov."
-    designation: ""
-    avatar: ""
-    content: "One student made an oral presentation at UT-NTU workshop. <u>[HERE](https://x.com/nmdl_mizo/status/1865739625358340407)</u>"
-  
-  - name: "2024, Nov."
-    designation: ""
-    avatar: ""
-    content: "We are currently undergoing a major renovation of our lab! <u>[HERE](https://twitter.com/nmdl_mizo/status/1855054002024858073)</u>"
-  
-  - name: "2024, Oct."
-    designation: ""
-    avatar: ""
-    content: "Halloween Event in our campus!．<u>[HERE](https://twitter.com/nmdl_mizo/status/1853814674128863351)</u>"
-  
-  - name: "2024, Oct."
-    designation: ""
-    avatar: ""
-    content: "Our research on the prediction of electronic structures and ELNES from SMILES via machine learning has been published in Micron. <u>[HERE](https://www.sciencedirect.com/science/article/abs/pii/S0968432824001409)</u>"
+    content: "Our study on prediction of overlap population diagram of 2M bonds of  13k organic molecules is just published in Chemistry Lett. You can access to all data of 2M bonds!<u>[Here](https://academic.oup.com/chemlett/article/54/3/upaf038/8058640)</u>"
 
-  - name: "2024, Oct."
+  - name: "2025, March"
     designation: ""
     avatar: ""
-    content: "Our research on the prediction of electronic structures and ELNES from SMILES via machine learning has been published in Micron. <u>[HERE](https://www.sciencedirect.com/science/article/abs/pii/S0968432824001409)</u>"
-
-  - name: "2024, Oct."
-    designation: ""
-    avatar: ""
-    content: "Our research on the prediction of electronic structures and ELNES from SMILES via machine learning has been published in Micron. <u>[HERE](https://www.sciencedirect.com/science/article/abs/pii/S0968432824001409)</u>"
-
-  - name: "2024, Oct."
-    designation: ""
-    avatar: ""
-    content: "Member updated!"
+    content: "Our short manuscript on "AI x materials science" has published in 「現代化学」4月号 <u>[Here](https://x.com/tkd_hensyu/status/1899384804325445909)</u>"
   
-  - name: "2024, Oct."
+  - name: "2025, March"
     designation: ""
     avatar: ""
-    content: "Our research on the database of more than 9000 layered compound has been accepted for publication in Scientific Data."
+    content: "Our student and staff have presentation in JSAP2025<u>[Here](https://x.com/nmdl_mizo/status/1904454722179957057)</u>"
+  
+  - name: "2025, March"
+    designation: ""
+    avatar: ""
+    content: "Our student has presentation in Ceram. Soc. Jpn. 2025<u>[Here](https://x.com/nmdl_mizo/status/1904454502616297622)</u>"
+  
+  - name: "2025, March"
+    designation: ""
+    avatar: ""
+    content: "We made farewell and welcome party! <u>[Here](https://x.com/nmdl_mizo/status/1896812221189308917)</u>"
+  
 
 ---

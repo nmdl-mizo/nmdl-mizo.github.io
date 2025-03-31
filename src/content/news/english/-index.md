@@ -7,7 +7,21 @@ draft: false
 ---
 **<b> Please see top-page and Twitter(X) for the latest new! </b>**
 
-**2024, July-Oct:**
+**2024　:**
+
+- Dec. 2024 Materials Free Subject Study has been finished! Thank you everybody! <u>[Here](https://x.com/nmdl_mizo/status/1876508968513917128)</u>
+
+- Dec. We will upgrade our lab in 2025!!<u>[Here](https://x.com/nmdl_mizo/status/1871873767154290828)</u>
+
+- Dec Our student made an oral presentation at MRS Boston.<u>[Here](https://x.com/nmdl_mizo/status/1865739835652366835)</u>
+
+- Nov. Our student made an oral presentation at UT-NTU workshop.<u>[Here](https://x.com/nmdl_mizo/status/1865739625358340407)</u>
+
+- Oct. Halloween Event in our campus!．<u>[Here](https://twitter.com/nmdl_mizo/status/1853814674128863351)</u>
+
+- Oct. Our research on the prediction of electronic structures and ELNES from SMILES via machine learning has been published in Micron.<u>[Here](https://www.sciencedirect.com/science/article/abs/pii/S0968432824001409)</u>
+
+- Oct. Our research on the database of more than 9000 layered compound has been accepted for publication in Scientific Data.<u>[Here](https://doi.org/10.1038/s41597-024-04008-2)</u>
 
 - Sep. Our reflesh is making 4090GPU PC!<u>[Here](https://twitter.com/nmdl_mizo/status/1833094737982623775)</u>
 
