@@ -30,6 +30,11 @@ Administrative staff, Yoko Matsuo（秘書・松尾　陽子）
 Takumi Nakano（仲野 匠）
 <br>email：ntakumi_at_iis.u-tokyo.ac.jp
 
+<img src="/images/mem/image7.png" style="width:1.61667in;height:2.08333in" />
+
+Tasuku Sugiura（杉浦　佑）
+<br>email：tsugiura_at_iis.u-tokyo.ac.jp
+
 ##### -Student-
 
 <img src="/images/mem/image9.png" style="width:1.56667in;height:2.08333in" />
