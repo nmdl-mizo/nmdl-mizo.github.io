@@ -9,6 +9,20 @@ draft: false
 
 **2024, July-Oct:**
 
+- Dec. 2024年のマテリアル自由研究が終了しました．今年は「未来の住まい」をマテリアルの視点から考えました．皆さんお疲れ様でした！<u>[こちら](https://x.com/nmdl_mizo/status/1876508968513917128)</u>
+
+- Dec. 年末の大掃除兼改装作業です．皆さん大変お疲れ様でした．<u>[こちら](https://x.com/nmdl_mizo/status/1871873767154290828)</u>
+
+- Dec 学生がBostonで行われたMRS fall meetingで発表しました．<u>[こちら](https://x.com/nmdl_mizo/status/1865739835652366835)</u>
+
+- Nov. 学生が本郷で行われた東大・国立台湾大ワークショップ（UT-NTU workshop）で発表しました．<u>[こちら](https://x.com/nmdl_mizo/status/1865739625358340407)</u>
+
+- Oct. 駒場リサーチキャンパスのハロウィンイベントに参加しました．多くの方が来てくれて楽しみました！<u>[こちら](https://twitter.com/nmdl_mizo/status/1853814674128863351)</u>
+
+- Oct. 化学構造文字列（SMILES）を用いた電子構造及びELNES予測に関する東北大学および防衛大学との研究成果がMicronに掲載されました．<u>[こちら](https://www.sciencedirect.com/science/article/abs/pii/S0968432824001409)</u>
+
+- Oct. 9000種類以上の層間化合物のバンド構造データベースに関する研究成果がScientific Dataに掲載されました．<u>[こちら](https://doi.org/10.1038/s41597-024-04008-2)</u>
+
 - Sep. 4090を搭載したGPU機を組み立てて気分転換しました．<u>[こちら](https://twitter.com/nmdl_mizo/status/1833094737982623775)</u>
 
 - Sep. 顕微鏡誌に機械学習を用いたEELS解析に関する解説が掲載されました

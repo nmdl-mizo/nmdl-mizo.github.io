@@ -6,54 +6,35 @@ description: "<b> [過去のニュース](/news) </b>"
 # Testimonials
 testimonials:
 
-  - name: "2025, Jan."
+  - name: "2025, March."
     designation: ""
     avatar: ""
-    content: "Overlap population diagramに関する化学結合データベースの構築と機械学習をもちいた予測に関する研究成果がChemistry Lett.に掲載決定しました．"
+    content: "学生＆スタッフの”大”送別会を行いました！皆さん今までありがとうございました！"<u>[こちら](https://x.com/nmdl_mizo/status/1904455865266319523)</u>
   
-  - name: "2024, Dec."
+  - name: "2025, March."
     designation: ""
     avatar: ""
-    content: "2024年のマテリアル自由研究が終了しました．今年は「未来の住まい」をマテリアルの視点から考えました．皆さんお疲れ様でした！<u>[HERE](https://x.com/nmdl_mizo/status/1876508968513917128)</u>"
+    content: "Overlap population diagramに関する化学結合データベースの構築と機械学習をもちいた予測に関する研究成果がChemistry Lett.に掲載されました．13万分子の200万結合のOverlap Population Diagramを公開しております．"<u>[こちら](https://academic.oup.com/chemlett/article/54/3/upaf038/8058640)</u>
+
+  - name: "2025, March."
+    designation: ""
+    avatar: ""
+    content: "「現代化学」4月号に「AI×物質科学」の記事が掲載されました．"<u>[こちら](https://x.com/tkd_hensyu/status/1899384804325445909)</u>
   
-  - name: "2024, Dec."
+  - name: "2025, March."
     designation: ""
     avatar: ""
-    content: "年末の大掃除兼改装作業です．皆さん大変お疲れ様でした．<u>[HERE](https://x.com/nmdl_mizo/status/1871873767154290828)</u>"
+    content: "応用物理学会春季大会で学生およびスタッフが発表しました．"<u>[こちら](https://x.com/nmdl_mizo/status/1904454722179957057)</u>
   
-  - name: "2024, Dec."
+  - name: "2025, March."
     designation: ""
     avatar: ""
-    content: "学生がBostonで行われたMRS fall meetingで発表しました．<u>[HERE](https://x.com/nmdl_mizo/status/1865739835652366835)</u>"
+    content: "日本セラミックス協会＠浜松で学生が発表しました．"<u>[こちら](https://x.com/nmdl_mizo/status/1904454502616297622)</u>
   
-  - name: "2024, Nov."
+  - name: "2025, March."
     designation: ""
     avatar: ""
-    content: "学生が本郷で行われた東大・国立台湾大ワークショップ（UT-NTU workshop）で発表しました．<u>[HERE](https://x.com/nmdl_mizo/status/1865739625358340407)</u>"
+    content: "研究室の歓送迎会（１）を実施しました！"<u>[こちら](https://x.com/nmdl_mizo/status/1896812221189308917)</u>
   
-  - name: "2024, Nov."
-    designation: ""
-    avatar: ""
-    content: "研究室の改装作業進行中です．来年完成予定です．<u>[HERE](https://twitter.com/nmdl_mizo/status/1855054002024858073)</u>"
-  
-  - name: "2024, Oct."
-    designation: ""
-    avatar: ""
-    content: "駒場リサーチキャンパスのハロウィンイベントに参加しました．多くの方が来てくれて楽しみました！．<u>[HERE](https://twitter.com/nmdl_mizo/status/1853814674128863351)</u>"
-  
-  - name: "2024, Oct."
-    designation: ""
-    avatar: ""
-    content: "化学構造文字列（SMILES）を用いた電子構造及びELNES予測に関する東北大学および防衛大学との研究成果がMicronに掲載されました．<u>[HERE](https://www.sciencedirect.com/science/article/abs/pii/S0968432824001409)</u>"
-  
-  - name: "2024, Oct."
-    designation: ""
-    avatar: ""
-    content: "メンバーを更新しました！"
-  
-  - name: "2024, Oct."
-    designation: ""
-    avatar: ""
-    content: "9000種類以上の層間化合物のバンド構造データベースに関する研究成果がScientific Dataに掲載されました．"
 
 ---
