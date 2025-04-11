@@ -8,12 +8,14 @@ draft: false
 ##### Research Environments / 研究環境
 <img src="/images/environment/2025renew.jpg"> 
 <p align = "center">
-2025年3月に"大"改装しました（協力：[川添研究室](http://www.kwz.iis.u-tokyo.ac.jp/)・東野真人さん＆試作工場の皆様）
+2025年3月に"大"改装しました．<br>
+（協力：[川添研究室](http://www.kwz.iis.u-tokyo.ac.jp/) ・東野真人さん＆試作工場の皆様）
 </p>
-
+<br>
+<br>
 <img src="/images/environment/2025renew2.jpg">
 <p align = "center">
-明るく広々としたスペースで研究に集中することが出来，  
+明るく広々としたスペースで研究に集中することが出来，<br>
 固体物理，量子化学，機械学習，計測など共用教科書 & 議論用もホワイトボードなども充実しております．
 </p>
 

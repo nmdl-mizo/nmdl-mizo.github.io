@@ -8,9 +8,10 @@ draft: false
 ##### Research Environments / 研究環境
 img src="/images/environment/2025renew.jpg"> 
 <p align = "center">
-We have toally update our space!!（Special thanks to [Kawazoe lab.](http://www.kwz.iis.u-tokyo.ac.jp/)・Masato Tohno!!）
+We have toally update our space!!<br>
+（Special thanks to [Kawazoe lab.](http://www.kwz.iis.u-tokyo.ac.jp/) ・Masato Tohno!!）
 </p>
-
+<br><br>
 <img src="/images/environment/2025renew2.jpg">
 <p align = "center">
 Nice space and many books and whiteboard for anytime discussions.
