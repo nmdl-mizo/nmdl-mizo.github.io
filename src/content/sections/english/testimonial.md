@@ -5,6 +5,16 @@ description: "<b><u> [Previous News](/en/news) </u></b>"
 
 # Testimonials
 testimonials:
+  - name: "2025, April"
+    designation: ""
+    avatar: ""
+    content: "New semester 2025 is launched! <u>[New members](https://x.com/nmdl_mizo/status/1908086851103265154)</u>"
+
+  - name: "2025, March"
+    designation: ""
+    avatar: ""
+    content: "We made many seminars for newcomers!! <u>[Here](https://x.com/nmdl_mizo/status/1908090320996229367)</u>"
+  
   - name: "2025, March"
     designation: ""
     avatar: ""
@@ -18,22 +28,22 @@ testimonials:
   - name: "2025, March"
     designation: ""
     avatar: ""
-    content: "Our short manuscript on "AI x materials science" has published in 「現代化学」4月号 <u>[Here](https://x.com/tkd_hensyu/status/1899384804325445909)</u>"
+    content: ""
   
   - name: "2025, March"
     designation: ""
     avatar: ""
-    content: "Our student and staff have presentation in JSAP2025<u>[Here](https://x.com/nmdl_mizo/status/1904454722179957057)</u>"
+    content: ""
   
   - name: "2025, March"
     designation: ""
     avatar: ""
-    content: "Our student has presentation in Ceram. Soc. Jpn. 2025<u>[Here](https://x.com/nmdl_mizo/status/1904454502616297622)</u>"
+    content: ""
   
   - name: "2025, March"
     designation: ""
     avatar: ""
-    content: "We made farewell and welcome party! <u>[Here](https://x.com/nmdl_mizo/status/1896812221189308917)</u>"
+    content: ""
   
 
 ---

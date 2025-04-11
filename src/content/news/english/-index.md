@@ -7,8 +7,17 @@ draft: false
 ---
 **<b> Please see top-page and Twitter(X) for the latest new! </b>**
 
-**2024　:**
+**2025　:**
+- March 2025 We made farewell and welcome party! <u>[Here](https://x.com/nmdl_mizo/status/1896812221189308917)</u>
 
+- March 2025 Our short manuscript on "AI x materials science" has published in 「現代化学」4月号 <u>[Here](https://x.com/tkd_hensyu/status/1899384804325445909)</u>
+
+- March 2025 Our student has presentation in Ceram. Soc. Jpn. 2025<u>[Here](https://x.com/nmdl_mizo/status/1904454502616297622)</u>
+
+- March 2025 Our student and staff have presentation in JSAP2025<u>[Here](https://x.com/nmdl_mizo/status/1904454722179957057)</u>
+
+
+**2024　:**
 - Dec. 2024 Materials Free Subject Study has been finished! Thank you everybody! <u>[Here](https://x.com/nmdl_mizo/status/1876508968513917128)</u>
 
 - Dec. We will upgrade our lab in 2025!!<u>[Here](https://x.com/nmdl_mizo/status/1871873767154290828)</u>
@@ -33,7 +42,7 @@ draft: false
 
 - Aug. Web page updated! But please set your bookmark --><u>[Here](https://www.edge.iis.u-tokyo.ac.jp)</u>．
 
-- Aug. A student has a presentation in IJCAI @ Jeju, Korea.<u>[Here](https://twitter.com/nmdl_mizo/status/1833093497697845521)</u>
+- Aug. A st\udent has a presentation in IJCAI @ Jeju, Korea.<u>[Here](https://twitter.com/nmdl_mizo/status/1833093497697845521)</u>
 
 - July. New publication has been published in JPCC on ML application for new nano-analysis.<b><u> [Here](https://pubs.acs.org/doi/10.1021/acs.jpcc.4c02818) </u></b>
 
