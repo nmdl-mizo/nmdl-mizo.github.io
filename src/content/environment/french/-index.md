@@ -6,16 +6,15 @@ image: "/images/environment.png"
 draft: false
 ---
 ##### Research Environments / 研究環境
-<img src="/images/environment/image1.png" style="width:2.13889in;height:1.848in"  /> 
-<img src="/images/environment/image2.png" style="width:2.17361in;height:1.84902in" />
+<img src="/images/environment/2025renew.jpg"> 
 <p align = "center">
-各自のスペース & ミーティングスペース
+2025年3月に"大"改装しました（協力：[川添研究室](http://www.kwz.iis.u-tokyo.ac.jp/)・東野真人さん＆試作工場の皆様）
 </p>
 
-<img src="/images/environment/image3.png" style="width:2.15117in;height:1.36528in" />
-<img src="/images/environment/image4.png" style="width:2.61806in;height:1.25667in" />
+<img src="/images/environment/2025renew2.jpg">
 <p align = "center">
-固体物理，量子化学，機械学習，ナノ計測など共用教科書 & 議論用ホワイトボードを多数設置
+明るく広々としたスペースで研究に集中することが出来，  
+固体物理，量子化学，機械学習，計測など共用教科書 & 議論用もホワイトボードなども充実しております．
 </p>
 
 ---
@@ -28,13 +27,13 @@ draft: false
 <img src="/images/environment/image5.png" style="width:1.81412in;height:2.86667in" />
 <img src="/images/environment/image6.png" style="width:3.6in;height:2.6in" />
 
-- Computer cluster (Core i9: 12-14cores) x 23
-- Computer cluster (Xeon, 24~40cores) x 40
+- Computer cluster (Dual Xeon, 40~64cores) x 46
+- Computer cluster (Single Xeon, 20~24cores) x 23
 - Desktop cluster (Core i9: 12-14cores) x 20
-- GPU server: A100
-- GPU server: RTX 6000ada
-- GPU server: 4090
-- GPU server: 3090
+- GPU server: A100 
+- GPU server: RTX 6000ada x 5
+- GPU server: 4090 x 5
+- GPU server: 3090 x 2
 - \+ more…. 
 
 <br><br>
