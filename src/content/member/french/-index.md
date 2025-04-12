@@ -60,7 +60,7 @@ D: Lowis Wong
 
 <img src="/images/mem/youjeong.jpg" style="width:1.44133in;height:1.91667in" />
 
-D: Choi Youjeong
+D: Youjeong Choi
 <br>email：youjeong_at_iis.u-tokyo.ac.jp
 
 <img src="/images/mem/image12.png" style="width:1.61667in;height:2.08333in"  />

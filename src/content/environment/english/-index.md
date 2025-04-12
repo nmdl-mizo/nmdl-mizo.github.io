@@ -6,15 +6,15 @@ image: "/images/environment.png"
 draft: false
 ---
 ##### Research Environments / 研究環境
-img src="/images/environment/2025renew.jpg"> 
+<img src="/images/environment/2025renew.jpg"> 
 <p align = "center">
-We have toally update our space!!<br>
-Special thanks to [Kawazoe lab.](http://www.kwz.iis.u-tokyo.ac.jp/) ・Masato Tohno!!
+We have "toally" updated our lab space in March 2025.<br>
+Special thanks to [<u>Kawazoe lab., Mr. Masato Tohno-san!!</u>](http://www.kwz.iis.u-tokyo.ac.jp/) 
 </p>
     
 <img src="/images/environment/2025renew2.jpg">
 <p align = "center">
-Nice space and many books and whiteboard for anytime discussions.
+Nice space and many books and whiteboards for anytime discussions.
 </p>
 
 ---
@@ -47,15 +47,15 @@ Nice space and many books and whiteboard for anytime discussions.
 <img src="/images/environment/image8.png" style="width:2.63333in;height:0.66781in"/>
 <img src="/images/environment/image9.png" style="width:1.51667in;height:0.65999in" />
 
-- [CASTEP](http://www.castep.org/) <br> (collaboration with Prof. Chris J. Pickard @ Cambridge Univ.)
+- [<u>CASTEP</u>](http://www.castep.org/) <br> (collaboration with Prof. Chris J. Pickard @ Cambridge Univ.)
 
-- [VASP](http://cms.mpi.univie.ac.at/vasp/)
+- [<u>VASP</u>](http://cms.mpi.univie.ac.at/vasp/)
 
-- [WIEN2k](http://www.wien2k.at/)
+- [<u>WIEN2k</u>](http://www.wien2k.at/)
 
-- [FHI-aims](https://fhi-aims.org/)
+- [<u>FHI-aims</u>](https://fhi-aims.org/)
 
-- [Elk](https://elk.sourceforge.io/)
+- [<u>Elk</u>](https://elk.sourceforge.io/)
 
 - OLCAO <br> (collaboration with [Prof. Paul Rulis and Prof. Wai Yim Ching @UMKC ](http://cas.umkc.edu/physics/ching/INDEX.htm))
 

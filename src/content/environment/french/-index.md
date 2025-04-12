@@ -8,8 +8,8 @@ draft: false
 ##### Research Environments / 研究環境
 <img src="/images/environment/2025renew.jpg"> 
 <p align = "center">
-2025年3月に"大"改装しました．<br>
-協力：[川添研究室](http://www.kwz.iis.u-tokyo.ac.jp/) ・東野真人さん＆試作工場の皆様
+2025年3月に研究室の居室スペースを"大"改装しました．<br>
+協力： [<u>川添研究室・東野真人さん</u>](http://www.kwz.iis.u-tokyo.ac.jp/)  ＆試作工場の皆様
 </p>
     
 <img src="/images/environment/2025renew2.jpg">
@@ -48,15 +48,15 @@ draft: false
 <img src="/images/environment/image8.png" style="width:2.63333in;height:0.66781in"/>
 <img src="/images/environment/image9.png" style="width:1.51667in;height:0.65999in" />
 
-- [CASTEP](http://www.castep.org/) <br> (collaboration with Prof. Chris J. Pickard @ Cambridge Univ.)
+- [<u>CASTEP</u>](http://www.castep.org/) <br> (collaboration with Prof. Chris J. Pickard @ Cambridge Univ.)
 
-- [VASP](http://cms.mpi.univie.ac.at/vasp/)
+- [<u>VASP</u>](http://cms.mpi.univie.ac.at/vasp/)
 
-- [WIEN2k](http://www.wien2k.at/)
+- [<u>WIEN2k</u>](http://www.wien2k.at/)
 
-- [FHI-aims](https://fhi-aims.org/)
+- [<u>FHI-aims</u>](https://fhi-aims.org/)
 
-- [Elk](https://elk.sourceforge.io/)
+- [<u>Elk</u>](https://elk.sourceforge.io/)
 
 - OLCAO <br> (collaboration with [Prof. Paul Rulis and Prof. Wai Yim Ching @UMKC ](http://cas.umkc.edu/physics/ching/INDEX.htm))
 
