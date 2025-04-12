@@ -7,15 +7,11 @@ draft: false
 ---
 ##### Research Environments / 研究環境
 <img src="/images/environment/2025renew.jpg"> 
-<p align = "center">
-We have "toally" updated our lab space in March 2025.<br>
+We have "totally" updated our lab space in March 2025.<br>
 Special thanks to [<u>Kawazoe lab., Mr. Masato Tohno-san!!</u>](http://www.kwz.iis.u-tokyo.ac.jp/) 
-</p>
     
 <img src="/images/environment/2025renew2.jpg">
-<p align = "center">
 Nice space and many books and whiteboards for anytime discussions.
-</p>
 
 ---
 <br>
