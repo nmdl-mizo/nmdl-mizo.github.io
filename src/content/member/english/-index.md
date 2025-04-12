@@ -98,3 +98,9 @@ M: Kazuya Miyamoto（宮本 和弥）
 M: Yinan Wang（王 憶楠）
 <br>email：ynwang_at_iis.u-tokyo.ac.jp
 
+##### -International Visiting Student-
+
+<img src="/images/mem/46.jpg" style="width:1.44in;height:1.94in" />
+
+D: Yeongrok Jin
+<br>email：yrjin_at_iis.u-tokyo.ac.jp
