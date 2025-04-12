@@ -25,25 +25,4 @@ testimonials:
     avatar: ""
     content: "Our study on prediction of overlap population diagram of 2M bonds of  13k organic molecules is just published in Chemistry Lett. You can access to all data of 2M bonds!<u>[Here](https://academic.oup.com/chemlett/article/54/3/upaf038/8058640)</u>"
 
-  - name: "2025, March"
-    designation: ""
-    avatar: ""
-    content: ""
-  
-  - name: "2025, March"
-    designation: ""
-    avatar: ""
-    content: ""
-  
-  - name: "2025, March"
-    designation: ""
-    avatar: ""
-    content: ""
-  
-  - name: "2025, March"
-    designation: ""
-    avatar: ""
-    content: ""
-  
-
 ---
