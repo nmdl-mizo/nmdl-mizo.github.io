@@ -8,6 +8,11 @@ testimonials:
   - name: "2025, April"
     designation: ""
     avatar: ""
+    content: "研究環境のページをupdateしました<u>[こちら](/environment)</u>"
+  
+  - name: "2025, April"
+    designation: ""
+    avatar: ""
     content: "2025年度が始まりました！<u>[2025年度メンバー](https://x.com/nmdl_mizo/status/1908086851103265154)</u>"
   
   - name: "2025, April"

@@ -7,33 +7,63 @@ draft: false
 ---
 
 **International Conference**
-1.  **I. Takahara**, MRS Boston, Nov. 5, 2024
+1.  **I. Takahara**, K. Shibata, and T. Mizoguchi,
+    "Diffusion Generative Modelling with Transformers for Generative Materials Design"
+    MRS fall meeting, Boston, Nov. 5, 2024
 
-1.  **P. Y. Chen**, NTU-UT workshop, Nov.,28 2024
+1.  **P. Y. Chen**, K. Shibata, and T. Mizoguchi,
+    "Large-scale BaTiO3 system investigation via machine learning force field"
+    NTU-UT workshop, Nov.,28 2024
 
-1.  **I. Takahara**, IJCAI 2024
+1.  **I. Takahara**, K. Shibata, and T. Mizoguchi,
+    "Generative Inverse Design of Crystal Structuresvia Diffusion Models with Transformers"
+    IJCAI, AI4Science workshop, 2024, Aug. 5th, Jeju, Korea
 
-1.  **K. Shibata**, NeurIPS 2023
+1.  **K. Shibata** and T. Mizoguchi,
+    "Message Passing Neural Network for Predicting Dipole Moment DependentCore Electron Excitation Spectra" 
+    NeurIPS, workshop AI4Mat, 2023, Dec. 5,  New Orleans, USA
+    *This paper was selected as **Spotlight***
 
-1.  **N. Kawaguchi**, MRS-boston 2023
+1.  **K. Shibata** and T. Mizoguchi,
+    "C-K Edge Spectral Database and Spectral Prediction using Graph Convolutional Network"
+    Iamnano 2023, 2023. June 29th, Matsue, Shimane
 
-1.  **K. Nishio**, MRS-boston 2023
+1.  **N. Kawaguchi**, K. Shibata, T. Mizoguchi,
+    "Extracting Physics from Database with Systematic DFT calculations: Intercalation Energies of Layered Intercalation Compounds with Various Ions"
+    MRS fall meeting, Boston, Nov. 29th,  2023
 
-1.  **N. Kawaguchi**, MRM 2023
+1.  **K. Nishio**, K. Shibata, T. Mizoguchi,
+    "Prediction of forces and energy based on rotational invariant spherical representations"
+    MRS fall meeting, Boston, Nov. 28th,  2023
 
-1.  **P.Y.Chen**, MRM 2023
+1.  **N. Kawaguchi**, K. Shibata, and T. Mizoguchi, 
+    "Design of Intercalant-Induced Function of Layered Intercalation Compounds via DFT Simulation and Machine Learning"
+    Materials Research Meeting (MRM) 2023, Dec. 20, Kyoto, Kyoto.
 
-1.  **K. Shibata**, IMC20
+1.  **P.Y.Chen**, K. Shibata, and T. Mizoguchi,
+    "Exploring Ground State Electronic Structure of materials through ELNES/XANES Spectra or SMILES Strings via machine learning"
+    Materials Research Meeting (MRM) 2023, Dec. 20, Kyoto, Kyoto.
 
-2.  **I. Takahara** IMC20
+1.  **K. Shibata** and T. Mizoguchi,
+    "Database construction and machine learning prediction of site specific carbon K edge core-loss spectra"
+    International Microscopy Congress (IMC) 2023, Pusan, 2023, Sep.11, Korea 
 
-3.  **Y. Lee IMC20**
+3.  **I. Takahara**, K. Shibata, and T. Mizoguchi
+    "Data-driven Approach for the Prediction of Ground State Electronic Density of States with Electron Energy Loss Spectroscopy"
+    International Microscopy Congress (IMC) 2023, Pusan, 2023, Sep.11, Korea 
 
-4.  **I. Takahara**, FHI-aims developper’s meeting
+3.  **Y. Lee**, Y. S. Xie, K. Shibata, and T. Mizoguchi
+    "First principles calculation of electron energy-loss near edge structure of twisted 2D van der Waals structures"
+    International Microscopy Congress (IMC) 2023, Pusan, 2023, Sep.11, Korea 
 
-5.  **Y. Lee** FMS2023
+4.  **I. Takahara**, K. Shibata, and T. Mizoguchi, 
+    ”Implementation of Code to Calculate Crystal Orbital overlap population (COOP) and its Application to the Chemical-Bonding Analysis in Li-intercalated Layered Material”FHI-aims developper’s meeting, Germany, 2023. Aug. 1. 
 
-6.  **Y. Hata, **Y. S. Xie,** K. Shibata**, and T. Mizoguchi  
+5.  **Y. Lee**, Y. S. Xie, K. Shibata, and T. Mizoguchi
+    "First-principles study on moiré ionics: Ion intercalation in twisted bilayer graphene"
+    Functional Materials Science (FMS) 2023, Pusan, 2023, June 20th, Korea, 
+
+6.  **Y. Hata**, Y. S. Xie, K. Shibata, and T. Mizoguchi  
     “Development of a systematic and efficient method for searching for the most stable grain boundary structures: A method based on non-identical termination combination”  
     2022 MRS Fall Meeting & Exhibit, Online, 2022/12/7.
 
@@ -49,7 +79,7 @@ draft: false
     “Ground state electronic structure prediction from ELNES/XANES by machine learning”  
     The 4th East-Asia Microscopy Conference (EAMC4), Online, 2022/12/4 
 
-10. **Teruyasu Mizoguchi, **Kiyou Shibata, Eiki Suzuki, and Kakeru Kikumasa  
+10. **Teruyasu Mizoguchi**, Kiyou Shibata, Eiki Suzuki, and Kakeru Kikumasa  
     “Data-driven Approaches for Materials Characterization:Core-loss Spectroscopy & Surface Adsorption”  
     The 9th International Symposium on Surface Science (ISSS9), 2021, online, April 28th.
 
@@ -57,11 +87,11 @@ draft: false
     “Simultaneous Assessment of Thickness and Composition of Non-crystalline Silicate Glass by High-speed pixeled detector”  
     International Conference on Ceramics (ICC), 2021, online, April 28th.
 
-12. **Kunyen Liao, **Kiyou Shibata, and T. Mizoguchi  
+12. **Kunyen Liao**, Kiyou Shibata, and T. Mizoguchi  
     “Nano-meter scale Observation of Atomistic Vibration in Silicate Glass by Monochromated EELS”  
     International Conference on Ceramics (ICC), 2021, online, April 28th.
 
-13. **Kunyen Liao, **Kiyou Shibata, and T. Mizoguchi  
+13. **Kunyen Liao**, Kiyou Shibata, and T. Mizoguchi  
     “Probing Thermal Expansion Coefficient of SrTiO3 Grain Boundaries by In-Situ STEM-EELS”  
     Materials Research Society (MRS) Fall meeting 2020, online, Dec.1st.
 
@@ -443,83 +473,139 @@ draft: false
 
 **Domestic Conference**
 
-1.  杉浦 佑　応用物理学会秋期大会＠新潟
+1.  **福沢源**, 柴田基洋，溝口照康
+    ”第一原理計算による二層グラフェンおよび二層六方晶窒化ホウ素におけるイオン伝導性のツイスト角度依存性の研究”
+    応用物理学会春季大会，2025. 3. 15, 東京理科大学・運河，千葉
 
-1.  柴田基洋　応用物理学会秋期大会＠新潟
+1.  **福沢源**, 柴田基洋，溝口照康
+    ”第一原理計算による二層グラフェンおよび二層六方晶窒化ホウ素におけるイオン伝導性のツイスト角度依存性の研究”
+    応用物理学会春季大会，2025. 3. 15, 東京理科大学・運河，千葉
 
-1.  Sangjun Lee　日本金属学会秋期大会＠大阪
+1.  **Poyen Chen**, 柴田基洋，溝口照康
+    ”Development of high precision machine larning potential of BaTiO3 for investigation of the phase transition behavior”
+    日本セラミックス協会年会，2025. 3. 10, 静岡大学，静岡
 
-1.  高原泉　日本金属学会秋期大会＠大阪
+1.  **杉浦 佑**，柴田基洋，溝口照康
+    "学習済みモデルを特徴量抽出器として用いた外挿的物性予測の検討"
+    応用物理学会秋期大会，2024. 9. 18, 朱鷺メッセ，新潟
 
-1.  中川諒記　日本金属学会秋期大会＠大阪
+1.  **柴田基洋**，溝口照康
+    "孤立原子の電子構造 を説明変数とするグラフニューラルネットワークの検討"
+    応用物理学会秋期大会，2024. 9. 18, 朱鷺メッセ，新潟
 
-1.  Yebin Lee　日本金属学会春季大会＠東京
+1.  **Sangjun Lee**,柴田基洋，溝口照康
+    "Interstitial nonmetallic solute segregation and their influence on the strength of Ti (101(_)2) twin boundary"
+    日本金属学会秋期大会，2024. 9.19, 大阪大学豊中，大阪    
 
-1.  高原泉　応用物理学会春季大会＠東京
+1.  **高原泉**，柴田基洋，溝口照康
+    ”化学結合状態計算のためのソフトウェア開発と材料解析への応用”
+    日本金属学会秋期大会，2024. 9.19, 大阪大学豊中，大阪
 
-1.  柴田基洋　応用物理学会春季大会＠東京
+1.  **中川諒記**，高原泉，柴田基洋，溝口照康
+    "グラフニューラルネットワークによる化学結合状態の予測"
+    日本金属学会秋期大会，2024. 9.19, 大阪大学豊中，大阪
 
-1.  高原泉　日本金属学会秋季大会＠富山
+1.  **Poyen Chen**, 柴田基洋，溝口照康
+    ”ELNES/XANES construction from SMILES and analysis for ground state carbon PDOS using machine learning method”
+    日本顕微鏡学会年会，2024. 6. 9, 幕張メッセ，千葉
 
-2.  西尾健人　日本金属学会秋季大会＠富山
+1.  **Yebin Lee**, 柴田基洋，溝口照康
+    "First-principles study on core-loss spectrum and ion intercalation in twisted bilayer graphene"
+    日本金属学会春季大会，2024.3.20，東京理科大学，東京
 
-3.  柴田基洋　若手の会
+1.  **高原泉**，柴田基洋，溝口照康
+    ”拡散モデルを用いた回転・並進に対する同変・不変量の同時生成による結晶構造生成”
+    応用物理学会春季大会，2024, 3.22, 東京都市大学，東京
 
-4.  川口直登　若手の会
+1.  **柴田基洋**，溝口照康
+    "異方性を考慮したグラフニューラルネットワークの開発：異方的ELNES/XANESスペクトル予測への利用"
+    応用物理学会春季大会，2024, 3.22, 東京都市大学，東京
 
-5.  Poyen Chen　若手の会
+1.  **川口直登**，柴田基洋，溝口照康
+    "第一原理計算による新規黒鉛層間化合物超伝導体の探索"
+    応用物理学会春季大会，2024, 3.16, 東京都市大学，東京
 
-6.  中川諒紀　若手の会
+1.  **高原泉**，柴田基洋，溝口照康
+    ”機械学習を用いた内殻電子励起スペクトルからの基底状態原子・電子構造解析法の開発”
+    日本金属学会秋季大会，2023, 9. 21, 富山大学，富山
 
-7.  福沢源　若手の会
+2.  **西尾健人**，柴田基洋，溝口照康
+    ”事前学習済みグラフニューラルネットワークを活用した小規模データセットに対する材料物性予測”
+    日本金属学会秋季大会，2023, 9. 20, 富山大学，富山
 
-8.  Yebin Lee　若手の会
+3.  **柴田基洋**，溝口照康
+    "有機高分子材料分析に向けた機械学習による炭素K吸収端ELNES/XANESの形状予測の検討"
+    新学術領域研究・若手の会・2023.7.30, 東京大学，東京
 
-9.  高原泉　若手の会
+4.  **川口直登**，柴田基洋，溝口照康
+    ”層間化合物のデータベース構築とインターカラントを機能コアとした物質設計”
+    新学術領域研究・若手の会・2023.7.30, 東京大学，東京
 
-10. 西尾健人　若手の会
+5.  **Poyen Chen**，柴田基洋，溝口照康
+    "機械学習を利用したELNES/XANESおよびSMILESに基づく電子構造の予測"
+    新学術領域研究・若手の会・2023.7.30, 東京大学，東京
 
-11. 川口直登, 柴田基洋, 溝口照康  
+6.  **中川諒紀**，高原泉，柴田基洋，溝口照康
+    "化学結合データベースの作成と機械学習による予測"
+    新学術領域研究・若手の会・2023.7.30, 東京大学，東京
+
+7.  **福沢源**，川口直登，高原泉，柴田基洋，溝口照康
+    ”インターカレーション化合物の化学結合解析”
+    新学術領域研究・若手の会・2023.7.30, 東京大学，東京
+
+8.  **Yebin Lee**，柴田基洋，溝口照康
+    "第一原理計算によるモアレイオニクスの開拓"
+    新学術領域研究・若手の会・2023.7.30, 東京大学，東京
+
+9.  **高原泉**，柴田基洋，溝口照康
+    ”物質の逆設計に向けた深層生成モデルの開発”
+    新学術領域研究・若手の会・2023.7.30, 東京大学，東京
+
+10. **西尾健人**，柴田基洋，溝口照康
+    ”基底関数を最適化したグラフニューラルネットワークによる回転不変物性の予測”
+    新学術領域研究・若手の会・2023.7.30, 東京大学，東京
+
+11. **川口直登**, 柴田基洋, 溝口照康  
     ” 第一原理計算による新規黒鉛層間化合物超伝導体の探索”  
     第70回応用物理学会 春季学術講演会，上智大学，東京，2023/3/16
 
-12. 西尾健人、柴田基洋、溝口照康  
+12. **西尾健人**、柴田基洋、溝口照康  
     “グラフェン上の多様な結合種を予測可能な機械学習モデルの開発”  
     第70回応用物理学会 春季学術講演会，上智大学，東京，2023/3/17
 
-13. 柴田基洋, 溝口照康  
+13. **柴田基洋**, 溝口照康  
     ” 有機高分子材料分析に向けた機械学習による炭素K吸収端ELNES/XANESの形状予測の検討”  
     第70回応用物理学会 春季学術講演会，上智大学，東京，2023/3/18
 
-14. 川口直登, 柴田基洋, 溝口照康  
+14. **川口直登**, 柴田基洋, 溝口照康  
     ” 層間化合物のデータベース構築と安定性に関する理解”  
     第16回 物性科学領域横断研究会, online, 2022/11/25
 
-15. 川口直登, 柴田基洋, 溝口照康  
+15. **川口直登**, 柴田基洋, 溝口照康  
     ” 第一原理計算を用いた層間化合物の安定性に関する理解”  
     日本セラミックス協会第35回秋季シンポジウム, 徳島大学，徳島 2022/9/15
 
-16. 溝口照康，畑勇気，Xie Yaoshu，柴田基洋  
+16. **溝口照康**，畑勇気，Xie Yaoshu，柴田基洋  
     ” 組み合わせ最適化による界面構造の決定”  
     日本セラミックス協会第35回秋季シンポジウム, 徳島大学，徳島 2022/9/15
 
-17. 畑勇気，Xie Yaoshu，柴田基洋  
+17. **畑勇気**，Xie Yaoshu，柴田基洋  
     “非等価な端面組合せに基づく体系的かつ効率的な粒界構造探索”  
     日本金属学会秋季シンポジウム, 福岡工業大学，福岡 2022/9/8
 
-18. Xie Yaoshu，柴田基洋，溝口照康  
+18. **Xie Yaoshu**，柴田基洋，溝口照康  
     ” Development and application of software for effective crystal interface modeling”  
     日本金属学会秋季シンポジウム, 福岡工業大学，福岡 2022/9/8
 
-19. 溝口照康，畑勇気，柴田基洋  
+19. **溝口照康**，畑勇気，柴田基洋  
     “機械学習，第一原理計算および電子顕微鏡を活用した材料の構造・物性解析”  
     電子材料研究討論会, オンライン，11/5，2021
 
-20. 畑勇気，Yaoshu Xie，柴田基洋，溝口照康  
+20.**畑勇気**，Yaoshu Xie，柴田基洋，溝口照康  
     “対称傾角粒界データベースの構築と情報科学手法による構造予測の検討”  
     電子材料研究討論会, オンライン，11/5，2021
 
-21. Kunyen Liao，柴田基洋，溝口照康  
+21. **Kunyen Liao**，柴田基洋，溝口照康  
     “電子エネルギー損失分光法による酸化物セラミック中熱膨張率の局所解析”  
     日本金属学会秋季大会, オンライン，9/17，2021
 
