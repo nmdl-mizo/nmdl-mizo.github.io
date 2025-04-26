@@ -8,6 +8,11 @@ testimonials:
   - name: "2025, April"
     designation: ""
     avatar: ""
+    content: "研究室紹介2025年度版を作成しました．大学院生募集中です．<u>[こちら](/images/2025NMDL.jpg)</u>"
+  
+  - name: "2025, April"
+    designation: ""
+    avatar: ""
     content: "自動化の検証を兼ねて気分転換してます．<u>[こちら](https://x.com/nmdl_mizo/status/1915720833642995803)</u>"
   
   - name: "2025, April"
