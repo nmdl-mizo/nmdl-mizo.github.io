@@ -8,6 +8,16 @@ testimonials:
   - name: "2025, April"
     designation: ""
     avatar: ""
+    content: "We made refreshment with automation system.<u>[Here](https://x.com/nmdl_mizo/status/1915720833642995803)</u>"
+  
+  - name: "2025, April"
+    designation: ""
+    avatar: ""
+    content: "We made refreshment with GPU(5090). <u>[Here](https://x.com/nmdl_mizo/status/1915719507278258195)</u>"
+  
+  - name: "2025, April"
+    designation: ""
+    avatar: ""
     content: "New semester 2025 is launched! <u>[New members](https://x.com/nmdl_mizo/status/1908086851103265154)</u>"
 
   - name: "2025, March"

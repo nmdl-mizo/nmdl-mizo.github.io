@@ -8,6 +8,16 @@ testimonials:
   - name: "2025, April"
     designation: ""
     avatar: ""
+    content: "自動化の検証を兼ねて気分転換してます．<u>[こちら](https://x.com/nmdl_mizo/status/1915720833642995803)</u>"
+  
+  - name: "2025, April"
+    designation: ""
+    avatar: ""
+    content: "GPUを換装して気分転換しました．<u>[こちら](https://x.com/nmdl_mizo/status/1915719507278258195)</u>"
+  
+  - name: "2025, April"
+    designation: ""
+    avatar: ""
     content: "研究環境のページをupdateしました<u>[こちら](/environment)</u>"
   
   - name: "2025, April"

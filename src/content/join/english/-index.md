@@ -45,6 +45,3 @@ Our lab's doctoral graduates are active in various fields, including universitie
 
 Our lab belongs to the [**Department of Materials Engineering, Graduate School of Engineering, The University of Tokyo**](https://www.material.t.u-tokyo.ac.jp/faculty/graduate/). If you wish to join our lab as a graduate student, please take the entrance exam. For details, please refer to the [**entrance exam information page**](https://www.material.t.u-tokyo.ac.jp/prospective_students/) of the Department of Materials Engineering.
 
-<p align="right">
-Teruyasu Mizoguchi, May 2024
-</p>
