@@ -19,14 +19,24 @@ draft: false
 1.  M. Niibe, T. Nakashima, Y. Saito, Y. Ando, **T. Mizoguchi**, and I. Matsuda  
     submitted
 
-1.  DH Yang et al.  
+1.  MS Kim et al.  
     submitted
 
-1.  MS Kim et al.  
+1.  吉谷地豪太 et al.  
+    submitted
+
+1.  **I. Takahara**, **T. Mizoguchi**, and B. Liu  
+    submitted
+
+1.  J. Yan, et al.,  
     submitted
 
 
 **— 2025 —**  
+
+1.  "Direct Imaging of Co-CUK-1 Framework with H2O Guests"
+     DH Yang et al.  
+    *Small*, (2025) in press
 
 3.  "AI×物質科学"  
     **溝口照康，柴田基洋**  
@@ -35,7 +45,6 @@ draft: false
 3.  "Prediction of the overlap population diagram of organic molecules based on a graph neural network"  
     **R. Nakagawa, I. Takahara, K. Shibata**, and **T. Mizoguchi**  
     *Chemistry Lett.*, 54(2025)upaf038. [**here**](https://academic.oup.com/chemlett/article/54/3/upaf038/8058640)\]
-
 
 **— 2024 —**
 
@@ -64,7 +73,7 @@ draft: false
     *Micron* 180 (2024) 103623-1-8 \[[**here**](https://www.sciencedirect.com/science/article/pii/S0968432824000404)\]
 
 7.  “Effect of inorganic material surface chemistry on structures and fracture behaviours of epoxy resin”  
-    T. Miyata, YK. Sato, Y. Kawagoe, K. Shirasu, HF. Wang, A. Kumagai, S. Kinoshita, M. Mizukami, K. Yoshida, H.H. Huang, T. Okabe, K. Hagita, **T. Mizougchi**, and H. Jinnai, 
+    T. Miyata, YK. Sato, Y. Kawagoe, K. Shirasu, HF. Wang, A. Kumagai, S. Kinoshita, M. Mizukami, K. Yoshida, H.H. Huang, T. Okabe, K. Hagita, **T. Mizougchi**, and H. Jinnai  
     *Nature Comm.,* 15 (2024), 1898-1-10 . \[[**here**](https://www.nature.com/articles/s41467-024-46138-6)\]
 
 8.  “Unraveling the Stability of Layered Intercalation Compounds through First-Principles Calculations: Establishing a Linear Free Energy Relationship with Aqueous Ions”  
@@ -106,7 +115,7 @@ draft: false
     *セラミックス*，58, 11 (2023), 732-736.
 
 17. “A lithium superionic conductor for millimeter-thick battery electrode”  
-    Y. Lee, S. Song, H. Kim, K. Nomoto, H. Kim, X. Sun, S. Hori, K. Suzuki, N. Matsui, M. Hirayama, **T. Mizoguchi**, T. Saito, T. Kamiyama, and R. Kanno, 
+    Y. Lee, S. Song, H. Kim, K. Nomoto, H. Kim, X. Sun, S. Hori, K. Suzuki, N. Matsui, M. Hirayama, **T. Mizoguchi**, T. Saito, T. Kamiyama, and R. Kanno  
     *Science*, 381 (2023), 50-53 \[[**here**](https://www.science.org/doi/10.1126/science.add7138)\]
 
 18. “Twist-induced interlayer charge buildup in a WS2 bilayer revealed by electron Compton scattering and density functional theory”  
@@ -330,7 +339,7 @@ draft: false
     J. Phys. Chem. Lett.*, 9 (2018), 5733-5741. DOI: 10.1021/acs.jpclett.8b01837.  
     \*\*This manuscript has Correction!! \[[HERE](https://pubs.acs.org/doi/10.1021/acs.jpclett.9b00301)\]\*\*
 
-69. “透過型電子顕微鏡を用いたイオン液体の原子分解能観察”**  
+69. “透過型電子顕微鏡を用いたイオン液体の原子分解能観察”  
     **宮田智衆**，**杉森悠貴**，橋口裕樹，奥西栄治，上杉文彦，**溝口照康**  
     *化学工業*，69 (2018) 15-22.
 

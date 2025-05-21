@@ -5,6 +5,11 @@ description: "<b> [過去のニュース](/news) </b>"
 
 # Testimonials
 testimonials:
+  - name: "2025, May"
+    designation: ""
+    avatar: ""
+    content: "駒場リサーチキャンパス公開が5/30, 31に行われます．本年は色々な都合が合わず，溝口研究室はポスター掲示のみの小規模な参加となります（溝口本人も不在がちです）．<u>[こちら](https://x.com/nmdl_mizo/status/1925092026036715632)</u>"
+  
   - name: "2025, April"
     designation: ""
     avatar: ""
