@@ -8,6 +8,16 @@ draft: false
 **<b> Please see top-page and Twitter(X) for the latest new! </b>**
 
 **2025　:**
+
+-April 2025 New semester 2025 is launched! <u>[New members](https://x.com/nmdl_mizo/status/1908086851103265154)</u>
+
+- April 2025 We made many seminars for newcomers!! <u>[Here](https://x.com/nmdl_mizo/status/1908090320996229367)</u>
+
+- March 2025 Our study on prediction of overlap population diagram of 2M bonds of  13k organic molecules is just published in Chemistry Lett. You can access to all data of 2M bonds!<u>[Here](https://academic.oup.com/chemlett/article/54/3/upaf038/8058640)</u>
+
+- March 2025 We made BIG farewell party!! Thank you for your great efforts!!<u>[Here](https://x.com/nmdl_mizo/status/1904455865266319523)
+
+
 - March 2025 We made farewell and welcome party! <u>[Here](https://x.com/nmdl_mizo/status/1896812221189308917)</u>
 
 - March 2025 Our short manuscript on "AI x materials science" has published in 「現代化学」4月号 <u>[Here](https://x.com/tkd_hensyu/status/1899384804325445909)</u>
