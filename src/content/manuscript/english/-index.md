@@ -19,7 +19,7 @@ draft: false
 1.  M. Niibe, T. Nakashima, Y. Saito, Y. Ando, **T. Mizoguchi**, and I. Matsuda  
     submitted
 
-1.  MS Kim et al.  
+1.  MS Kim, S.Y. Choi, et al.  
     submitted
 
 1.  吉谷地豪太 et al.  
@@ -28,8 +28,12 @@ draft: false
 1.  **I. Takahara**, **T. Mizoguchi**, and B. Liu  
     submitted
 
-1.  J. Yan, et al.,  
+1.  J. Yan, S. Yagi, et al.,  
     submitted
+
+1.  J. Kikkawa, et al.,  
+    submitted
+
 
 
 **— 2025 —**  
