@@ -5,6 +5,16 @@ description: "<b><u> [Previous News](/en/news) </u></b>"
 
 # Testimonials
 testimonials:
+  - name: "2025, June"
+    designation: ""
+    avatar: ""
+    content: "Automation, Automation, Automation...<u>[Here](https://x.com/nmdl_mizo/status/1935170205854089443)</u>"
+
+- name: "2025, June"
+    designation: ""
+    avatar: ""
+    content: "Thank you to everyone who attended the Komaba Research Campus Open Day!!<u>[Here](https://x.com/nmdl_mizo/status/1935169052831535211)</u>"
+
   - name: "2025, May"
     designation: ""
     avatar: ""

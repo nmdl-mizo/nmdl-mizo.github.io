@@ -55,7 +55,7 @@ D: Yu Fujikata (藤方　悠)
 
 <img src="/images/mem/lowis.jpg" style="width:1.56667in;height:2.08333in" />
 
-D: Lowis Wong 
+D: Louis Wong 
 <br>email：lwong_at_iis.u-tokyo.ac.jp
 
 <img src="/images/mem/youjeong.jpg" style="width:1.44133in;height:1.91667in" />
