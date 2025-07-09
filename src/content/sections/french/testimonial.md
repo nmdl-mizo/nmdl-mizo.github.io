@@ -5,6 +5,21 @@ description: "<b> [過去のニュース](/news) </b>"
 
 # Testimonials
 testimonials:
+  - name: "2025, July"
+    designation: ""
+    avatar: ""
+    content: "IIS PhD student liveで学生が発表しました<u>[こちら](https://x.com/nmdl_mizo/status/1942778149504516392)</u>"
+
+  - name: "2025, July"
+    designation: ""
+    avatar: ""
+    content: "駒場リサーチキャンパスの七夕イベントに参加しました<u>[こちら](https://x.com/nmdl_mizo/status/1942777956620984761)</u>"
+
+  - name: "2025, July"
+    designation: ""
+    avatar: ""
+    content: "研究員として在籍してたSangjunさんに韓国で会いました！<u>[こちら](https://x.com/nmdl_mizo/status/1942777735476347182)</u>"
+
   - name: "2025, June"
     designation: ""
     avatar: ""

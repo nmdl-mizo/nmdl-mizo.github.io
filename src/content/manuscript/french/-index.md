@@ -34,6 +34,12 @@ draft: false
 1.  J. Kikkawa, et al.,  
     submitted
 
+1.  J. W. Abbott,..**I. Takahara**, **K. Shibata**, **T. Mizoguchi**, et al.,  
+    FHI-aims, submitted
+
+1.  **P. Y. Chen and **T. Mizoguchi**  
+    submitted (soon)
+
 
 
 **— 2025 —**  
