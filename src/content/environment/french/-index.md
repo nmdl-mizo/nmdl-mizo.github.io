@@ -70,9 +70,9 @@ draft: false
 
 - [Materials Studio ](https://www.3ds.com/ja/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/)
 
-<img src="/images/3DS2025.png" />
-<img src="/images/3DS2024.png" />
-ダッソーシステムの[<u>アンバサダー</u>](https://www.3ds.com/science/science-ambassador-program) を務めています．
+<img src="/images/3DS2025.png" style="width:2.0in;height:2.0in" />
+<img src="/images/3DS2024.png" style="width:2.0in;height:2.0in" />
+ダッソーシステムの [<u>アンバサダー</u>](https://www.3ds.com/science/science-ambassador-program)  を務めています．
 <br>
 
 ###### TEM, SEM, and analytical tools
