@@ -8,6 +8,45 @@ draft: false
  <p align="right"> **Bold** *indicates presenter*
  
 1.  **溝口照康**  
+    ”＊＊“, BIOVIA講演会，品川，Nov. 13th, 2025
+
+1.  **溝口照康**  
+    ”＊＊“, 誘電体プロセス，大阪，Oct. 4th, 2025
+
+1.  **溝口照康**  
+    ”＊＊“, ニュースバル講演会 ，姫路，兵庫，Sep. 29, 2025
+
+1.  **溝口照康**  
+    ”＊＊“, 化学工学会 ，芝浦工大，東京，Sep. 16, 2025
+
+1.  **溝口照康**  
+    ”＊＊“, ARIM講演会 ，JAIST，石川，Sep. 11, 2025
+
+1.  **溝口照康**  
+    ”＊＊“, 講演会 ，横浜，July 25, 2025
+
+1.  **溝口照康**  
+    ”＊＊“, 埼玉大学情報基礎特別講義 ，埼玉大学，埼玉，July 18, 2025
+
+1.  **Teruyasu Mizoguchi**  
+    “***”, Nanokorea 2025, Seoul, Korea, July 4, 2025
+
+1.  **Teruyasu Mizoguchi**  
+    “***”, ICMAT 2025, Signapore, June 30, 2025
+
+1.  **溝口照康**  
+    ”＊＊“, 強誘電体学会 ，京都産業会館，京都，June 12, 2025
+
+1.  **溝口照康**  
+    ”＊＊“, 日本顕微鏡学会講演会 ，九州国際会議場，福岡，June 9, 2025
+
+1.  **Teruyasu Mizoguchi**  
+    “***”, UT2-Mac workshop 2025, Hongo,Tokyo, June 3, 2025
+
+1.  **Izumi Takahara**, Teruyasu Mizoguchi, and Bang Liu  
+    ”Accelerated inorganic materials design with generative AI agents“, AI alliance Webinar ，May 22, 2025
+
+1.  **溝口照康**  
     ”物質設計に向けた機械学習手法の開発とその応用“, 日本化学会年会 ，関西大学，大阪，March 29th, 2025
 
 1.  **溝口照康**  

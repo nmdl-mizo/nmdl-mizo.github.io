@@ -68,6 +68,10 @@ Nice space and many books and whiteboards for anytime discussions.
 - [OpenMX](https://www.openmx-square.org/)
 
 - [Materials Studio ](https://www.3ds.com/ja/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/)
+<img src="/images/3DS2025.png" />
+<img src="/images/3DS2024.png" />
+Mizoguchi is [<u>Ambassador</u>](https://www.3ds.com/science/science-ambassador-program) of Dassault Systems.
+<br>
 
 ---
 <br>
