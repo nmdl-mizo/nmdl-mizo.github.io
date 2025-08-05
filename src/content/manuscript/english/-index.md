@@ -13,16 +13,10 @@ draft: false
 1.  **S. Lee, K. Shibata**, D. Bae, and **T. Mizoguchi**  
     submitted
 
-1.  **P. Y. Chen, K. Shibata**, and **T. Mizoguchi**  
-    submitted
-
 1.  M. Niibe, T. Nakashima, Y. Saito, Y. Ando, **T. Mizoguchi**, and I. Matsuda  
     submitted
 
 1.  MS Kim, S.Y. Choi, et al.  
-    submitted
-
-1.  吉谷地豪太 et al.  
     submitted
 
 1.  **I. Takahara**, **T. Mizoguchi**, and B. Liu  
@@ -38,15 +32,23 @@ draft: false
     FHI-aims, submitted
 
 1.  **P. Y. Chen and **T. Mizoguchi**  
-    submitted (soon)
+    submitted
 
 
 
 **— 2025 —**  
 
+1.  "High Precision Machine Learning Force Field Development for BaTiO3 Phase Transitions, Amorphous, and Liquid Structures"
+     **P. Y. Chen, K. Shibata**, and **T. Mizoguchi**  
+    *APL Machine Learning*, (2025), in press
+
+1.  "第一原理計算に基づく白金表面への酸素吸着挙動の解析"
+     吉谷地豪太，中條雄太，溝口照康，田中優美  
+    *日本金属学会誌*, (2025) in press
+
 1.  "Direct Imaging of Co-CUK-1 Framework with H2O Guests"
-     DH Yang et al.  
-    *Small*, (2025) in press
+    Dong-Hwan Yang, Minjeong Kim, Jinyoung Ko, Gi-Yeop Kim, Hyung Gyu Park, Sarah S. Park, Kyung Ho Cho, Ji Sun Lee, Jong-San Chang, U-Hwang Lee, Ryo Ishikawa, Naoya Shibata, Yousung Jung, Jonghwan Kim, **Teruyasu Mizoguchi**, Si-Young Choi 
+    *Small*, 21, (2025)2411292-1-9 
 
 3.  "AI×物質科学"  
     **溝口照康，柴田基洋**  

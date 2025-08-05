@@ -5,6 +5,16 @@ description: "<b> [過去のニュース](/news) </b>"
 
 # Testimonials
 testimonials:
+  - name: "2025, Aug."
+    designation: ""
+    avatar: ""
+    content: "BaTiO3の結晶多形，ガラス，液体状態に利用可能な高精度機械学習ポテンシャルに関する研究成果がAPL Machine Learningに掲載決定しました．"
+
+  - name: "2025, Aug."
+    designation: ""
+    avatar: ""
+    content: "東京理科大学との共同研究成果が日本金属学会誌に掲載決定しました．"
+
   - name: "2025, July"
     designation: ""
     avatar: ""

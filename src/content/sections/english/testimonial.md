@@ -5,6 +5,16 @@ description: "<b><u> [Previous News](/en/news) </u></b>"
 
 # Testimonials
 testimonials:
+  - name: "2025, Aug."
+    designation: ""
+    avatar: ""
+    content: "Our study on the development of high precision machine learning potential for crystalline polytypes, glass and liquid of BaTiO3 has been accepted in APL Machine Learning."
+
+  - name: "2025, Aug."
+    designation: ""
+    avatar: ""
+    content: "Collabolation study with Tokyo Univ. Sci. has been accepted in 日本金属学会誌 (Japanese journal)"
+
   - name: "2025, July"
     designation: ""
     avatar: ""
