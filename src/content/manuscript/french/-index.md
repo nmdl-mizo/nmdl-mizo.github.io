@@ -22,32 +22,33 @@ draft: false
 1.  **I. Takahara**, **T. Mizoguchi**, and B. Liu  
     submitted
 
-1.  J. Yan, S. Yagi, et al.,  
-    submitted
-
 1.  J. Kikkawa, et al.,  
     submitted
 
 1.  J. W. Abbott,..**I. Takahara**, **K. Shibata**, **T. Mizoguchi**, et al.,  
     FHI-aims, submitted
 
-1.  **P. Y. Chen and **T. Mizoguchi**  
+1.  **P. Y. Chen** and **T. Mizoguchi**  
     submitted
 
 
 
 **— 2025 —**  
 
-1.  "High Precision Machine Learning Force Field Development for BaTiO3 Phase Transitions, Amorphous, and Liquid Structures"
+1.  "High Precision Machine Learning Force Field Development for BaTiO3 Phase Transitions, Amorphous, and Liquid Structures"  
      **P. Y. Chen, K. Shibata**, and **T. Mizoguchi**  
     *APL Machine Learning*, (2025), in press
 
-1.  "第一原理計算に基づく白金表面への酸素吸着挙動の解析"
+1.  "第一原理計算に基づく白金表面への酸素吸着挙動の解析"  
      吉谷地豪太，中條雄太，溝口照康，田中優美  
     *日本金属学会誌*, (2025) in press
 
-1.  "Direct Imaging of Co-CUK-1 Framework with H2O Guests"
-    Dong-Hwan Yang, Minjeong Kim, Jinyoung Ko, Gi-Yeop Kim, Hyung Gyu Park, Sarah S. Park, Kyung Ho Cho, Ji Sun Lee, Jong-San Chang, U-Hwang Lee, Ryo Ishikawa, Naoya Shibata, Yousung Jung, Jonghwan Kim, **Teruyasu Mizoguchi**, Si-Young Choi 
+1.  "Defect-Driven Reconstruction of Bismuth Nanoflowers via Precursor Engineering for Highly Efficient CO2-to-Formate Electrochemical Reduction"  
+     J. Yan, M. kamiko, **T. Mizoguchi**, and S. Yagi  
+    *Small Science*, (2025), in press
+
+1.  "Direct Imaging of Co-CUK-1 Framework with H2O Guests"  
+    Dong-Hwan Yang, Minjeong Kim, Jinyoung Ko, Gi-Yeop Kim, Hyung Gyu Park, Sarah S. Park, Kyung Ho Cho, Ji Sun Lee, Jong-San Chang, U-Hwang Lee, Ryo Ishikawa, Naoya Shibata, Yousung Jung, Jonghwan Kim, **Teruyasu Mizoguchi**, Si-Young Choi  
     *Small*, 21, (2025)2411292-1-9 
 
 3.  "AI×物質科学"  
@@ -109,7 +110,7 @@ draft: false
     *arXiv preprint arXiv:2402.05634* (2024) \[[**here**](https://arxiv.org/abs/2402.05634)\]
 
 13. “Full automation of point defect detection in transition metal dichalcogenides through a dual mode deep learning algorithm”  
-    Dong-Hwan Yang, Yu-Seong Chu, Odongo Francis Ngome Okello, Seung-Young Seo, Gunho Moon, Kwang Ho Kim, Moon-Ho Jo, Dongwon Shin, **Teruyasu Mizoguchi**, Sejung Yang, Si-Young Choi**  
+    Dong-Hwan Yang, Yu-Seong Chu, Odongo Francis Ngome Okello, Seung-Young Seo, Gunho Moon, Kwang Ho Kim, Moon-Ho Jo, Dongwon Shin, **Teruyasu Mizoguchi**, Sejung Yang, Si-Young Choi  
     *Materials Horizons*, 11 (2024), 747-757 \[[**here**](https://pubs.rsc.org/en/content/articlelanding/2024/mh/d3mh01500a)\]
 
 14. “A message passing neural network for predicting dipole moment dependent core electron excitation spectra”  
@@ -201,9 +202,9 @@ draft: false
     *Comp. Phys. Comm.* 273 (2022) 108260-1-8  [**\[here\]**](https://www.sciencedirect.com/science/article/pii/S0010465521003726)
 
 35. “Quantification of the Properties of Organic Molecules Using Core-Loss Spectra as Neural Network Descriptors”  
-    **K. Kikumasa, S. Kiyohara, K. Shibata, and T. Mizoguchi** 
-    ***Advanced Intelligent Systems, 4*** (2022) 2100103-1-10. doi:10.1002/aisy.202100103. [**\[Open Access\]**](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202100103)  
-    **[This paper was selected as “Hot Topic:Artificial Intelligence and Machine Learning”\]\[Selcted as [Back Side Cover](https://onlinelibrary.wiley.com/share/KJUN5INIWHVIRMI7DNDX?target=10.1002/aisy.202270004)\]**  
+    **K. Kikumasa, S. Kiyohara, K. Shibata, and T. Mizoguchi**,   
+    *Advanced Intelligent Systems, 4* (2022) 2100103-1-10. doi:10.1002/aisy.202100103. [**\[Open Access\]**](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202100103)  
+    **[This paper was selected as “Hot Topic:Artificial Intelligence and Machine Learning”\]\  [Selcted as [Back Side Cover](https://onlinelibrary.wiley.com/share/KJUN5INIWHVIRMI7DNDX?target=10.1002/aisy.202270004)\]**  
 
 **—2021—**  
 
