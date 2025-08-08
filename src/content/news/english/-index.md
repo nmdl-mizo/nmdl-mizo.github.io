@@ -8,6 +8,21 @@ draft: false
 **<b> Please see top-page and Twitter(X) for the latest new! </b>**
 
 **2025　:**
+- July We have enjoyed Tanabata (July 7th) event<u>[Here](https://x.com/nmdl_mizo/status/1942777956620984761)</u>
+
+- July Dr. Sangjun-san is very fine in Korea!! Great!<u>[Here](https://x.com/nmdl_mizo/status/1942777735476347182)</u>
+
+- June Automation, Automation, Automation...<u>[Here](https://x.com/nmdl_mizo/status/1935170205854089443)</u>
+
+- June Thank you to everyone who attended the Komaba Research Campus Open Day!!<u>[Here](https://x.com/nmdl_mizo/status/1935169052831535211)</u>
+
+- May PhD student made an invited talk in AI Alliance Webinar! Please see youtube!<u>[Here](https://www.youtube.com/live/3T2jD8U3Dr4)</u>
+
+- May Komaba Open Campus is on May 30–31! Ours will be a small poster-only exhibit this year... Sorry!!<u>[Here](https://x.com/nmdl_mizo/status/1925092026036715632)</u>
+
+- April Our new Lab introduction!! <u>[Here](/images/2025NMDL.jpg)</u>
+
+- April We made refreshment with automation system．<u>[Here](https://x.com/nmdl_mizo/status/1915720833642995803)</u> <br>And new GPU 5090!!<u>[Here](https://x.com/nmdl_mizo/status/1915719507278258195)</u>
 
 -April 2025 New semester 2025 is launched! <u>[New members](https://x.com/nmdl_mizo/status/1908086851103265154)</u>
 
