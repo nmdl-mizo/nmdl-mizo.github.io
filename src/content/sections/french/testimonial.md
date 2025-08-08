@@ -1,14 +1,14 @@
 ---
 enable: true
 title: "What's new!"
-description: "<b> [過去のニュース](/news) <br><u>[研究室 Twitter](https://x.com/nmdl_mizo)</u></b>"
+description: "<b> [過去のニュース](/news) <br>[研究室 Twitter](https://x.com/nmdl_mizo)</b>"
 
 # Testimonials
 testimonials:
   - name: "2025, Aug."
     designation: ""
     avatar: ""
-    content: "研究室の日常＠2025夏 <u>[こちら](https://x.com/nmdl_mizo/status/1950490759163240668)</u>と<u>[こちら](https://x.com/nmdl_mizo/status/1950490759163240668)"
+    content: "研究室の日常＠2025夏 <u>[こちら](https://x.com/nmdl_mizo/status/1950490759163240668)</u>と<u>[こちら](https://x.com/nmdl_mizo/status/1950490759163240668)</u>"
  
   - name: "2025, Aug."
     designation: ""

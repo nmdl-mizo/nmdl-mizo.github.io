@@ -1,14 +1,14 @@
 ---
 enable: true
 title: "What's new!"
-description: "<b><u> [Previous News](/en/news)</u><br> <u>[Lab Twitter](https://x.com/nmdl_mizo)</u></b> "
+description: "<b><u> [Previous News](/en/news)</u><br> [Lab Twitter](https://x.com/nmdl_mizo)</b> "
 
 # Testimonials
 testimonials:
   - name: "2025, Aug."
     designation: ""
     avatar: ""
-    content: "A day of hot summer in Mizoguchi Lab., 2025<u>[Here](https://x.com/nmdl_mizo/status/1950490759163240668)</u> & <u>[Here](https://x.com/nmdl_mizo/status/1950490759163240668)"
+    content: "A day of hot summer in Mizoguchi Lab., 2025<u>[Here](https://x.com/nmdl_mizo/status/1950490759163240668)</u> & <u>[Here](https://x.com/nmdl_mizo/status/1950490759163240668)</u>"
  
   - name: "2025, Aug."
     designation: ""

@@ -31,6 +31,12 @@ draft: false
 1.  **P. Y. Chen** and **T. Mizoguchi**  
     submitted
 
+1.  **Y. Fujikata**, **T. Mizoguchi**, and H. Sugisawa  
+    submitted
+
+1.  **T. Mizoguchi**  
+    submitted
+
 
 
 **— 2025 —**  
@@ -40,7 +46,7 @@ draft: false
     *APL Machine Learning*, (2025), in press
 
 1.  "第一原理計算に基づく白金表面への酸素吸着挙動の解析"  
-     吉谷地豪太，中條雄太，溝口照康，田中優美  
+     吉谷地豪太，中條雄太，**溝口照康**，田中優美  
     *日本金属学会誌*, (2025) in press
 
 1.  "Defect-Driven Reconstruction of Bismuth Nanoflowers via Precursor Engineering for Highly Efficient CO2-to-Formate Electrochemical Reduction"  
@@ -106,7 +112,7 @@ draft: false
     *ACS nano* 18, (2024) 6927-6935 \[[**here**](https://pubs.acs.org/doi/full/10.1021/acsnano.3c08606)\]
 
 12. “LCAONet: Message-passing with physically optimized atomic basis functions”  
-    **K. Nishio**, **K. Shibata** and **T. Mizoguchi  
+    **K. Nishio**, **K. Shibata** and **T. Mizoguchi**  
     *arXiv preprint arXiv:2402.05634* (2024) \[[**here**](https://arxiv.org/abs/2402.05634)\]
 
 13. “Full automation of point defect detection in transition metal dichalcogenides through a dual mode deep learning algorithm”  
@@ -204,7 +210,8 @@ draft: false
 35. “Quantification of the Properties of Organic Molecules Using Core-Loss Spectra as Neural Network Descriptors”  
     **K. Kikumasa, S. Kiyohara, K. Shibata, and T. Mizoguchi**,   
     *Advanced Intelligent Systems, 4* (2022) 2100103-1-10. doi:10.1002/aisy.202100103. [**\[Open Access\]**](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202100103)  
-    **[This paper was selected as “Hot Topic:Artificial Intelligence and Machine Learning”\]\  [Selcted as [Back Side Cover](https://onlinelibrary.wiley.com/share/KJUN5INIWHVIRMI7DNDX?target=10.1002/aisy.202270004)\]**  
+    **[This paper was selected as “Hot Topic:Artificial Intelligence and Machine Learning”\]**  
+    **[Selcted as [Back Side Cover](https://onlinelibrary.wiley.com/share/KJUN5INIWHVIRMI7DNDX?target=10.1002/aisy.202270004)\]**  
 
 **—2021—**  
 
@@ -229,7 +236,8 @@ draft: false
 40. “Accurate prediction of bonding properties by a machine learning–based model using isolated states before bonding”  
    **E. Suzuki**, **K. Shibata**, and**T. Mizoguchi**,  
     *Appl. Phys. Exp.* 14 (2021) 085503-1-6 doi: 10.35848/1882-0786/ac083b
-    **[\[Open Access\]](https://iopscience.iop.org/article/10.35848/1882-0786/ac083b)*\[This paper was selected as “Spotlights 2021 in Applied Physics Express”\]***
+    **[\[Open Access\]]**(https://iopscience.iop.org/article/10.35848/1882-0786/ac083b)  
+    *\[This paper was selected as “Spotlights 2021 in Applied Physics Express”\]*
 
 41. “ピクセル型STEM検出器によるタイコグラフィーの初歩”  
     三石和貴，**中澤克昭，溝口照康**，佐川隆亮，山崎裕一  
@@ -257,7 +265,9 @@ draft: false
     **K. Nakazawa**, **S. Amma, and** **T.Mizoguchi**  
     *Acta Mater.* 200 (2020) 720-726. [**\[Open Access\]**](https://www.sciencedirect.com/science/article/pii/S1359645420307308?via%3Dihub)
 
-47. “Radial distribution function from X-ray absorption near edge structure with an artificial neural network”, **S. Kiyohara** and**T. Mizoguchi**, *J. Phys. Soc. Jpn (Letter)*, 89 (2020) 103001-1-4. [**\[Open Access\]**](https://journals.jps.jp/doi/full/10.7566/JPSJ.89.103001)
+47. “Radial distribution function from X-ray absorption near edge structure with an artificial neural network”,  
+**S. Kiyohara** and**T. Mizoguchi**,  
+*J. Phys. Soc. Jpn (Letter)*, 89 (2020) 103001-1-4. [**\[Open Access\]**](https://journals.jps.jp/doi/full/10.7566/JPSJ.89.103001)
 
 48. “Local thickness and composition measurements from scanning convergent-beam electron diffraction of a binary non-crystalline material obtained by a pixelated detector “  
     **K. Nakazawa**,**K. Shibata**, K. Mitsuishi, S. Amma, and**T.Mizoguchi**  
@@ -287,8 +297,7 @@ draft: false
 54. “Machine learning applications for ELNES/XANES” **(Invited review)**  
     **T.Mizoguchi and S. Kiyohara**  
     *Microscopy*, 69 (2020) 92-109.
-     [doi.org/10.1093/jmicro/dfz109](https://academic.oup.com/jmicro/advance-article/doi/10.1093/jmicro/dfz109/5714813)  
-    [**\[Open Acess\]**](https://academic.oup.com/jmicro/advance-article/doi/10.1093/jmicro/dfz109/5714813?searchresult=1)
+    [**\[Open Acess\]**](https://academic.oup.com/jmicro/advance-article/doi/10.1093/jmicro/dfz109/5714813?searchresult=1)  
      \[**This manuscript was selected as a “Most Read Article in 2020-2021” !** [here](https://academic.oup.com/jmicro/pages/Most_Read/), [here](http://www.edge.iis.u-tokyo.ac.jp/e/image/most-read-article-Microscopy.pdf)\]  *
 
 55. “機械学習を利用した結晶界面構造決定と構造機能相関”  
