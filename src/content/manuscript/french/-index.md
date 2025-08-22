@@ -22,9 +22,6 @@ draft: false
 1.  **I. Takahara**, **T. Mizoguchi**, and B. Liu  
     submitted
 
-1.  J. Kikkawa, et al.,  
-    submitted
-
 1.  J. W. Abbott,..**I. Takahara**, **K. Shibata**, **T. Mizoguchi**, et al.,  
     FHI-aims, submitted
 
@@ -40,6 +37,10 @@ draft: false
 
 
 **— 2025 —**  
+
+1.  "Observation of Boron Vacancy Concentration in Hexagonal Boron Nitride at Nanometer Scale"  
+     J. Kikkawa, C. Shinei, J. Chen, Y. Masuyama, Y. Yamazaki, **T. Mizoguchi**, K. Kimoto, T. Taniguchi, and T. Teraji  
+     *Nano Lett.*, (2025) 10.1021/acs.nanolett.5c02988  
 
 1.  "High Precision Machine Learning Force Field Development for BaTiO3 Phase Transitions, Amorphous, and Liquid Structures"  
      **P. Y. Chen, K. Shibata**, and **T. Mizoguchi**  

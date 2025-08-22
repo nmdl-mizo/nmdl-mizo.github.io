@@ -8,7 +8,12 @@ testimonials:
   - name: "2025, Aug."
     designation: ""
     avatar: ""
-    content: "研究室の日常＠2025夏 <u>[こちら](https://x.com/nmdl_mizo/status/1950490759163240668)</u>と<u>[こちら](https://x.com/nmdl_mizo/status/1950490759163240668)</u>"
+    content: "量子センサーにおける欠陥のナノスケール可視化に関する，NIMS，QSTとの共同研究成果がNano Lett.に掲載されました．<u>[こちら](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c02988)</u>"
+
+  - name: "2025, Aug."
+    designation: ""
+    avatar: ""
+    content: "研究室の日常＠2025夏 <u>[こちら](https://x.com/nmdl_mizo/status/1950490759163240668)</u>と<u>[こちら](https://x.com/nmdl_mizo/status/1953359241743597995)</u>"
  
   - name: "2025, Aug."
     designation: ""
