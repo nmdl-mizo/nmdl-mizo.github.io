@@ -8,32 +8,40 @@ draft: false
 
 ##### 我々の研究目的 ＝ “ 物質の構造機能相関を解明し物質設計を実現する ”
 
-<p align="left">物質開発には膨大な時間と労力が費やされてきました．しかし社会がダイナミックかつスピーディーに変化し続けており，これまで以上に正確で迅速な物質開発が今求められています．原子・電子構造と機能発現との相関性を理解して物質設計を実現することが出来れば物質開発を飛躍的に加速させることができます．そのような物質設計を実現するためには，機能発現を担っている局所領域の原子・電子構造を解明し，さらに得られた結果から機能発現のメカニズムや法則を理解する必要があります．溝口研究室では第一原理計算，情報科学手法，原子分解能計測(STEM-EELS)を駆使して『物質設計の実現』を目指して研究を行っています．<br>溝口研究室では以下のような研究テーマに取り組んでいます．
+<p align="left">物質開発には膨大な時間と労力が費やされてきました．しかし社会がダイナミックかつスピーディーに変化し続けており，これまで以上に正確で迅速な物質開発が今求められています．原子・電子構造と機能発現との相関性を理解して物質設計を実現することが出来れば物質開発を飛躍的に加速させることができます．そのような物質設計を実現するためには，機能発現を担っている局所領域の原子・電子構造を解明し，さらに得られた結果から機能発現のメカニズムや法則を理解する必要があります．溝口研究室では第一原理計算，情報科学手法，原子レベル計測(STEM-EELS，XAS)を駆使して『物質設計の実現』を目指して研究を行っています．<br>溝口研究室では以下のような研究テーマに取り組んでいます．
 
-##### マテリアルズインフォマティクスを活用した材料研究　　
+##### マテリアルズインフォマティクスを活用した物質設計と新手法の開発
  <p align="left">
-近年，第4のパラダイムとしてデータ科学が注目を集めており，データ科学を物質研究に利用する「マテリアルズインフォマティクス」は世界的に研究が進んでいます．本研究室では情報科学手法（インフォマティクス）を利用して人工知能を構築し以下の研究テーマに取り組んでいます．<br>
-　1) 界面および表面における構造・物性を高速に決定・予測する手法の開発<br>
-　2) スペクトル解析と機械学習を組み合わせた物性計測手法の開発<br>
-　3) 励起状態を高速計算する人工知能技術の開発<br>
-　4) 表面物性を事前予測する手法の開発<br>
+近年，第4のパラダイムとしてデータ科学が注目を集めており，データ科学を物質研究に利用する「マテリアルズインフォマティクス」は世界的に研究が進んでいます．本研究室では，情報科学手法（インフォマティクス）を活用した以下のようなデータ駆動型物質研究に取り組みつつ，それを実現する上で不可欠となる新手法の開発やデータベースの構築に取り組んでいます．<br>
+　1) データ駆動型手法を活用した新物質・新物性探索<br>
+　2) 生成AIおよび大規模言語モデル（LLM）を活用した新物質設計手法の確立<br>
+　3) スペクトル解析と機械学習を組み合わせた物性計測手法の開発<br>
+　4) 界面および表面における構造・物性を高速に決定・予測する手法の開発<br>
+　5) 高精度化学結合解析手法の開発と応用<br>
+　6) 高効率界面構造解析のための手法開発<br>
 例えば，我々の手法を用いることで22年かかる計算をわずか3時間で終えることも可能です．また，人工知能技術を利用することで，これまで専門の研究者でも得ることが出来なかった新たな知見を得ることにも成功しております．
 <br>
-<b>キーワード：</b>マテリアルズインフォマティクス，データ駆動型，人工知能，生成ＡＩ，物質探索，スペクトル解析，自律・自動解析，格子欠陥，物理抽出
+<b>キーワード：</b>マテリアルズインフォマティクス，データ駆動型，人工知能，生成ＡＩ，大規模言語モデル（LLM），物質探索，スペクトル解析，自律・自動解析，格子欠陥，物理抽出
 <br>
-“Prediction of the Ground State Electronic Structure from Core-loss Spectra of Organic Molecules by Machine Learning”
-PY. Chen, K. Shibata, K. Hagita, T. Miyata, and T. Mizoguchi
-J. Phys. Chem. Lett., 14 (2023) 4858-4865.
+“Band structure database of layered intercalation compounds with various intercalant atoms and layered hosts”  
+N. Kawaguchi, K. Shibata, and T. Mizoguchi, 
+Scientific Data, 11 (2024) 1244-1-10.
 <br>
-“Learning excited states from ground states by using an artificial neural network
-S. Kiyohara, M. Tsubaki, and T. Mizoguchi, npj Comp. Mater., 6 (2020) 68-1-6. here
+“Crystal orbital overlap population based on all-electron ab initio simulation with numeric atom-centered orbitals and its application to chemical-bonding analysis in Li-intercalated layered materials”  
+I. Takahara, K. Shibata, and T. Mizoguchi, Modelling and Simulation in Materials Science and Engineering (MSMSE), 32 (2024), 055028-1-20. 
 <br>
-“Machine learning applications for ELNES/XANES “
-T. Mizoguchi and S. Kiyohara, Microscopy 69 (2020) 92-109. here
+“Prediction of the Ground State Electronic Structure from Core-loss Spectra of Organic Molecules by Machine Learning”  
+PY. Chen, K. Shibata, K. Hagita, T. Miyata, and T. Mizoguchi, J. Phys. Chem. Lett., 14 (2023) 4858-4865.  
 <br>
-“Prediction of interface structures and energies via virtual screening”
-S. Kiyohara, H. Oda, T. Miyata, and T. Mizoguchi, Science Adv., 2 (2016) e1600746-1-7. here
-
+“A brute-force code searching for cell of non-identical displacement for CSL grain boundaries and interfaces”  
+YS. Xie, K. Shibata, andT. Mizoguchi, 
+Comp. Phys. Comm. 273 (2022) 108260-1-8 
+<br>
+“Learning excited states from ground states by using an artificial neural network  
+S. Kiyohara, M. Tsubaki, and T. Mizoguchi, npj Comp. Mater., 6 (2020) 68-1-6.  
+<br>
+“Prediction of interface structures and energies via virtual screening”  
+S. Kiyohara, H. Oda, T. Miyata, and T. Mizoguchi, Science Adv., 2 (2016) e1600746-1-7.   
 
 <div align="center">
 
@@ -63,13 +71,17 @@ H. Yamaguchi, H. Hiramatsu, H. Hosono, and T. Mizoguchi, Appl. Phys. Lett., 104,
 
 </div>
 
-###### 半導体・二次元材料における格子欠陥形成とダイナミクス　　
-<p align="left"> 近年の演算速度の飛躍的な向上により，数百原子からなる系の電子状態計算をパラメーターを用いない第一原理で行うことが可能になりつつあります．また，「汎用的Universal」機械学習ポテンシャルの環境も充実し，数千原子のモデルをノートパソコンレベルのコンピューターで高精度に構造最適化することも可能になってきました．本研究室ではそのような最新のシミュレーション手法を活用し，半導体やセラミックス，二次元化合物，層間化合物などの先進材料における欠陥，ドーパント，表面，界面等の格子欠陥についてその形成挙動とダイナミクスに関する研究を行ってます．
+###### 高精度・高速計算手法を活用した半導体・二次元材料における格子欠陥形成とダイナミクス　　
+<p align="left"> 近年の演算速度の飛躍的な向上により，数百原子からなる系の電子状態計算をパラメーターを用いない第一原理で行うことが可能になりつつあります．また，「汎用的Universal」機械学習ポテンシャルの環境も充実し，数千原子のモデルをノートパソコンレベルのコンピューターで高精度に構造最適化することも可能になってきました．本研究室ではそのような最新のシミュレーション手法を活用し，半導体や強誘電体，セラミックス，二次元化合物，層間化合物などの先進材料における欠陥，ドーパント，表面，界面等の格子欠陥についてその形成挙動とダイナミクスに関する研究を行ってます．
 <br>
-<b>キーワード：</b>半導体，セラミックス，二次元化合物，モアレ化合物
+<b>キーワード：</b>半導体，強誘電体，セラミックス，二次元化合物，モアレ化合物
 <br>
-“Unraveling the Stability of Layered Intercalation Compounds through First-Principles Calculations: Establishing a Linear Free Energy Relationship with Aqueous Ions”
-N. Kawaguchi, K. Shibata, and T. Mizoguchi, ACS phys. Chem. Au, 4 (2024) 281-291.
+“High Precision Machine Learning Force Field Development for BaTiO3 Phase Transitions, Amorphous, and Liquid Structures”
+P. Y. Chen, K. Shibata, and T. Mizoguchi  
+APL Machine Learning, 3 (2025), 036115
+<br>
+“Unraveling the Stability of Layered Intercalation Compounds through First-Principles Calculations: Establishing a Linear Free Energy Relationship with Aqueous Ions”  
+N. Kawaguchi, K. Shibata, and T. Mizoguchi, ACS Physical Chemistry Au, 4 (2024), 281-291.
 <br>
 “A defect formation mechanism induced by structural reconstruction of a well-known silicon grain boundary”
 YS. Xie, K. Shibata, and T. Mizoguchi, Acta Mater., 250 (2023) 118827-1-11.

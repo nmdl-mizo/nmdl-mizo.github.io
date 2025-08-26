@@ -10,30 +10,38 @@ draft: false
 
 <p align="left">Enormous time and effort have been devoted to material development. However, as society continues to change dynamically and rapidly, more accurate and swift material development is now required than ever before. If we can realize material design by understanding the correlation between atomic/electronic structures and functional expression, we can significantly accelerate material development. To achieve such material design, it is essential to elucidate the atomic and electronic structures in the local regions responsible for functional expression, and further understand the mechanisms and laws governing functional expression from the obtained results. The Mizoguchi Laboratory aims to achieve 'Material Design Realization' through research using first-principles calculations, informatics methods, and atomic-resolution measurements (STEM-EELS). <br> The Mizoguchi Laboratory is engaged in the following research themes:
 
-##### Materials Informatics for materials developments　
+##### Materials Informatics for materials developments and database and code developments　
  <p align="left">
 In recent years, data science has been attracting attention as the fourth paradigm, and "Materials Informatics," which uses data science in material research, is advancing globally and rapidly. In our group, we are tackling the following research subjects by constructing artificial intelligence (AI) based on the informatics science.<br>
 1) Determination and prediction of structures and properties of lattice defects<br>
 2) New analytical methods combining spectral analysis with machine learning<br>
 3) AI for fast materiasl simulations<br>
-4) Generative AI for materials development<br>
+4) Generative AI and LLM for materials development<br>
 For example, using our methods, it is possible to complete calculations that would normally take 22 years in just 3 hours. Additionally, by utilizing AI technology, we have succeeded in gaining new insights that even specialized researchers could not obtain before.
 <br><br>
-<b>Keywords:</b>Materials Informatics, Data-Driven, Artificial Intelligence, Generative AI, Material Exploration, Spectral Analysis, Autonomous & Automated Analysis, Lattice Defects, Physics Extraction
-<br><br>
-“Prediction of the Ground State Electronic Structure from Core-loss Spectra of Organic Molecules by Machine Learning”
-PY. Chen, K. Shibata, K. Hagita, T. Miyata, and T. Mizoguchi
-J. Phys. Chem. Lett., 14 (2023) 4858-4865.
+<b>Keywords:</b>Materials Informatics, Data-Driven, Artificial Intelligence, Generative AI, LLM, Material Exploration, Spectral Analysis, Autonomous & Automated Analysis, Lattice Defects, Physics Extraction
 <br>
-“Learning excited states from ground states by using an artificial neural network
-S. Kiyohara, M. Tsubaki, and T. Mizoguchi, npj Comp. Mater., 6 (2020) 68-1-6. here
 <br>
-“Machine learning applications for ELNES/XANES “
-T. Mizoguchi and S. Kiyohara, Microscopy 69 (2020) 92-109. here
+“Band structure database of layered intercalation compounds with various intercalant atoms and layered hosts”  
+N. Kawaguchi, K. Shibata, and T. Mizoguchi, 
+Scientific Data, 11 (2024) 1244-1-10.
 <br>
-“Prediction of interface structures and energies via virtual screening”
-S. Kiyohara, H. Oda, T. Miyata, and T. Mizoguchi, Science Adv., 2 (2016) e1600746-1-7. here
-
+“Crystal orbital overlap population based on all-electron ab initio simulation with numeric atom-centered orbitals and its application to chemical-bonding analysis in Li-intercalated layered materials”  
+I. Takahara, K. Shibata, and T. Mizoguchi, Modelling and Simulation in Materials Science and Engineering (MSMSE), 32 (2024), 055028-1-20. 
+<br>
+“Prediction of the Ground State Electronic Structure from Core-loss Spectra of Organic Molecules by Machine Learning”  
+PY. Chen, K. Shibata, K. Hagita, T. Miyata, and T. Mizoguchi, J. Phys. Chem. Lett., 14 (2023) 4858-4865.  
+<br>
+“A brute-force code searching for cell of non-identical displacement for CSL grain boundaries and interfaces”  
+YS. Xie, K. Shibata, andT. Mizoguchi, 
+Comp. Phys. Comm. 273 (2022) 108260-1-8 
+<br>
+“Learning excited states from ground states by using an artificial neural network  
+S. Kiyohara, M. Tsubaki, and T. Mizoguchi, npj Comp. Mater., 6 (2020) 68-1-6.  
+<br>
+“Prediction of interface structures and energies via virtual screening”  
+S. Kiyohara, H. Oda, T. Miyata, and T. Mizoguchi, Science Adv., 2 (2016) e1600746-1-7.   
+<br>
 
 <div align="center">
 
@@ -63,11 +71,15 @@ H. Yamaguchi, H. Hiramatsu, H. Hosono, and T. Mizoguchi, Appl. Phys. Lett., 104,
 
 </div>
 
-###### Lattice Defect Formation and Dynamics in Semiconductors and Two-Dimensional Materials　
+###### High Precision and High Throughput Simulation of Lattice Defect Formation and Dynamics in Semiconductors and Two-Dimensional Materials　
 <p align="left"> With the dramatic improvement in computing speed in recent years, it is becoming possible to perform electronic state calculations for systems consisting of hundreds of atoms using parameter-free first-principles methods. Additionally, the environment for "Universal" machine learning potentials has improved, making it possible to optimize the structure of models with thousands of atoms with high precision on a laptop-level computer. Our laboratory is utilizing such cutting-edge simulation methods to conduct research on lattice defects, dopants, surfaces, and interfaces in advanced materials such as semiconductors, ceramics, two-dimensional compounds, and layered compounds, focusing on their formation behavior and dynamics.
 <br><br>
-<b>Keywords:</b>Semiconductors, Ceramics, Two-Dimensional Compounds, Moire materials
+<b>Keywords:</b>Semiconductors, Ferroelectric materials, Ceramics, Two-Dimensional Compounds, Moire materials
 <br><br>
+“High Precision Machine Learning Force Field Development for BaTiO3 Phase Transitions, Amorphous, and Liquid Structures”
+P. Y. Chen, K. Shibata, and T. Mizoguchi  
+APL Machine Learning, 3 (2025), 036115
+<br>
 “Unraveling the Stability of Layered Intercalation Compounds through First-Principles Calculations: Establishing a Linear Free Energy Relationship with Aqueous Ions”
 N. Kawaguchi, K. Shibata, and T. Mizoguchi, ACS phys. Chem. Au, 4 (2024) 281-291.
 <br>

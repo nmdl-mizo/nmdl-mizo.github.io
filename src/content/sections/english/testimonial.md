@@ -8,6 +8,11 @@ testimonials:
   - name: "2025, Aug."
     designation: ""
     avatar: ""
+    content: "Our study on the development of high precision machine learning potential for crystalline polytypes, glass and liquid of BaTiO3 has been published in APL Machine Learning.<u>[Here](https://pubs.aip.org/aip/aml/article/3/3/036115/3360303/High-precision-machine-learning-force-field)</u>"
+
+  - name: "2025, Aug."
+    designation: ""
+    avatar: ""
     content: "Collaboration study of nano-scale visualization of defect in quantum sensor with NIMS and QST is published in Nano Lett.<u>[Here](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c02988)</u>"
 
   - name: "2025, Aug."

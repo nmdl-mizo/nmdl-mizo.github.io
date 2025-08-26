@@ -44,7 +44,7 @@ draft: false
 
 1.  "High Precision Machine Learning Force Field Development for BaTiO3 Phase Transitions, Amorphous, and Liquid Structures"  
      **P. Y. Chen, K. Shibata**, and **T. Mizoguchi**  
-    *APL Machine Learning*, (2025), in press
+    *APL Machine Learning*, 3 (2025), 036115 https://doi.org/10.1063/5.0268149
 
 1.  "第一原理計算に基づく白金表面への酸素吸着挙動の解析"  
      吉谷地豪太，中條雄太，**溝口照康**，田中優美  
