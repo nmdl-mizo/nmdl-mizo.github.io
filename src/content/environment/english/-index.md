@@ -15,8 +15,10 @@ Special thanks to [<u>Kawazoe lab., Mr. Masato Tohno-san!!</u>](http://www.kwz.i
 
 Nice space and many books and whiteboards for anytime discussions.
 
+<br>
 ---
 <br>
+
 
 ##### Research Equipments / 研究設備
 
@@ -34,9 +36,10 @@ Nice space and many books and whiteboards for anytime discussions.
 - GPU server: 3090 x 2
 - \+ more…. 
 
-<br><br>
+<br>
 
 ---
+<br>
 ###### Theoretical Calculation Codes & GUI
 
 <br>
@@ -55,19 +58,20 @@ Nice space and many books and whiteboards for anytime discussions.
 
 - [<u>Elk</u>](https://elk.sourceforge.io/)
 
-- OLCAO <br> (collaboration with [Prof. Paul Rulis and Prof. Wai Yim Ching @UMKC ](http://cas.umkc.edu/physics/ching/INDEX.htm))
+- [<u>OLCAO</u>](http://cas.umkc.edu/physics/ching/INDEX.htm) <br> (collaboration with [Prof. Paul Rulis and Prof. Wai Yim Ching @UMKC ](http://cas.umkc.edu/physics/ching/INDEX.htm))
 
-- DFT-CI (collaboration with [Dr. Hidekazu Ikeno@Osaka Met. Univ. and Prof. Isao Tanaka @ Kyoto Univ.](http://cms.mtl.kyoto-u.ac.jp/index-e.html))
+- <u>DFT-CI</u> (collaboration with [Dr. Hidekazu Ikeno@Osaka Met. Univ. and Prof. Isao Tanaka @ Kyoto Univ.](https://www.omu.ac.jp/eng/cms_lab/index.html))
 
-- [FEFF](http://leonardo.phys.washington.edu/feff/)
+- [<u>FEFF</u>](http://leonardo.phys.washington.edu/feff/)
 
-- [LAMMPS](https://www.lammps.org/#gsc.tab=0)
+- [<u>LAMMPS</u>](https://www.lammps.org/#gsc.tab=0)
 
-- [GULP] (https://gulp.curtin.edu.au/index.html)
+- [<u>GULP</u>] (https://gulp.curtin.edu.au/index.html)
 
-- [OpenMX](https://www.openmx-square.org/)
+- [<u>OpenMX</u>](https://www.openmx-square.org/)
 
-- [Materials Studio ](https://www.3ds.com/ja/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/)
+- [<u>Materials Studio</u>](https://www.3ds.com/ja/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/)
+
 
 <img src="/images/3DS2025.png" style="width:2.0in;height:2.0in" />
 <img src="/images/3DS2024.png" style="width:2.0in;height:2.0in" />  
@@ -91,6 +95,7 @@ ARIM / [マテリアル先端リサーチインフラ](https://nanonet.mext.go.j
 
 ナノ物質設計工学研究室では主に<u>[駒場分析コア](https://sites.google.com/g.ecc.u-tokyo.ac.jp/iis-materials-core) </u>および<u>[ARIM](https://nanonet.mext.go.jp/)</u>等の共同利用設備を活用して実験を行っております
 
+<br>
 ---
 <br>
 

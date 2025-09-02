@@ -13,9 +13,6 @@ draft: false
 1.  **S. Lee, K. Shibata**, D. Bae, and **T. Mizoguchi**  
     submitted
 
-1.  M. Niibe, T. Nakashima, Y. Saito, Y. Ando, **T. Mizoguchi**, and I. Matsuda  
-    submitted
-
 1.  MS Kim, S.Y. Choi, et al.  
     submitted
 
@@ -37,6 +34,10 @@ draft: false
 
 
 **— 2025 —**  
+
+1.  "Application of CASTEP Code to the Simulation of Soft X-ray Emission Spectra of Light Element Materials"
+     M. Niibe, T. Nakashima, Y. Saito, Y. Ando, **T. Mizoguchi**, and I. Matsuda  
+    *e-J. Surf. Sci. NanoTech.*, 23 (2025) in press [**here**](https://www.jstage.jst.go.jp/article/ejssnt/advpub/0/advpub_2025-045/_article)
 
 1.  "Observation of Boron Vacancy Concentration in Hexagonal Boron Nitride at Nanometer Scale"  
      J. Kikkawa, C. Shinei, J. Chen, Y. Masuyama, Y. Yamazaki, **T. Mizoguchi**, K. Kimoto, T. Taniguchi, and T. Teraji  

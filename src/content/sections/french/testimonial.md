@@ -5,6 +5,16 @@ description: "<b> [過去のニュース](/news) <br>[研究室 Twitter](https:/
 
 # Testimonials
 testimonials:
+  - name: "2025, Sep."
+    designation: ""
+    avatar: ""
+    content: "新居浜高専からインターンとして参加する学生さんの歓迎会を行いました！<u>[こちら](https://x.com/nmdl_mizo/status/1962704922182590943)</u>"
+
+  - name: "2025, Sep."
+    designation: ""
+    avatar: ""
+    content: "CASTEPを用いた発光分光計算に関する，東大物性研，兵庫県立大学との共同研究成果が e-Journal of Surf. Sci. Nano.に掲載されました．<u>[こちら](https://www.jstage.jst.go.jp/article/ejssnt/advpub/0/advpub_2025-045/_article/-char/en)</u>"
+
   - name: "2025, Aug."
     designation: ""
     avatar: ""

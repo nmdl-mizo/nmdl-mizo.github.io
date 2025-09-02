@@ -5,6 +5,16 @@ description: "<b><u> [Previous News](/en/news)<br> [Lab Twitter](https://x.com/n
 
 # Testimonials
 testimonials:
+  - name: "2025, Sep."
+    designation: ""
+    avatar: ""
+    content: "We made welcome party for intern-student from Niihama Institute of Technology (KOSEN) <u>[Here](https://x.com/nmdl_mizo/status/1962704922182590943)</u>"
+
+- name: "2025, Sep."
+    designation: ""
+    avatar: ""
+    content: "Collaboration study of XES simulation using CASTEP with ISSP-UTokyo and Univ. Hyogo has publised in e-Journal of Surf. Sci. Nano.<u>[Here](https://www.jstage.jst.go.jp/article/ejssnt/advpub/0/advpub_2025-045/_article/-char/en)</u>"
+
   - name: "2025, Aug."
     designation: ""
     avatar: ""
