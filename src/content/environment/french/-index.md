@@ -6,7 +6,9 @@ image: "/images/environment.png"
 draft: false
 ---
 <br>
+
 ##### Research Environments / 研究環境
+
 <img src="/images/environment/2025renew.jpg"> 
 
 2025年3月に研究室の居室スペースを"大"改装しました．  

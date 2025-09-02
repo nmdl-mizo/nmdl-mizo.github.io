@@ -5,7 +5,9 @@ description: "Our environment"
 image: "/images/environment.png"
 draft: false
 ---
+
 ##### Research Environments / 研究環境
+
 <img src="/images/environment/2025renew.jpg"> 
 
 We have "totally" updated our lab space in March 2025.<br>
@@ -16,7 +18,9 @@ Special thanks to [<u>Kawazoe lab., Mr. Masato Tohno-san!!</u>](http://www.kwz.i
 Nice space and many books and whiteboards for anytime discussions.
 
 <br>
+
 ---
+
 <br>
 
 
@@ -39,7 +43,9 @@ Nice space and many books and whiteboards for anytime discussions.
 <br>
 
 ---
+
 <br>
+
 ###### Theoretical Calculation Codes & GUI
 
 <br>
@@ -81,6 +87,7 @@ Mizoguchi is [<u>Ambassador</u>](https://www.3ds.com/science/science-ambassador-
 <br>
 
 ---
+
 <br>
 
 ###### TEM, SEM, and analytical tools
@@ -96,7 +103,9 @@ ARIM / [マテリアル先端リサーチインフラ](https://nanonet.mext.go.j
 ナノ物質設計工学研究室では主に<u>[駒場分析コア](https://sites.google.com/g.ecc.u-tokyo.ac.jp/iis-materials-core) </u>および<u>[ARIM](https://nanonet.mext.go.jp/)</u>等の共同利用設備を活用して実験を行っております
 
 <br>
+
 ---
+
 <br>
 
 ###### Sample preparation
