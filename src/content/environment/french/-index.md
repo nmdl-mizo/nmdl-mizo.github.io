@@ -5,6 +5,7 @@ description: "Our environment"
 image: "/images/environment.png"
 draft: false
 ---
+
 <br>
 
 ##### Research Environments / 研究環境
@@ -20,7 +21,9 @@ draft: false
 明るく広々としたスペース．固体物理，量子化学，機械学習，計測など共用教科書 & 議論用もホワイトボードなども充実．
 
 <br>
+
 ---
+
 <br>
 
 ##### Research Equipments / 研究設備
@@ -42,8 +45,11 @@ draft: false
 <br>
 
 ---
+
 <br>
+
 ###### Theoretical Calculation Codes & GUI
+
 <br>
 <img src="/images/environment/image7.png" style="width:1.58103in;height:0.78333in" />
 <img src="/images/environment/image8.png" style="width:2.63333in;height:0.66781in"/>
@@ -76,11 +82,19 @@ draft: false
 <img src="/images/3DS2025.png" style="width:2.0in;height:2.0in" />
 <img src="/images/3DS2024.png" style="width:2.0in;height:2.0in" />  
 
+<br>
+
 ダッソーシステムの [<u>アンバサダー</u>](https://www.3ds.com/science/science-ambassador-program)  を務めています．
+
 <br>
+
 ---
+
 <br>
+
+
 ###### TEM, SEM, and analytical tools
+
 
 <img src="/images/environment/image10.png" style="width:3.27019in;height:0.66181in"/>
 
@@ -90,10 +104,12 @@ Komaba Analysis Core / [東京大学・生産技術研究所・駒場分析コ�
 
 ARIM / [マテリアル先端リサーチインフラ](https://nanonet.mext.go.jp/)
 
-ナノ物質設計工学研究室では主に<u>[駒場分析コア](https://sites.google.com/g.ecc.u-tokyo.ac.jp/iis-materials-core) </u>および<u>[ARIM](https://nanonet.mext.go.jp/)</u>等の共同利用設備を活用して実験を行っております
+主に<u>[駒場分析コア](https://sites.google.com/g.ecc.u-tokyo.ac.jp/iis-materials-core) </u>および<u>[ARIM](https://nanonet.mext.go.jp/)</u>等の共同利用設備を活用して実験を行っております
 
 <br>
+
 ---
+
 <br>
 
 ###### Sample preparation
