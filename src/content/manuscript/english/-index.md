@@ -32,11 +32,11 @@ draft: false
 
 **— 2025 —**  
 
-1.  *Invited Review:* "Data-Driven ELNES/XANES Analysis: Predicting Spectra, Unveiling Structures, and Quantifying Properties" 
+1.  *Invited Review:* "Data-Driven ELNES/XANES Analysis: Predicting Spectra, Unveiling Structures, and Quantifying Properties"  
      **T. Mizoguchi**  
     *Microscopy*, 2025 in press
 
-1.  "Application of CASTEP Code to the Simulation of Soft X-ray Emission Spectra of Light Element Materials"
+1.  "Application of CASTEP Code to the Simulation of Soft X-ray Emission Spectra of Light Element Materials"  
      M. Niibe, T. Nakashima, Y. Saito, Y. Ando, **T. Mizoguchi**, and I. Matsuda  
     *e-J. Surf. Sci. NanoTech.*, 23 (2025) in press [**here**](https://www.jstage.jst.go.jp/article/ejssnt/advpub/0/advpub_2025-045/_article)
 
