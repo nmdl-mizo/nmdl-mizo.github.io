@@ -5,10 +5,7 @@ description: "Manuscript"
 image: ""
 draft: false
 ---
- <p align="right"> **Bold** *indicates Mizoguchi Lab. member.*
- </p>
-
- **Bold** *indicates Mizoguchi Lab. member*
+ <p align="right"> **Bold** *indicates Mizoguchi Lab. member.* </p>
  
 1.  **S. Lee, K. Shibata**, D. Bae, and **T. Mizoguchi**  
     submitted
@@ -29,11 +26,15 @@ draft: false
     submitted
 
 1.  **T. Mizoguchi**  
-    submitted
+    submitted *Invited Review 2*
 
 
 
 **— 2025 —**  
+
+1.  *Invited Review:* "Data-Driven ELNES/XANES Analysis: Predicting Spectra, Unveiling Structures, and Quantifying Properties" 
+     **T. Mizoguchi**  
+    *Microscopy*, 2025 in press
 
 1.  "Application of CASTEP Code to the Simulation of Soft X-ray Emission Spectra of Light Element Materials"
      M. Niibe, T. Nakashima, Y. Saito, Y. Ando, **T. Mizoguchi**, and I. Matsuda  

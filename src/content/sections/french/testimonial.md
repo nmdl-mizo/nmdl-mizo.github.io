@@ -1,10 +1,20 @@
 ---
 enable: true
 title: "What's new!"
-description: "<b> [過去のニュース](/news) <br>[研究室 Twitter](https://x.com/nmdl_mizo)</b>"
+description: "<b><u> [過去のニュース](/news) <br>[研究室 Twitter](https://x.com/nmdl_mizo) </u> </b>"
 
 # Testimonials
 testimonials:
+  - name: "2025, Sep."
+    designation: ""
+    avatar: ""
+    content: "学生が名古屋で行われた応用物理学会で発表しました．<u>[こちら](https://x.com/nmdl_mizo/status/1965206572541612134)</u>"
+
+  - name: "2025, Sep."
+    designation: ""
+    avatar: ""
+    content: "研究室の日常＠2025夏 <u>[夏](https://x.com/nmdl_mizo/status/1950490759163240668)</u>と<u>[夏](https://x.com/nmdl_mizo/status/1953359241743597995)</u>と<u>[晩夏](https://x.com/nmdl_mizo/status/1965209327029157969)</u>"
+ 
   - name: "2025, Sep."
     designation: ""
     avatar: ""
@@ -25,11 +35,6 @@ testimonials:
     avatar: ""
     content: "量子センサーにおける欠陥のナノスケール可視化に関する，NIMS，QSTとの共同研究成果がNano Lett.に掲載されました．<u>[こちら](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c02988)</u>"
 
-  - name: "2025, Aug."
-    designation: ""
-    avatar: ""
-    content: "研究室の日常＠2025夏 <u>[こちら](https://x.com/nmdl_mizo/status/1950490759163240668)</u>と<u>[こちら](https://x.com/nmdl_mizo/status/1953359241743597995)</u>"
- 
   - name: "2025, Aug."
     designation: ""
     avatar: ""
