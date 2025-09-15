@@ -8,6 +8,18 @@ draft: false
 **<b> Please see top-page and Twitter(X) for the latest new! </b>**
 
 **2025　:**
+- Sep We made welcome party for intern-student from Niihama Institute of Technology (KOSEN) <u>[Here](https://x.com/nmdl_mizo/status/1962704922182590943)</u>
+
+- Sep Collaboration study of XES simulation using CASTEP with ISSP-UTokyo and Univ. Hyogo has publised in e-Journal of Surf. Sci. Nano.<u>[Here](https://www.jstage.jst.go.jp/article/ejssnt/advpub/0/advpub_2025-045/_article/-char/en)</u>
+
+- Aug Collaboration study of nano-scale visualization of defect in quantum sensor with NIMS and QST is published in Nano Lett.<u>[Here](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c02988)</u> 
+
+- Aug Our study on the development of high precision machine learning potential for crystalline polytypes, glass and liquid of BaTiO3 has been published in APL Machine Learning. <u>[Here](https://pubs.aip.org/aip/aml/article/3/3/036115/3360303/High-precision-machine-learning-force-field)</u> 
+
+- Aug Collabolation study with Tokyo Univ. Sci. has been accepted in 日本金属学会誌 (Japanese journal)
+
+- July Students made presentation at IIS PhD student live, and won prizes!<u>[HERE](https://x.com/nmdl_mizo/status/1942778149504516392)</u>
+
 - July We have enjoyed Tanabata (July 7th) event<u>[Here](https://x.com/nmdl_mizo/status/1942777956620984761)</u>
 
 - July Dr. Sangjun-san is very fine in Korea!! Great!<u>[Here](https://x.com/nmdl_mizo/status/1942777735476347182)</u>

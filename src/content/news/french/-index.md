@@ -8,6 +8,18 @@ draft: false
 **<b> 最新のニュースはTop pageやTwitter（X)をご覧ください </b>**
 
 **2025:**
+-Sep 新居浜高専からインターンとして参加する学生さんの歓迎会を行いました！<u>[こちら](https://x.com/nmdl_mizo/status/1962704922182590943)</u>"
+
+- Sep CASTEPを用いた発光分光計算に関する，東大物性研，兵庫県立大学との共同研究成果が e-Journal of Surf. Sci. Nano.に掲載されました．<u>[こちら](https://www.jstage.jst.go.jp/article/ejssnt/advpub/0/advpub_2025-045/_article/-char/en)</u>
+
+- Aug BaTiO3の結晶多形，ガラス，液体状態に利用可能な高精度機械学習ポテンシャルに関する研究成果がAPL Machine Learningに掲載されました．<u>[こちら](https://pubs.aip.org/aip/aml/article/3/3/036115/3360303/High-precision-machine-learning-force-field)</u>
+
+- Aug 量子センサーにおける欠陥のナノスケール可視化に関する，NIMS，QSTとの共同研究成果がNano Lett.に掲載されました．<u>[こちら](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c02988)</u>
+
+- Aug 東京理科大学との共同研究成果が日本金属学会誌に掲載決定しました．
+
+- July IIS PhD student liveで学生が発表しました<u>[こちら](https://x.com/nmdl_mizo/status/1942778149504516392)</u>
+
 - July 駒場リサーチキャンパスの七夕イベントに参加しました<u>[こちら](https://x.com/nmdl_mizo/status/1942777956620984761)</u>
 
 - July 研究員として在籍してたSangjunさんに韓国で会いました！<u>[こちら](https://x.com/nmdl_mizo/status/1942777735476347182)</u>
