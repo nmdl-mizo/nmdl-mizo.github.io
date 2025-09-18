@@ -5,6 +5,18 @@ description: "Award"
 image: ""
 draft: false
 ---
+1.  **藤方悠**，溝口照康  
+    学生奨励賞, XAFS討論会，日本XAFS研究会, 2025, 2025年9月15日
+
+1.  **Izumi Takahara**, and  Teruyasu Mizoguchi  
+    Presentation Award, IIS PhD Student Live, 2025, 2025年6月
+
+1.  **Poyen Chen**, and  Teruyasu Mizoguchi  
+    Presentation Award, IIS PhD Student Live, 2025, 2025年6月
+
+2.  **溝口照康**  
+    日本セラミックス協会, 学術賞2024年6月
+
 1.  **Y. S. Xie, K. Shibata, and T. Mizoguchi**  
     Award of the Outstanding Papers and Reviews Published in the JCerSJ, 2024年6月
 
@@ -26,7 +38,7 @@ draft: false
 7.  **西尾健人**，柴田基洋，溝口照康  
     日本金属学会秋季大会優秀ポスター賞
 
-8.  **Izumi Takahara**, Poyen Chen, Kiyou Shibata,and  Teruyasu Mizoguchi  
+8.  **Izumi Takahara**, Poyen Chen, Kiyou Shibata, and  Teruyasu Mizoguchi  
     Best contiributed speaker award, MRS 2022 fall meeting, 2023, April 12.
 
 9.  **Teruyasu Mizoguchi**  
