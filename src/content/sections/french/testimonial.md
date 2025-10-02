@@ -5,6 +5,11 @@ description: "<b><u> [過去のニュース](/news) <br>[研究室 Twitter](http
 
 # Testimonials
 testimonials:
+  - name: "2025, Oct."
+    designation: ""
+    avatar: ""
+    content: "10月からの新メンバーを歓迎する会を行いました！<u>[こちら](https://x.com/nmdl_mizo/status/1973566650197876777)</u>"
+
   - name: "2025, Sep."
     designation: ""
     avatar: ""

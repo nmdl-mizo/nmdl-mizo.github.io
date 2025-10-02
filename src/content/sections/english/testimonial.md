@@ -5,6 +5,11 @@ description: "<b><u> [Previous News](/en/news)<br> [Lab Twitter](https://x.com/n
 
 # Testimonials
 testimonials:
+  - name: "2025, Oct."
+    designation: ""
+    avatar: ""
+    content: "We held a welcome party for the new members joining us this semester. Welcome, Watanabe-san and Pol-kun!  <u>[Here](https://x.com/nmdl_mizo/status/1973566650197876777)</u>"
+
   - name: "2025, Sep."
     designation: ""
     avatar: ""

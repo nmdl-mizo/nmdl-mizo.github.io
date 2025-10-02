@@ -63,6 +63,11 @@ D: Louis Wong
 D: Youjeong Choi
 <br>email：youjeong_at_iis.u-tokyo.ac.jp
 
+<img src="/images/mem/watanabe.png" style="width:1.44133in;height:1.91667in" />
+
+D: Masahiro Watanabe （渡辺 雅浩）
+<br>email：mw008_at_iis.u-tokyo.ac.jp
+
 <img src="/images/mem/image12.png" style="width:1.61667in;height:2.08333in"  />
 
 M: Gen Fukuzawa（福沢 源）
@@ -102,5 +107,10 @@ M: Yinan Wang（王 憶楠）
 
 <img src="/images/mem/46.jpg" style="width:1.44in;height:1.94in" />
 
-D: Yeongrok Jin
+D: Yeongrok Jin (Pusan National University)
 <br>email：yrjin_at_iis.u-tokyo.ac.jp
+
+<img src="/images/mem/pol.png" style="width:1.44in;height:1.94in" />
+
+D: Pol Benítez Colominas (Universitat Politècnica de Catalunya)
+<br>email：
