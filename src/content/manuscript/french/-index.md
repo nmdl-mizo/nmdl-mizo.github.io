@@ -25,15 +25,16 @@ draft: false
 1.  **Y. Fujikata**, **T. Mizoguchi**, and H. Sugisawa  
     submitted
 
-1.  **T. Mizoguchi**   
-    submitted *Invited Review 2*
-
 
 **— 2025 —**  
 
+1.    *Invited Review:* "A Review of Simulation, Characterization, and Informatics in Inorganic Materials"  
+     **T. Mizoguchi**   
+    *J. Ceram. Soc. Jpn*, 2025 in press.  
+
 1.  *Invited Review:* "Data-Driven ELNES/XANES Analysis: Predicting Spectra, Unveiling Structures, and Quantifying Properties"  
      **T. Mizoguchi**  
-    *Microscopy*, 2025 in press
+    *Microscopy*, 2025 in press.  DOI:10.1093/jmicro/dfaf038, [**here**](https://doi.org/10.1093/jmicro/dfaf038)  
 
 1.  "Application of CASTEP Code to the Simulation of Soft X-ray Emission Spectra of Light Element Materials"  
      M. Niibe, T. Nakashima, Y. Saito, Y. Ando, **T. Mizoguchi**, and I. Matsuda  
@@ -41,7 +42,7 @@ draft: false
 
 1.  "Observation of Boron Vacancy Concentration in Hexagonal Boron Nitride at Nanometer Scale"  
      J. Kikkawa, C. Shinei, J. Chen, Y. Masuyama, Y. Yamazaki, **T. Mizoguchi**, K. Kimoto, T. Taniguchi, and T. Teraji  
-     *Nano Lett.*, (2025) 10.1021/acs.nanolett.5c02988  
+     *Nano Lett.*, (2025) DOI:10.1021/acs.nanolett.5c02988  
 
 1.  "High Precision Machine Learning Force Field Development for BaTiO3 Phase Transitions, Amorphous, and Liquid Structures"  
      **P. Y. Chen, K. Shibata**, and **T. Mizoguchi**  

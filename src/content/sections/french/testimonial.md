@@ -8,6 +8,11 @@ testimonials:
   - name: "2025, Oct."
     designation: ""
     avatar: ""
+    content: "「XAFSの基礎と応用　第2版」が出版されました<u>[こちら](https://www.kspub.co.jp/book/detail/5404867.html)</u>．<br> Microscopy誌に招待総説が掲載されました．<u>[Open Accessこちら](https://academic.oup.com/jmicro/advance-article/doi/10.1093/jmicro/dfaf038/8251526?login=true)</u>"
+
+  - name: "2025, Oct."
+    designation: ""
+    avatar: ""
     content: "10月からの新メンバーを歓迎する会を行いました！<u>[こちら](https://x.com/nmdl_mizo/status/1973566650197876777)</u>"
 
   - name: "2025, Sep."

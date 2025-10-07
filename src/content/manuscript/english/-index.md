@@ -8,33 +8,32 @@ draft: false
  <p align="right"> **Bold** *indicates Mizoguchi Lab. member.* </p>
  
 1.  **S. Lee, K. Shibata**, D. Bae, and **T. Mizoguchi**  
-    submitted
+    submitted  
 
 1.  MS Kim, S.Y. Choi, et al.  
-    submitted
+    submitted  
 
 1.  **I. Takahara**, **T. Mizoguchi**, and B. Liu  
-    submitted
+    submitted  
 
 1.  J. W. Abbott,..**I. Takahara**, **K. Shibata**, **T. Mizoguchi**, et al.,  
-    FHI-aims, submitted
+    FHI-aims, submitted  
 
 1.  **P. Y. Chen** and **T. Mizoguchi**  
-    submitted
+    submitted  
 
 1.  **Y. Fujikata**, **T. Mizoguchi**, and H. Sugisawa  
-    submitted
-
-1.  **T. Mizoguchi**  
-    submitted *Invited Review 2*
-
+    submitted  
 
 
 **— 2025 —**  
+1.    *Invited Review:* "A Review of Simulation, Characterization, and Informatics in Inorganic Materials"  
+     **T. Mizoguchi**  
+    *J. Ceram. Soc. Jpn*, 2025 in press.  
 
 1.  *Invited Review:* "Data-Driven ELNES/XANES Analysis: Predicting Spectra, Unveiling Structures, and Quantifying Properties"  
      **T. Mizoguchi**  
-    *Microscopy*, 2025 in press
+    *Microscopy*, 2025 in press.  DOI:10.1093/jmicro/dfaf038, [**here**](https://doi.org/10.1093/jmicro/dfaf038)
 
 1.  "Application of CASTEP Code to the Simulation of Soft X-ray Emission Spectra of Light Element Materials"  
      M. Niibe, T. Nakashima, Y. Saito, Y. Ando, **T. Mizoguchi**, and I. Matsuda  

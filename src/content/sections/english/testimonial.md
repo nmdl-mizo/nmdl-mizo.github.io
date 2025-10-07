@@ -8,6 +8,11 @@ testimonials:
   - name: "2025, Oct."
     designation: ""
     avatar: ""
+    content: "Japanese book for XAFS has been published<u>[Here](https://www.kspub.co.jp/book/detail/5404867.html)</u>．<br> Invited review in <i>Microscopy</i> about AI application for ELNES/XANES has been published.<u>[Open Access](https://academic.oup.com/jmicro/advance-article/doi/10.1093/jmicro/dfaf038/8251526?login=true)</u>"
+
+  - name: "2025, Oct."
+    designation: ""
+    avatar: ""
     content: "We held a welcome party for the new members joining us this semester. Welcome, Watanabe-san and Pol-kun!  <u>[Here](https://x.com/nmdl_mizo/status/1973566650197876777)</u>"
 
   - name: "2025, Sep."
