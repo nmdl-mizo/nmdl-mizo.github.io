@@ -5,6 +5,16 @@ description: "<b><u> [過去のニュース](/news) <br>[研究室 Twitter](http
 
 # Testimonials
 testimonials:
+  - name: "2025, Nov."
+    designation: ""
+    avatar: ""
+    content: "HCP-Tiの双晶界面における安定性と機械的強度に対する非金属ドーパントの影響に関するYonsei大学との共同研究成果が J. Mater. Res. Tech.に掲載決定しました．"
+
+  - name: "2025, Nov."
+    designation: ""
+    avatar: ""
+    content: "酸化物モアレ界面における特異的な電子構造の形成に関するPOSTECH, Univ. Wisconsin-Madison, Univ. Nebraskaとの共同研究成果が ACS Nano に掲載決定しました．"
+
   - name: "2025, Oct."
     designation: ""
     avatar: ""

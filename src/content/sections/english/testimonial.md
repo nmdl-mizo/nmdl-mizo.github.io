@@ -5,6 +5,16 @@ description: "<b><u> [Previous News](/en/news)<br> [Lab Twitter](https://x.com/n
 
 # Testimonials
 testimonials:
+  - name: "2025, Nov."
+    designation: ""
+    avatar: ""
+    content: "A collaboration study with Yonsei Univ. on the influence of non-metal solute to the stability and mechanical strength of twin boundary of HCP-Ti has been accepted for publicatoin in J. Mater. Res. Tech."
+
+  - name: "2025, Nov."
+    designation: ""
+    avatar: ""
+    content: "A collaboration study with POSTECH, Univ. Wisconsin-Madison, and Univ. Nebraska on the formation of peculiar band structure at moire interface of oxide membrene has been accepted for publication in ACS Nano．"
+
   - name: "2025, Oct."
     designation: ""
     avatar: ""

@@ -7,12 +7,6 @@ draft: false
 ---
  <p align="right"> **Bold** *indicates Mizoguchi Lab. member.* </p>
  
-1.  **S. Lee, K. Shibata**, D. Bae, and **T. Mizoguchi**  
-    submitted  
-
-1.  MS Kim, S.Y. Choi, et al.  
-    submitted  
-
 1.  **I. Takahara**, **T. Mizoguchi**, and B. Liu  
     submitted  
 
@@ -25,8 +19,19 @@ draft: false
 1.  **Y. Fujikata**, **T. Mizoguchi**, and H. Sugisawa  
     submitted  
 
+1.  **Y. Wang, Y. Fujikata, L. Wong**, Y. Muramatsu, and **T. Mizoguchi**,  
+    submitted
+
 
 **— 2025 —**  
+1.  "Nonmetal interstitial solute segregation and its influence on stabilizing and strengthening of HCP Ti twin boundary"  
+     **S. Lee, K. Shibata**, D. Bae, and **T. Mizoguchi**  
+    *J. Mater. Res. Tech.*, in press
+
+1.  "Charge Disproportionation at Twisted SrTiO3 Bilayer Interface Driven by Local Atomic Registry"  
+     Min-Su Kim, Kyoungjun Lee, Ryo Ishikawa, Kyung Song, Naafis Ahnaf Shahed, Kitae Eom, Mark Rzchowski, Evgeny Y Tsymbal, Naoya Shibata, **Teruyasu Mizoguchi**, Chang-Beom Eom, Si-Young Choi  
+    *ACS Nano*, in press
+
 1.    *Invited Review:* "A Review of Simulation, Characterization, and Informatics in Inorganic Materials"  
      **T. Mizoguchi**  
     *J. Ceram. Soc. Jpn*, 2025 in press.  
