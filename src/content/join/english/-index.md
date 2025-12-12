@@ -30,16 +30,21 @@ Through a deep understanding of materials from the perspective of atoms and elec
 
 **◆ We Are Recruiting Graduate Students & JSPS Research Fellows!**
 
-Students in our lab begin new research themes upon entering graduate school and have achieved numerous research accomplishments that will leave a mark in scientific history, even within limited timeframes. No prior knowledge of programming, theoretical calculations, or electron microscopy is required. Almost all former students started without such knowledge and acquired these skills during their research. What is important is **a passion for atoms and electrons**. The Mizoguchi Lab is **seeking students with a strong interest in atoms and electrons**.  
+Students in our laboratory start new research themes after entering graduate school and have achieved numerous research results that have left their mark in the history of science, even within a limited period. There is no need to have prior knowledge of programming, theoretical calculations, or atomic-level measurements. Almost all students who have joined our laboratory started their research without such knowledge and acquired it as they progressed in their research. The important prerequisites are first, **an interest in atoms and electrons**, and second, **the motivation to engage seriously with research during your time here and to grow as an individual**.
+
+By dedicating yourself earnestly to graduate-level research during your enrollment, you can acquire the following important abilities for your future life, regardless of your career path after graduation:
+ -An attitude of engaging sincerely with research and challenges
+ -Experience in overcoming difficulties, both large and small
+ -The ability to deeply analyze obtained results and the balanced perspective to evaluate them appropriately
+ -Skills in effective storytelling for conferences and papers
+
+The Mizoguchi Laboratory widely welcomes students who **love atoms and electrons** and **wish to achieve significant personal growth through research activities via PhD study**.
+
 We also welcome applications for [**JSPS Research Fellowships (PD, RPD)**](https://www.jsps.go.jp/j-pd/). The JSPS PD and RPD fellowships offer valuable opportunities for independent and free research. Please utilize our lab as a place to acquire new knowledge and skills and grow into an independent researcher.
 
 **◆ Guidance for Doctoral Studies**
 
-Through research in our laboratory, you will gain advanced skills in simulation, measurement, and machine learning, and deep knowledge for understanding material phenomena at the atomic and electronic level. Additionally, you will develop logical approaches to various challenges and keen insight to identify potential issues before they emerge. In a doctoral program, you can cultivate the ability to discover and solve your unique challenges while deeply exploring your own research interests.
-
-The skills acquired in a doctoral program are valuable in any field, not only in academic research but also in private enterprises and startups. Recently, we have also seen an increase in inquiries from private sector employees interested in obtaining a doctorate. Moreover, the lifestyle of doctoral students has evolved significantly in recent years. Doctoral students in our lab receive support (including financial aid) from JSPS, JST, and the University of Tokyo. The University of Tokyo also provides **<u>similar support for master's students planning to advance to doctoral programs</u>**. Additionally, our lab offers independent support to ensure students can focus on their research activities and develop their skills.
-
-Our lab's doctoral graduates are active in various fields, including universities, research institutes, and private companies. If you have any concerns or questions about pursuing a doctoral degree, feel free to consult with Mizoguchi. Our students begin new research themes upon entering graduate school and have achieved numerous accomplishments that will leave a mark in scientific history, even within limited timeframes.
+**Currently, we are accepting only international students who have a strong commitment to pursuing a doctoral degree.**
 
 **◆ How to Join the Mizoguchi Lab**
 
