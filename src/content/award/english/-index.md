@@ -5,6 +5,9 @@ description: "Award"
 image: ""
 draft: false
 ---
+1.  **Izumi Takhara**，Teruyasu Mizoguchi, and Bang Liu  
+    MRS Graduate student gold award, 2025, 2025年12月4日
+
 1.  **藤方悠**，溝口照康  
     学生奨励賞, XAFS討論会，日本XAFS研究会, 2025, 2025年9月15日
 

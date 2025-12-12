@@ -7,6 +7,22 @@ draft: false
 ---
 
 **International Conference**
+1.  **I. Takahara**, T. Mizoguchi, and B. Liu
+    "****"
+    NeurIPS, workshop AI4Mat, SanDiego, USA, Dec. 7, 2025
+
+1.  **Louis Wong**, I. Takahara, and T. Mizoguchi
+    "****"
+    MRS fall meeting, Boston, Nov. 4, 2025
+
+1.  **P. Y. Chen**, and T. Mizoguchi
+    "****"
+    MRS fall meeting, Boston, Nov. 1, 2025
+
+1.  **I. Takahara**, T. Mizoguchi, and B. Liu
+    "****"
+    MRS fall meeting, Boston, Nov. 1, 2025
+
 1.  **I. Takahara**, K. Shibata, and T. Mizoguchi,
     "Diffusion Generative Modelling with Transformers for Generative Materials Design"
     MRS fall meeting, Boston, Nov. 5, 2024
@@ -472,6 +488,38 @@ draft: false
 ------------------------------------------------------------------------
 
 **Domestic Conference**
+
+1.  **Youjeong Choi**, 溝口照康
+    ”**”
+    ケモインフォマティクス討論会，2025. 11. 27, 東広島，広島
+
+1.  **杉浦祐**, 溝口照康
+    ”**”
+    ケモインフォマティクス討論会，2025. 11. 27, 東広島，広島
+
+1.  **Pol Benitez**,Claudio Cazorla,  溝口照康
+    ”**”
+    ケモインフォマティクス討論会，2025.  11. 27, 東広島，広島
+
+1.  **佐橋遼太郎**, PY Chen，溝口照康
+    ”**”
+    電子材料研究討論会，2025. 10. 20, 慶応大学，日吉
+
+1.  **PY Chen**，溝口照康
+    ”**”
+    応用物理学会春季大会，2025. 9. 7, 名城大学，愛知
+
+1.  **藤方悠**，溝口照康
+    ”**”
+    XAFS討論会，2025. 9. 14, Photon Factory, つくば
+
+1.  **大久保　怜**，藤方悠，溝口照康
+    ”**”
+    XAFS討論会，2025. 9. 14, Photon Factory, つくば
+
+1.  **Y. N．Wang**，藤方悠，村松康司，溝口照康
+    ”**”
+    XAFS討論会，2025. 9. 14, Photon Factory, つくば
 
 1.  **柴田基洋**，溝口照康
     ”内殻電子励起スペクトルデータの予測と解釈のための確率的変分推論を活用したグラフニューラルネットの検討”

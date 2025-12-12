@@ -12,6 +12,7 @@ draft: false
 
 Professor, PI, Teruyasu Mizoguchi （教授・溝口 照康）, Ph. D
 <br>email：teru_at_iis.u-tokyo.ac.jp
+<br>Linkdin：[Linkedin](https://www.linkedin.com/in/teruyasu-mizoguchi-035395284/)
 
 <img src="/images/mem/yanaba.png" style="width:1.44133in;height:1.91667in" />
 

@@ -5,6 +5,26 @@ description: "<b><u> [Previous News](/en/news)<br> [Lab Twitter](https://x.com/n
 
 # Testimonials
 testimonials:
+  - name: "2025, Dec."
+    designation: ""
+    avatar: ""
+    content: "A student has presentation in NeurIPS AI4Mat workshop at SanDiego"
+
+  - name: "2025, Dec."
+    designation: ""
+    avatar: ""
+    content: "Students have presentations in MRS fall meeting at Boston"
+
+  - name: "2025, Dec."
+    designation: ""
+    avatar: ""
+    content: "Students have presentations in ChemoInformatics workshop at Hiroshima"<u>[Here](https://x.com/nmdl_mizo/status/1994967350106603787)</u>"
+
+  - name: "2025, Dec."
+    designation: ""
+    avatar: ""
+    content: "A review article on simulation, characterization, and informatics for inorganic materials has been published in J. Ceram. Soc. Jpn <u>[Open Access](https://www.jstage.jst.go.jp/article/jcersj2/133/12/133_25121/_article)</u>"
+    
   - name: "2025, Nov."
     designation: ""
     avatar: ""

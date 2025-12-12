@@ -1,10 +1,30 @@
 ---
 enable: true
 title: "What's new!"
-description: "<b><u> [過去のニュース](/news) <br>[研究室 Twitter](https://x.com/nmdl_mizo) </u> </b>"
+description: "<b><u> [過去のニュース](/news) <br>[研究室 Twitter](https://x.com/nmdl_mizo) </u> </b> "
 
 # Testimonials
 testimonials:
+  - name: "2025, Dec."
+    designation: ""
+    avatar: ""
+    content: "SanDiegoで行われたNeurIPS AI4Mat workshopで学生が発表しました<u>[こちら](https://x.com/nmdl_mizo/status/1998629901730234658)</u>"
+
+  - name: "2025, Dec."
+    designation: ""
+    avatar: ""
+    content: "ボストンで行われたMRS fall meetingで学生が発表しました<u>[こちら](https://x.com/nmdl_mizo/status/1998629277626167802)</u>"
+
+  - name: "2025, Nov."
+    designation: ""
+    avatar: ""
+    content: "東広島で行われたケモインフォマティクス討論会で学生が発表しました <u>[こちら](https://x.com/nmdl_mizo/status/1994967350106603787)</u>"
+
+  - name: "2025, Dec."
+    designation: ""
+    avatar: ""
+    content: "J. Ceram. Soc. Jpnに無機材料のシミューション，計測およびインフォマティクス応用に関する創設論文が掲載されました．<u>[Open Access](https://www.jstage.jst.go.jp/article/jcersj2/133/12/133_25121/_article)</u>"
+
   - name: "2025, Nov."
     designation: ""
     avatar: ""

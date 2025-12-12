@@ -7,9 +7,6 @@ draft: false
 ---
  <p align="right"> **Bold** *indicates Mizoguchi Lab. member.* </p>
  
-1.  **I. Takahara**, **T. Mizoguchi**, and B. Liu  
-    submitted
-
 1.  J. W. Abbott,... **I. Takahara**, **K. Shibata**, **T. Mizoguchi**, et al.,  
     FHI-aims, submitted
 
@@ -22,20 +19,28 @@ draft: false
 1.  **Y. Wang, Y. Fujikata, L. Wong**, Y. Muramatsu, and **T. Mizoguchi**,  
     submitted
 
+1.  **P. Y. Chen** and **T. Mizoguchi**  
+    submitted
+
+1.  **R. Sahashi, P. Y. Chen**, and **T. Mizoguchi**,  
+    submitted
 
 **— 2025 —**  
 
+1.  **I. Takahara**, **T. Mizoguchi**, and B. Liu  
+    in press
+
 1.  "Nonmetal interstitial solute segregation and its influence on stabilizing and strengthening of HCP Ti twin boundary"  
      **S. Lee, K. Shibata**, D. Bae, and **T. Mizoguchi**  
-    *J. Mater. Res. Tech.*, in press
+    *J. Mater. Res. Tech.*, 39 (2025) 7999-8011.
 
 1.  "Charge Disproportionation at Twisted SrTiO3 Bilayer Interface Driven by Local Atomic Registry"  
      Min-Su Kim, Kyoungjun Lee, Ryo Ishikawa, Kyung Song, Naafis Ahnaf Shahed, Kitae Eom, Mark Rzchowski, Evgeny Y Tsymbal, Naoya Shibata, **Teruyasu Mizoguchi**, Chang-Beom Eom, Si-Young Choi  
-    *ACS Nano*, in press
+    *ACS Nano*, 19 (2025) 39714-39724.
 
 1.    *Invited Review:* "A Review of Simulation, Characterization, and Informatics in Inorganic Materials"  
      **T. Mizoguchi**   
-    *J. Ceram. Soc. Jpn*, 2025 in press.  
+    *J. Ceram. Soc. Jpn*, 133, (2025) 713-734.  [**here**](https://www.jstage.jst.go.jp/article/jcersj2/133/12/133_25121/_article)
 
 1.  *Invited Review:* "Data-Driven ELNES/XANES Analysis: Predicting Spectra, Unveiling Structures, and Quantifying Properties"  
      **T. Mizoguchi**  
@@ -55,11 +60,11 @@ draft: false
 
 1.  "第一原理計算に基づく白金表面への酸素吸着挙動の解析"  
      吉谷地豪太，中條雄太，**溝口照康**，田中優美  
-    *日本金属学会誌*, (2025) in press
+    *日本金属学会誌*, 89 (2025)362-367 [**here**](https://www.jstage.jst.go.jp/article/jinstmet/89/12/89_J202525/_html/-char/ja)
 
 1.  "Defect-Driven Reconstruction of Bismuth Nanoflowers via Precursor Engineering for Highly Efficient CO2-to-Formate Electrochemical Reduction"  
      J. Yan, M. kamiko, **T. Mizoguchi**, and S. Yagi  
-    *Small Science*, (2025), in press
+    *Small Science*, 5 (2025),2500296-1-10
 
 1.  "Direct Imaging of Co-CUK-1 Framework with H2O Guests"  
     Dong-Hwan Yang, Minjeong Kim, Jinyoung Ko, Gi-Yeop Kim, Hyung Gyu Park, Sarah S. Park, Kyung Ho Cho, Ji Sun Lee, Jong-San Chang, U-Hwang Lee, Ryo Ishikawa, Naoya Shibata, Yousung Jung, Jonghwan Kim, **Teruyasu Mizoguchi**, Si-Young Choi  
