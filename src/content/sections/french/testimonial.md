@@ -8,6 +8,11 @@ testimonials:
   - name: "2025, Dec."
     designation: ""
     avatar: ""
+    content: "機械学習とXAFSを利用したSiOx化合物の原子・電子構造解析に関する研究成果がPhys. Chem. Chem. Phys.に掲載決定しました"
+
+  - name: "2025, Dec."
+    designation: ""
+    avatar: ""
     content: "SanDiegoで行われたNeurIPS AI4Mat workshopで学生が発表しました<u>[こちら](https://x.com/nmdl_mizo/status/1998629901730234658)</u>"
 
   - name: "2025, Dec."

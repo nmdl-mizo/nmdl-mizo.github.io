@@ -2,8 +2,8 @@
   "main": [
     {
       "name": "X(twitter)",
-      "icon": "FaTwitter",
-      "link": "https://twitter.com/nmdl_mizo"
+      "icon": "fa-square-x-twitter",
+      "link": "https://x.com/nmdl_mizo"
     },
     {
       "name": "youtube",
@@ -19,16 +19,6 @@
       "name": "Manual",
       "icon": "FaM",
       "link": "https://www.edge.iis.u-tokyo.ac.jp/CASTEP-ELNES-manual-2021.htm"
-    },
-    {
-      "name": "Growi",
-      "icon": "FaG",
-      "link": "http://127.0.0.1:3000//"
-    },
-    {
-      "name": "Growi_local",
-      "icon": "FaL",
-      "link": "http://192.168.100.99:3000/"
     }
   ]
 }

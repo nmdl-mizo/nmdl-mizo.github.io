@@ -13,9 +13,6 @@ draft: false
 1.  **P. Y. Chen** and **T. Mizoguchi**  
     submitted
 
-1.  **Y. Fujikata**, **T. Mizoguchi**, and H. Sugisawa  
-    submitted
-
 1.  **Y. Wang, Y. Fujikata, L. Wong**, Y. Muramatsu, and **T. Mizoguchi**,  
     submitted
 
@@ -29,6 +26,10 @@ draft: false
 
 1.  **I. Takahara**, **T. Mizoguchi**, and B. Liu  
     in press
+
+1.  "Machine Learning-Based XANES Analysis for Predicting the Local Structure and Valence in Amorphous Silicon Suboxides"  
+     **Y. Fujikata**, **T. Mizoguchi**, and H. Sugisawa  
+    *Physical Chemistry Chemical Physics*, (2025) in press.
 
 1.  "Nonmetal interstitial solute segregation and its influence on stabilizing and strengthening of HCP Ti twin boundary"  
      **S. Lee, K. Shibata**, D. Bae, and **T. Mizoguchi**  

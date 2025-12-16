@@ -8,6 +8,11 @@ testimonials:
   - name: "2025, Dec."
     designation: ""
     avatar: ""
+    content: "Our study on atomic and electronic structure analysis of SiOx using machine learning and XAFS has been accepted for publication in Phys. Chem. Chem. Phys."
+
+  - name: "2025, Dec."
+    designation: ""
+    avatar: ""
     content: "A student has presentation in NeurIPS AI4Mat workshop at SanDiego"
 
   - name: "2025, Dec."
