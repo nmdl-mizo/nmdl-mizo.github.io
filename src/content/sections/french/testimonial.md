@@ -1,10 +1,15 @@
 ---
 enable: true
 title: "What's new!"
-description: "<b><u> [過去のニュース](/news) <br>[研究室 Twitter](https://x.com/nmdl_mizo) </u> </b> "
+description: "<b><u> [過去のニュース](/news) <br>[研究室 X](https://x.com/nmdl_mizo) </u> </b> "
 
 # Testimonials
 testimonials:
+  - name: "2025, Dec."
+    designation: ""
+    avatar: ""
+    content: "大規模言語モデルを活用して自律性と解釈性を備えた物質設計AIエージェントに関する，モントリオール大学・Mila-Quebec AI Instituteとの共同研究成果がCell Rep. Phys. Sci.に掲載され，プレスリリースしました．[Open access](https://www.sciencedirect.com/science/article/pii/S2666386425006186), [プレスリリース](https://www.iis.u-tokyo.ac.jp/ja/news/4955/)"
+
   - name: "2025, Dec."
     designation: ""
     avatar: ""

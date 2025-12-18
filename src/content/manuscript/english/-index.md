@@ -24,8 +24,9 @@ draft: false
 
 **— 2025 —**  
 
-1.  **I. Takahara**, **T. Mizoguchi**, and B. Liu  
-    in press
+1.  "Accelerated inorganic materials design with generative AI agents"
+    **I. Takahara**, **T. Mizoguchi**, and B. Liu  
+    *Cell Press Phys. Sci.*, 17 (2025) 103019-1-10. [**here**](https://www.sciencedirect.com/science/article/pii/S2666386425006186?via%3Dihub)
 
 1.  "Machine Learning-Based XANES Analysis for Predicting the Local Structure and Valence in Amorphous Silicon Suboxides"  
      **Y. Fujikata**, **T. Mizoguchi**, and H. Sugisawa  

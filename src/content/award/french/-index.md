@@ -5,6 +5,9 @@ description: "Award"
 image: ""
 draft: false
 ---
+1.  **Izumi Takhara**  
+    Travel Grant Award, NeurIPS 2025 AI4Mat , 2025, 2025年12月8日
+
 1.  **Izumi Takhara**，Teruyasu Mizoguchi, and Bang Liu  
     MRS Graduate student gold award, 2025, 2025年12月4日
 
