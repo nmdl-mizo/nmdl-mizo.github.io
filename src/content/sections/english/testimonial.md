@@ -28,7 +28,7 @@ testimonials:
   - name: "2025, Dec."
     designation: ""
     avatar: ""
-    content: "Students have presentations in ChemoInformatics workshop at Hiroshima"<u>[Here](https://x.com/nmdl_mizo/status/1994967350106603787)</u>"
+    content: "Students have presentations in ChemoInformatics workshop at Hiroshima <u>[Here](https://x.com/nmdl_mizo/status/1994967350106603787)</u>"
 
   - name: "2025, Dec."
     designation: ""
