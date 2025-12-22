@@ -8,9 +8,9 @@ testimonials:
   - name: "2025, Dec."
     designation: ""
     avatar: ""
-    content: "Our joint research with the University of Montreal and Mila-Quebec AI Institute on an autonomous and interpretable material design AI agent utilizing large-scale language models have been published in Cell Rep. Phys. Sci.![Open access](https://www.sciencedirect.com/science/article/pii/S2666386425006186), [Press release](https://www.iis.u-tokyo.ac.jp/ja/news/4955/)"
+    content: "Our joint research with the University of Montreal and Mila-Quebec AI Institute on an autonomous and interpretable material design AI agent utilizing large-scale language models have been published in Cell Rep. Phys. Sci.!<u>[Open access](https://www.sciencedirect.com/science/article/pii/S2666386425006186)</u>, <u>[Press release](https://www.iis.u-tokyo.ac.jp/ja/news/4955/)</u>"
 
-- name: "2025, Dec."
+  - name: "2025, Dec."
     designation: ""
     avatar: ""
     content: "Our study on atomic and electronic structure analysis of SiOx using machine learning and XAFS has been accepted for publication in Phys. Chem. Chem. Phys."
