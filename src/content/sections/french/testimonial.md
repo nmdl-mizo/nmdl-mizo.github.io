@@ -8,6 +8,11 @@ testimonials:
   - name: "2025, Dec."
     designation: ""
     avatar: ""
+    content: "BaTiO3における電場応答を高精度に再現する機械学習ポテンシャルに関する研究成果がJ. Ceram. Soc. Jpnの特集号に掲載決定しました"
+
+  - name: "2025, Dec."
+    designation: ""
+    avatar: ""
     content: "大規模言語モデルを活用して自律性と解釈性を備えた物質設計AIエージェントに関する，モントリオール大学・Mila-Quebec AI Instituteとの共同研究成果がCell Rep. Phys. Sci.に掲載され，プレスリリースしました．<u>[Open access](https://www.sciencedirect.com/science/article/pii/S2666386425006186)</u>, <u>[プレスリリース](https://www.iis.u-tokyo.ac.jp/ja/news/4955/)</u>"
 
   - name: "2025, Dec."

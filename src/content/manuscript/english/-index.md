@@ -8,7 +8,7 @@ draft: false
  <p align="right"> **Bold** *indicates Mizoguchi Lab. member.* </p>
  
 1.  J. W. Abbott,... **I. Takahara**, **K. Shibata**, **T. Mizoguchi**, et al.,  
-    FHI-aims, submitted
+    FHI-aims, submitted, [**arxiv**](https://arxiv.org/abs/2505.00125)
 
 1.  **P. Y. Chen** and **T. Mizoguchi**  
     submitted
@@ -17,12 +17,16 @@ draft: false
     submitted
 
 1.  **P. Y. Chen** and **T. Mizoguchi**  
+    submitted, [**arxiv**](https://arxiv.org/abs/2511.09976)
+
+1.  **R. Sahashi, P. Y. Chen**, and **T. Mizoguchi**,  
     submitted
 
-1.  **R. Sahashi, P. Y. Chen, T. Mizoguchi**,  
-    submitted
+    **— 2025 —**  
 
-**— 2025 —**  
+1.  "LDA-Based Machine Learning Force Field for Accurate Electric-Field-Driven Ferroelectric Response in BaTiO3"
+    **R. Sahashi, P. Y. Chen**, and **T. Mizoguchi**,  
+    *J. Ceram. Soc. Jpn.*, (2025) in press.
 
 1.  "Accelerated inorganic materials design with generative AI agents"
     **I. Takahara**, **T. Mizoguchi**, and B. Liu  
@@ -80,7 +84,7 @@ draft: false
     **R. Nakagawa, I. Takahara, K. Shibata**, and **T. Mizoguchi**  
     *Chemistry Lett.*, 54(2025)upaf038. [**here**](https://academic.oup.com/chemlett/article/54/3/upaf038/8058640)\]
 
-**— 2024 —**
+    **— 2024 —**
 
 1.  "Band structure database of layered intercalation compounds with various intercalant atoms and layered hosts"  
     **N. Kawaguchi**, **K. Shibata**, and **T. Mizoguchi**  
@@ -138,7 +142,8 @@ draft: false
     **K. Shibata** and **T. Mizoguchi**
     *Digital Discovery*, 3 (2024), 649-653 \[[**here**](https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00021h)\]
 
-**— 2023 —** 
+
+    **— 2023 —** 
 
 1. 「機械学習を利用した電子・X線分光からの物性予測」  
     **溝口照康**  
@@ -176,7 +181,7 @@ draft: false
     **YS. Xie**, **K. Shibata**, and **T. Mizoguchi**  
     *Acta Mater.*, 250 (2023) 118827-1-11. \[[**here**](https://www.sciencedirect.com/science/article/pii/S1359645423001581)\]  
       
-**—2022—**
+    **—2022—**
 
 1. “interface_master: Python package building CSL and approximate CSL interfaces of any two lattices — an effective tool for interface engineers”  
     **YS. Xie, K. Shibata, and T. Mizoguchi**  
@@ -200,7 +205,7 @@ draft: false
 
 1. “深層学習モデリング活用によるナノ材料シミュレーション”  
     **溝口照康**，梅野宜崇  
-    機械の研究，Vol. 74, No. 5, P329-336
+    *機械の研究*，Vol. 74, No. 5, P329-336
 
 1. “Simulated carbon K edge spectral database of organic molecules”  
     **K. Shibata**, **K. Kikumasa**, **S. Kiyohara, **and** T. Mizoguchi**  
@@ -228,7 +233,7 @@ draft: false
     **[This paper was selected as “Hot Topic:Artificial Intelligence and Machine Learning”\]**  
     **[Selcted as [Back Side Cover](https://onlinelibrary.wiley.com/share/KJUN5INIWHVIRMI7DNDX?target=10.1002/aisy.202270004)\]**  
 
-**—2021—**  
+    **—2021—**  
 
 1. “Nanoscale Investigation of Local Thermal Expansion at SrTiO3 Grain Boundaries by Electron Energy Loss Spectroscopy”  
     **K. Liao, K. Shibata**,and**T. Mizoguchi**  
@@ -262,7 +267,7 @@ draft: false
     **K. Shibata**, **E. Suzuki**, and **T. Mizoguchi**  
     *Data in Brief*, 36 (2021) 106968.**[\[Open Access\]](https://www.sciencedirect.com/science/article/pii/S2352340921002523)**  
       
-**—2020—**
+    **—2020—**
 
 1. “データ駆動型内殻電子励起分光スペクトル（ELNES/XANES）解析”  
     **溝口照康，清原慎**  
@@ -307,7 +312,7 @@ draft: false
 
 1. “結晶界面インフォマティクス：構造決定と構造機能相関”  
     **大谷龍剣**，**清原慎**，**溝口照康**  
-    ***まてりあ***, 59 (2020) 134-138
+    *まてりあ*, 59 (2020) 134-138
 
 1. “Machine learning applications for ELNES/XANES” **(Invited review)**  
     **T.Mizoguchi and S. Kiyohara**  
@@ -317,10 +322,10 @@ draft: false
 
 1. “機械学習を利用した結晶界面構造決定と構造機能相関”  
     **溝口照康，清原慎，大谷龍剣**  
-    *触媒,  *62 (2020) 35-41.  
+    *触媒*, 62 (2020) 35-41.  
       
       
-**—2019—**
+    **—2019—**
 
 1. “機械学習を活用した結晶界面構造決定”  
     **溝口照康，清原慎**  
@@ -339,6 +344,7 @@ draft: false
     *セラミックス*, 54 (2019) 456-463.
 
 1. “機械学習を活用した界面構造探索とスペクトル解析”  
+
     **清原慎**，**溝口照康**
     人工知能，34巻 3号， (2019) 345-350.
 
@@ -360,14 +366,14 @@ draft: false
 
 1. “走査透過型電子顕微鏡法によるガラス，イオン液体，および気体の構造解析”  
     **溝口照康**，**宮田智衆**，**清原慎**，**中澤克昭**，**杉森悠貴**  
-    セラミックス*, 54 (2019) 66-71.
+    *セラミックス*, 54 (2019) 66-71.
 
 1. “機械学習を用いた物質界面構造の高速決定”  
     **清原慎**，**溝口照康**  
-    表面と真空*，62 (2019) 130-135.  
+    *表面と真空*，62 (2019) 130-135.  
       
       
-**—2018—**
+    **—2018—**
 
 1. “Lattice expansion and local lattice distortion in Nb- and La-doped SrTiO3 single crystals investigated by x-ray diffraction and first-principles calculations”  
     S. Kobayashi, Y. Ikuhara and **T. Mizoguchi**  
@@ -420,11 +426,11 @@ draft: false
     *Physica B*, 532 (2018) 24-28.
 
 1. “High-resolution mapping of molecules in an ionic liquid via scanning transmission electron microscopy”**  
-    **T. Miyata **and **T. Mizoguchi**  
+    **T. Miyata** and **T. Mizoguchi**  
     *Microscopy*, 67 (2018) i162–i167 doi.org/10.1093/jmicro/dfx119 \[You can download this manuscript from [***here***](https://academic.oup.com/jmicro/advance-article/doi/10.1093/jmicro/dfx119/4669822?guestAccessKey=66004833-0709-4d66-a770-11b1cacb234c).\]  
       
       
-**—2017—**
+    **—2017—**
 
 1. “Real-space analysis of diffusion behavior and activation energy of individual monatomic ions in a liquid”  
     **T. Miyata**, F. Uesugi, and **T. Mizoguchi**  
@@ -458,7 +464,7 @@ draft: false
     **K. Tomita**,**T. Miyata**, W. Olovsson, and **T. Mizoguchi**  
     *Ultramicroscopy*, 178 (2017) 105-111. DOI:10.1016/j.ultramic.2016.04.006i   
       
- **—2016—**
+    **—2016—**
 
 1. “Prediction of interface structures and energies via virtual screening”  
     **S. Kiyohara**, **H. Oda**, **T. Miyata**, and **T. Mizoguchi**  
@@ -627,15 +633,15 @@ draft: false
 
 1. “First principles calculation of dopant solution energy in HfO2 polymorphs”   
      **M. Saitoh**, T. Tohei, and Y. Ikuhara, **T. Mizoguchi**   
-     *J. Appl. Phys.*, 112, 084514-1-7, (2012). 
+     *J. Appl. Phys.*, 112, 084514-1-7, (2012).   
 
 1. “Defect energetics in LaAlO3 polymorphs: A first principles study”   
      **T. Yamamoto** and **T. Mizoguchi**   
-     Phys. Rev. B, 86 (2012) 094117.
+     Phys. Rev. B, 86 (2012) 094117.  
 
 1. “Role of Dislocation Movement in the Electrical Conductance of Nanocontacts”   
      T. Ishida, K. Kakushima, **T. Mizoguchi** and H. Fujita   
-     *Scientific Reports* 2, (2012) 623-1-4.
+     *Scientific Reports* 2, (2012) 623-1-4.  
 
 1. “原子分解能STEM-EELSと第一原理計算による電子セラミックスの機能設計”  
      **溝口照康**  
@@ -665,79 +671,79 @@ draft: false
 
 1. “Ab-initio multiplet calculation of oxygen vacancy effect on Ti-L2,3 electron energy loss near edge structures of BaTiO3”   
      **S. Ootsuki**, H. Ikeno, Y. Umeda, H. Moriwake, A. Kuwabara, O. Kido, S. Ueda, I. Tanaka, Y. Fujikawa, and **T. Mizoguchi**  
-     *Appl. Phys. Lett.*, 99 (2011) 233109-1-3.
+     *Appl. Phys. Lett.*, 99 (2011) 233109-1-3.  
 
 1. “Characterization and atomic modeling of an asymmetric grain boundary”  
      H. S. Lee, **T. Mizoguchi**, S. J. L. Kang, T. Yamamoto, and Y. Ikuhara  
-     *Phys. Rev. B*, 84 (2011) 195319-1-7. 
+     *Phys. Rev. B*, 84 (2011) 195319-1-7.  
 
 1. “Growth of Ruddlesden-Popper type faults in Sr-excess SrTiO3 homoepitaxial thin films by pulsed laser deposition”   
      Y. Tokuda, S. Kobayashi, T. Ohnishi, **T. Mizoguchi**, N. Shibata, Y. Ikuhara, and T. Yamamoto   
-     *Appl. Phys. Lett.*, 99,173109-1-3 (2011).
+     *Appl. Phys. Lett.*, 99,173109-1-3 (2011).  
 
 1. “Zr segregation and Associated Al Vacancies in Alumina Grain Boundaries”  
      J. P. Buban, **T. Mizoguchi**, E. Abe, N. Shibata, T. Yamamoto, and Y. Ikuhara  
-     *J. Ceram. Soc. Jpn*, 119 (2011) 840-844
+     *J. Ceram. Soc. Jpn*, 119 (2011) 840-844.  
 
 1. “The effect of vacancies on the annular dark field image contrast of grain boundaries: a SrTiO3 case study”   
      H. S. Lee, S.D. Findlay, **T. Mizoguchi**, and Y. Ikuhara  
-     *Ultramicroscopy* 111 (2011)1531-1539.
+     *Ultramicroscopy* 111 (2011)1531-1539.  
 
 1. “Atomic and Electronic Structures of the SrVO3-LaAlO3 Interface”  
      M. Chi, J.P. Bradley, N. D. Browning, **T. Mizoguchi**, L.W. Martin, R. Ramesh, H. Ikeno, and I. Tanaka   
-     *J. Appl. Phys.* 110 (2011) 046104-1-3. 
+     *J. Appl. Phys.* 110 (2011) 046104-1-3.   
 
 1. “Strontium vacancy clustering in Ti-excess SrTiO3 thin film”  
      Y. Tokuda, S. Kobayashi, T. Ohnishi, **T. Mizoguchi**, N. Shibata, Y. Ikuhara, and T. Yamamoto  
-     *Appl. Phys. Lett.* 99 (2011)033110-1-3. 
+     *Appl. Phys. Lett.* 99 (2011)033110-1-3.   
 
 1. “Scanning transmission electron microscopy imaging dynamics at low accelerating voltages”   
      N.R. Lugg, S.D. Findlay, N. Shibata, **T. Mizoguchi**, A.J. D’Alfonso, L.J. Allen, Y. Ikuhara   
-     *Ultramicroscopy*, 111 (2011) 999-1013 
+     *Ultramicroscopy*, 111 (2011) 999-1013.   
 
 1. “Controlling interface intermixing and property of SrTiO3 based superlattices”  
      **T. Mizoguchi**, H. Ohta, HS. Lee, N. Takahashi, and Y. Ikuhara   
-     *Adv. Funct. Mater.* (2011) 21, 2258–2263
+     *Adv. Funct. Mater.* (2011) 21, 2258–2263.  
 
 1. “heoretical Fingerprints of Transition Metal L2,3 XANES and ELNES for Lithium Transition Metal Oxides by ab Initio Multiplet Calculations”  
      H. Ikeno, **T. Mizoguchi**, Y. Koyama, I. Tanaka   
-     *J. Phys. Chem. C*, (2011) 115, 11871-11879
+     *J. Phys. Chem. C*, (2011) 115, 11871-11879.  
 
 1. “Al-L2,3 edge x-ray absorption spectra in III-V semiconductors: Many-body perturbation theory in comparison with experiment”   
      W. Olvsson,I. Tanaka, **T. Mizoguchi**, G. Radtke, P. Puchnig, and C. Ambrosh-Draxl,   
-     *Phys. Rev. B*  (2011) 83 195206-1-8
+     *Phys. Rev. B*  (2011) 83 195206-1-8.  
 
 1. “Atomic structure and strain field of threading dislocations in CeO2 thin films on yttria-stabilized ZrO”  
      H. Hojo, E. Tochigi, **T. Mizoguchi**, H. Ohta, N. Shibata, B. Feng, and Y. Ikuhara   
-     *Appl. Phys. Lett.* (2011) 98 153104-1-3 
+     *Appl. Phys. Lett.* (2011) 98 153104-1-3.   
 
 1. “Study on Atomic and Electronic Structures of Ceramic Materials using Spectroscopy, Microscopy, and First Principles Calculation” **(Review)   
-     T. Mizoguchi**  
-     *J. Ceram. Soc. Jpn*, 119 (2011) 325-333 
+     **T. Mizoguchi**  
+     *J. Ceram. Soc. Jpn*, 119 (2011) 325-333.   
 
 1. “Ab-initio charge transfer multiplet calculations on the L 2,3 XANES and ELNES of 3d transition metal oxides”   
      H. Ikeno, **T. Mizoguchi**, and I. Tanaka   
-     *Phys. Rev. B*, 83, 155107-1-13 (2011)
+     *Phys. Rev. B*, 83, 155107-1-13 (2011).  
 
 1. “Oxygen-vacancy ordering at surfaces of lithium manganese(III, IV) oxide spinel nanoparticles”   
      R. Huang, Y.H. Ikuhara, **T. Mizoguchi**, S.D. Findlay, A. Kuwabara, C.A.J. Fisher, H. Moriwake, H. Oki, T. Hirayama, and Y. Ikuhara  
-     *Angew. Chem. Int. Ed*., 50 (2011) 3053-3057 
+     *Angew. Chem. Int. Ed*., 50 (2011) 3053-3057.   
 
 1. “First-principles study on migration mechanism in SrTiO3”   
      **T. Mizoguchi**, N. Takahashi, HS. Lee   
-     *Appl. Phys. Lett.* 98 (2011) 091909 
+     *Appl. Phys. Lett.* 98 (2011) 091909.   
 
 1. “Defect energetics in SrTiO3 symmetric tilt grain boundaries”  
      H. S. Lee, **T. Mizoguchi**, J. Mitsui, S. J. L. Kang, T. Yamamoto, and Y. Ikuhara  
-     *Phys. Rev. B* 83 (2011) 104110-1-10 
+     *Phys. Rev. B* 83 (2011) 104110-1-10.  
 
 1. “Structures of a R 5 9, \[110\]/{221} symmetrical tilt grain boundary in SrTiO3”   
      T.Mitsuma, T.Tohei, N.Shibata, **T.Mizoguchi**, T.Yamamoto, and Y.Ikuhara   
-     *J. Mater. Sci.*, 46 (2011) 4162-4168 
+     *J. Mater. Sci.*, 46 (2011) 4162-4168.   
 
 1. “Cation off-stoichiometric SrMnO3-δ thin film grown by pulsed laser deposition”   
      S. Kobayashi, Y. Tokuda, T. Ohnishi, **T. Mizoguchi**, N. Shibata, Y. Sato, Y. Ikuhara, T. Yamamoto   
-     *J. Mater. Sci.*, 46 (2011) 4354-4360 
+     *J. Mater. Sci.*, 46 (2011) 4354-4360.  
 
 1. “Cation diffusion along basal dislocations in sapphire”  
      T. Nakagawa, A. Nakamura, I. Sakaguchi, N. Shibata, **T. Mizoguchi**, T. Yamamoto, H. Haneda, N. Ohashi, Y. Ikuhara  
@@ -829,7 +835,7 @@ draft: false
      *顕微鏡, 44 (2009) 65-68.*
 
 1. “走査型透過電子顕微鏡法による界面・表面の研究”  
-     幾原雄一，柴田直哉，**溝口照康**，阿部英司 *  
+     幾原雄一，柴田直哉，**溝口照康**，阿部英司   
      まてりあ, 48(5) (2009) 284-290.*
 
 1. “Atomic-scale imaging of individual dopant atoms in a buried interface”  
@@ -874,11 +880,10 @@ draft: false
 
 1. “Microstructure evolution of Ca0.33CoO2 thin films investigated by HAADF-STEM”  
      R. Huang, **T. Mizoguchi**, K. Sugiura, H. Ohta, T. Saito, K. Koumoto, T. Hirayama, and Y. Ikuhara  
-     *J. Mater. Res. 24 (2009) 279-287.  
+     *J. Mater. Res. 24 (2009) 279-287.*  
        
        
-     ***–2008–***  
-     *
+     **–2008–**  
 
 1. “Atomic Structure, Electronic Structure, and Defect Energetics in \[001\](310) Σ5 Grain Boundaries of SrTiO3 and BaTiO3”  
      M. Imaeda, **T. Mizoguchi**, Y. Sato, H.S. Lee, N. Shibata, T. Yamamoto, and Y. Ikuhara  
@@ -906,11 +911,10 @@ draft: false
 
 1. “Critical thickness for giant thermoelectric Seebeck coefficient of 2DEG confined in SrTiO3/SrTi0.8Nb0.2O3 superlattices”  
      H. Ohta, Y. Mune, K. Koumoto, **T. Mizoguchi**, and Y. Ikuhara  
-     *Thin Solid Films, 516 (2008) 5916-5920.  
+     *Thin Solid Films, 516 (2008) 5916-5920.*  
        
        
-     ***–2007–***  
-     *
+     **–2007–**  
 
 1. “X-ray absorption near-edge structures of disordered Mg1-xZnxO solid solutions”  
      **T. Mizoguchi**, A. Seko, M. Yoshiya, H. Yoshida, T. Yoshida, W. Y. Ching, and I. Tanaka  
@@ -958,11 +962,10 @@ draft: false
 
 1. “Giant thermoelectric response originating from 2DEG localized in a unit cell layer of SrTiO3”  
      Hi. Ohta, S.W. Kim, Y. Mune, **T. Mizoguchi**, K. Nomura, S. Ohta, T. Nomura, Y. Nakanishi, Y. Ikuhara, M. Hirano, H. Hosono, K. Koumoto  
-     *Nature Materials, 6, (2007) 129-134.  
+     *Nature Materials*, 6, (2007) 129-134.  
        
        
-     ***–2006–***  
-     *
+     **–2006–**  
 
 1. “Chemical bonding, interface strength, and oxygen-K electron energy loss near edge structure of Cu/Al2O3 interface”  
      **T. Mizoguchi**, T. Sasaki, K. Matsunaga, S. Tanaka, T. Yamamoto, M. Kohyama, and Y. Ikuhara  
@@ -1066,11 +1069,11 @@ draft: false
 
 1. “HRTEM and EELS characterization of atomic and electronic structures in Cu/a-Al2O3 interfaces”  
      T. Sasaki, **T. Mizoguchi**, K. Matsunaga, S. Tanaka, T. Yamamoto, M. Kohyama and Y. Ikuhara  
-     *Appl. Surf. Sci., 241 (2005) 87.  
+     *Appl. Surf. Sci., 241 (2005) 87.*  
        
        
-     ***–2004–***  
-     *
+     **–2004–**  
+     
 
 1. “Valence state of Ti in conductive nano-wires in sapphire”  
      **T. Mizoguchi**, M. Sakurai, A. Nakamura, K. Matsunaga, I. Tanaka, T. Yamamoto, and Y. Ikuhara  
@@ -1114,11 +1117,10 @@ draft: false
 
 1. “The formation of a rock-salt type ZnO thin film by low-level alloying with MgO”  
      M. Kunisu, I. Tanaka, T. Yamamoto, T. Suga, and **T. Mizoguchi**  
-     *J. Phys.: Cond. Matter., 16 (2004) 3801.  
+     *J. Phys.: Cond. Matter., 16 (2004) 3801.*  
        
        
-     ***–2003–***  
-     *
+     **–2003–**  
 
 1. “Identification of ultradilute dopants in ceramics”  
      I.Tanaka, **T. Mizoguchi**, M. Matsui, S. Yoshioka, H. Adachi, T. Yamamoto, T. Okajima, M. Umesaki, W. Y. Ching, Y. Inoue, M. Mizuno, H. Araki, and Y. Shirai  
@@ -1138,19 +1140,19 @@ draft: false
 
 1. “The study of Al-L23 ELNES with resolution-enhancement software and first-principles calculation”  
      K. Kimoto, K. Ishizuka, **T. Mizoguchi**, I. Tanaka, and Y. Matsui  
-     *J Electron Microsc 52 (2003) 299.  
+     *J Electron Microsc 52 (2003) 299.*  
        
        
-     ***–2002–***  
-     *
+     **–2002–**  
+     
 
 1. “First principles calculation of ELNES by LCAO methods”  
      I.Tanaka, **T. Mizoguchi**, M. Yoshiya, K. Ogasawara, H. Adachi, S-Di Mo, and W.Y. Ching  
-     *J. Electron Microscopy, (2002) S107.  
+     *J. Electron Microscopy, (2002) S107.*  
        
        
-     ***–2001–***  
-     *
+     **–2001–**  
+     
 
 1. “Electron energy loss near-edge structures of cubic Si3N4”  
      I. Tanaka,**T. Mizoguchi**,T. Sekine, H. He, K. Kimoto, T. Kobayashi, Shang-Di Mo, and W.Y. Ching  
@@ -1166,31 +1168,31 @@ draft: false
 
 1. “Electron-energy-loss near edge structures of six-fold-coordinated Zn in MgO”  
      **T. Mizoguchi**, M. Yoshiya, J. Li, F. Oba, I. Tanaka and H. Adachi  
-     *Ultramicroscopy 86 (2001) 363.  
+     *Ultramicroscopy 86 (2001) 363.*  
        
        
-     ***–2000–***  
-     *
+     **–2000–**  
+     
 
 1. “解説：電子顕微鏡を用いた電子分光の理論計算による解釈”  
      田中 功，**溝口照康**，吉矢真人，岩田貴普，小笠原一禎，足立裕彦  
-     *電子顕微鏡 35 (2000) 221-229. *
+     *電子顕微鏡 35 (2000) 221-229.*  
 
 1. “3d遷移金属-ホウ素系におけるB – K励起端ELNES（電子線エネルギー損失分光励起端近傍微細構造）の理論計算”  
      巽 一厳，**溝口照康**，吉矢真人，田中 功，足立裕彦  
-     *日本金属学会誌 64 (2000) 527-34.*
+     *日本金属学会誌 64 (2000) 527-34.*  
 
 1. “Core-hole effects on theoretical electron-energy-loss near-edge structure and near-edge x-ray absorption fine structure of MgO”  
      **T. Mizoguchi**, I. Tanaka, M. Yoshiya, F. Oba, K. Ogasawara, H. Adachi  
-     *Phys. Rev. B, 61 (2000) 2180.  
+     *Phys. Rev. B, 61 (2000) 2180.*  
        
        
-     ***–1999–**
+     **–1999–**
 
 1. “Theoretical calculation of oxygen K electron-energy-loss near-edge structures of Si-doped MgO”  
      **T. Mizoguchi**, I. Tanaka, M. Yoshiya, F. Oba, H. Adachi  
-     *J. Phys.: Condens. Matter., 11 (1999) 5661.*
+     *J. Phys.: Condens. Matter., 11 (1999) 5661.*  
 
 1. “First-principles calculations of electron-energy-loss near-edge structure and near-edge x-ray-absorption fine structure of BN polytypes using model clusters”  
      I. Tanaka, H. Araki, M. Yoshiya, **T. Mizoguchi**, F. Oba, H. Adachi  
-     *Phys. Rev B, 60 (1999) 4944.*
+     *Phys. Rev B, 60 (1999) 4944.*  
