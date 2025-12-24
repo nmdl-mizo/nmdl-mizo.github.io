@@ -33,11 +33,12 @@ draft: false
 <img src="/images/environment/image5.png" style="width:1.81412in;height:2.86667in" />
 <img src="/images/environment/image6.png" style="width:3.6in;height:2.6in" />
 
-- Computer cluster (Dual Xeon, 40~64cores) x 46
+- Computer cluster (Dual Xeon, 40~64cores) x ~60
 - Computer cluster (Single Xeon, 20~24cores) x 23
-- Desktop cluster (Core i9: 12-14cores) x 20
-- GPU server: A100 
+- GPU server: Blackwell 6000Pro-MaxQ x 9
 - GPU server: RTX 6000ada x 5
+- GPU server: 5090 x 2
+- GPU server: A100 
 - GPU server: 4090 x 5
 - GPU server: 3090 x 2
 - \+ more…. 
@@ -76,6 +77,8 @@ draft: false
 - [<u>GULP</u>] (https://gulp.curtin.edu.au/index.html)
 
 - [<u>OpenMX</u>](https://www.openmx-square.org/)
+
+- [<u>& MLIPs</u>](https://matbench-discovery.materialsproject.org/)
 
 - [<u>Materials Studio</u>](https://www.3ds.com/ja/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/)
 

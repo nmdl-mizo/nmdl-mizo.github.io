@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "What's new!"
-description: "<b><u> [Previous News](/en/news)<br> [Lab X](https://x.com/nmdl_mizo)</b> </u>"
+description: "<b><u> [Previous News](/en/news)<br> [Linkdin](https://www.linkedin.com/in/teruyasu-mizoguchi-035395284/)<br>[Lab X (mainly Japanese)](https://x.com/nmdl_mizo)</b></u>"
 
 # Testimonials
 testimonials:

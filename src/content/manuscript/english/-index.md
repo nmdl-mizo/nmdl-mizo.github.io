@@ -7,6 +7,9 @@ draft: false
 ---
  <p align="right"> **Bold** *indicates Mizoguchi Lab. member.* </p>
  
+1.  N. Ishihara,...**T. Sugiura**, **T. Mizoguchi**, and S. Nakanishi,  
+    submitted
+
 1.  J. W. Abbott,... **I. Takahara**, **K. Shibata**, **T. Mizoguchi**, et al.,  
     FHI-aims, submitted, [**arxiv**](https://arxiv.org/abs/2505.00125)
 
@@ -19,16 +22,13 @@ draft: false
 1.  **P. Y. Chen** and **T. Mizoguchi**  
     submitted, [**arxiv**](https://arxiv.org/abs/2511.09976)
 
-1.  **R. Sahashi, P. Y. Chen**, and **T. Mizoguchi**,  
-    submitted
-
     **— 2025 —**  
 
-1.  "LDA-Based Machine Learning Force Field for Accurate Electric-Field-Driven Ferroelectric Response in BaTiO3"
+1.  "LDA-Based Machine Learning Force Field for Accurate Electric-Field-Driven Ferroelectric Response in BaTiO3"  
     **R. Sahashi, P. Y. Chen**, and **T. Mizoguchi**,  
     *J. Ceram. Soc. Jpn.*, (2025) in press.
 
-1.  "Accelerated inorganic materials design with generative AI agents"
+1.  "Accelerated inorganic materials design with generative AI agents"  
     **I. Takahara**, **T. Mizoguchi**, and B. Liu  
     *Cell Press Phys. Sci.*, 17 (2025) 103019-1-10. [**here**](https://www.sciencedirect.com/science/article/pii/S2666386425006186?via%3Dihub)
 
@@ -54,7 +54,7 @@ draft: false
 
 1.  "Application of CASTEP Code to the Simulation of Soft X-ray Emission Spectra of Light Element Materials"  
      M. Niibe, T. Nakashima, Y. Saito, Y. Ando, **T. Mizoguchi**, and I. Matsuda  
-    *e-J. Surf. Sci. NanoTech.*, 23 (2025) in press [**here**](https://www.jstage.jst.go.jp/article/ejssnt/advpub/0/advpub_2025-045/_article)
+    *e-J. Surf. Sci. NanoTech.*, 23 (2025) 373-380. [**here**](https://www.jstage.jst.go.jp/article/ejssnt/23/4/23_2025-045/_article/-char/en)
 
 1.  "Observation of Boron Vacancy Concentration in Hexagonal Boron Nitride at Nanometer Scale"  
      J. Kikkawa, C. Shinei, J. Chen, Y. Masuyama, Y. Yamazaki, **T. Mizoguchi**, K. Kimoto, T. Taniguchi, and T. Teraji  

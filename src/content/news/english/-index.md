@@ -5,7 +5,7 @@ description: "news"
 image: ""
 draft: false
 ---
-**<b> Please see top-page and Twitter(X) for the latest new! </b>**
+**<b> Please see top-page, <u>[Mizoguchi Linkdin](https://www.linkedin.com/in/teruyasu-mizoguchi-035395284/)</u>, and <u>[lab X(mainly Japanese)](https://x.com/nmdl_mizo)</u> for the latest new! </b>**
 
 **2025　:**
 - Sep We made welcome party for intern-student from Niihama Institute of Technology (KOSEN) <u>[Here](https://x.com/nmdl_mizo/status/1962704922182590943)</u>
