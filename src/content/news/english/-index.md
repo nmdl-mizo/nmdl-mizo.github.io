@@ -8,6 +8,22 @@ draft: false
 **<b> Please see top-page, <u>[Mizoguchi Linkdin](https://www.linkedin.com/in/teruyasu-mizoguchi-035395284/)</u>, and <u>[lab X(mainly Japanese)](https://x.com/nmdl_mizo)</u> for the latest new! </b>**
 
 **2025　:**
+
+
+- Oct Japanese book for XAFS has been published<u>[Here](https://www.kspub.co.jp/book/detail/5404867.html)</u>．
+
+- Oct Invited review in <i>Microscopy</i> about AI application for ELNES/XANES has been published.<u>[Open Access](https://academic.oup.com/jmicro/advance-article/doi/10.1093/jmicro/dfaf038/8251526?login=true)</u>
+
+- Oct We held a welcome party for the new members joining us this semester. Welcome, Watanabe-san and Pol-kun!  <u>[Here](https://x.com/nmdl_mizo/status/1973566650197876777)</u>
+
+- Sep Students attended Japanese XAFS conference held in Tsukuba, and won Student Presentation Award!!  <u>[Here](https://x.com/nmdl_mizo/status/1968561771007950982)</u>
+
+- Sep We made farewell lunch for intern-student from Niihama Institute of Technology (KOSEN) <u>[Here](https://x.com/nmdl_mizo/status/1965627814109217092)</u>
+
+- Sep A student made presentation in Japanese Society of Applied Physics at Nagoya<u>[Here](https://x.com/nmdl_mizo/status/1965206572541612134)</u>
+
+- Sep A day in hot summer in Mizoguchi Lab. <u>[Hot!](https://x.com/nmdl_mizo/status/1950490759163240668)</u>, <u>[Hot!](https://x.com/nmdl_mizo/status/1953359241743597995)</u> and <u>[HOT!](https://x.com/nmdl_mizo/status/1965209327029157969)</u>
+
 - Sep We made welcome party for intern-student from Niihama Institute of Technology (KOSEN) <u>[Here](https://x.com/nmdl_mizo/status/1962704922182590943)</u>
 
 - Sep Collaboration study of XES simulation using CASTEP with ISSP-UTokyo and Univ. Hyogo has publised in e-Journal of Surf. Sci. Nano.<u>[Here](https://www.jstage.jst.go.jp/article/ejssnt/advpub/0/advpub_2025-045/_article/-char/en)</u>
@@ -36,7 +52,7 @@ draft: false
 
 - April We made refreshment with automation system．<u>[Here](https://x.com/nmdl_mizo/status/1915720833642995803)</u> <br>And new GPU 5090!!<u>[Here](https://x.com/nmdl_mizo/status/1915719507278258195)</u>
 
--April 2025 New semester 2025 is launched! <u>[New members](https://x.com/nmdl_mizo/status/1908086851103265154)</u>
+- April 2025 New semester 2025 is launched! <u>[New members](https://x.com/nmdl_mizo/status/1908086851103265154)</u>
 
 - April 2025 We made many seminars for newcomers!! <u>[Here](https://x.com/nmdl_mizo/status/1908090320996229367)</u>
 

@@ -8,7 +8,22 @@ draft: false
 **<b> 最新のニュースはTop pageやTwitter（X)をご覧ください </b>**
 
 **2025:**
--Sep 新居浜高専からインターンとして参加する学生さんの歓迎会を行いました！<u>[こちら](https://x.com/nmdl_mizo/status/1962704922182590943)</u>"
+- Oct Microscopy誌に招待総説が掲載されました．<u>[Open Accessこちら](https://academic.oup.com/jmicro/advance-article/doi/10.1093/jmicro/dfaf038/8251526?login=true)</u>
+
+
+- Oct 「XAFSの基礎と応用　第2版」が出版されました<u>[こちら](https://www.kspub.co.jp/book/detail/5404867.html)</u>．<br> 
+
+- Oct 10月からの新メンバーを歓迎する会を行いました！<u>[こちら](https://x.com/nmdl_mizo/status/1973566650197876777)</u>
+
+- Sep つくばで行われたXAFS討論会で学生が発表し，学生奨励賞を受賞しました！<u>[こちら](https://x.com/nmdl_mizo/status/1968561771007950982)</u>
+
+- Sep 新居浜高専からインターンとして参加する学生さんの送別ランチを実施しました．短い期間でしたが多くの成果をあげてくれました<u>[こちら](https://x.com/nmdl_mizo/status/1965627814109217092)</u>
+
+- Sep 学生が名古屋で行われた応用物理学会で発表しました．<u>[こちら](https://x.com/nmdl_mizo/status/1965206572541612134)</u>
+
+- Sep 研究室の日常＠2025 <u>[夏](https://x.com/nmdl_mizo/status/1950490759163240668)</u>と<u>[夏](https://x.com/nmdl_mizo/status/1953359241743597995)</u>と<u>[晩夏](https://x.com/nmdl_mizo/status/1965209327029157969)</u>
+
+- Sep 新居浜高専からインターンとして参加する学生さんの歓迎会を行いました！<u>[こちら](https://x.com/nmdl_mizo/status/1962704922182590943)</u>"
 
 - Sep CASTEPを用いた発光分光計算に関する，東大物性研，兵庫県立大学との共同研究成果が e-Journal of Surf. Sci. Nano.に掲載されました．<u>[こちら](https://www.jstage.jst.go.jp/article/ejssnt/advpub/0/advpub_2025-045/_article/-char/en)</u>
 
