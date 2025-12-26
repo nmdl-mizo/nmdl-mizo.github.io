@@ -55,7 +55,7 @@ testimonials:
     avatar: ""
     content: "A collaboration study with POSTECH, Univ. Wisconsin-Madison, and Univ. Nebraska on the formation of peculiar band structure at moire interface of oxide membrene has been accepted for publication in ACS Nano．"
 
-  - name: "  "
+  - name: "NEWS"
     designation: ""
     avatar: ""
     content: "                                                         "
