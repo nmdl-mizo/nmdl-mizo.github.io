@@ -10,7 +10,7 @@ testimonials:
     avatar: ""
     content: "Materials Free Subject Study has been finished! Thank you everybody! <u>[Here](https://x.com/nmdl_mizo/status/2004495115637948515)</u>"
 
-- name: "2025, Dec."
+  - name: "2025, Dec."
     designation: ""
     avatar: ""
     content: "Accurate simulation of ferroelectric response in BaTiO3 using machine larning potential has been accepted for publication in a special issue of J. Ceram. Soc. Jpn."
@@ -55,9 +55,9 @@ testimonials:
     avatar: ""
     content: "A collaboration study with POSTECH, Univ. Wisconsin-Madison, and Univ. Nebraska on the formation of peculiar band structure at moire interface of oxide membrene has been accepted for publication in ACS Nano．"
 
-  - name: ""
+  - name: "  "
     designation: ""
     avatar: ""
-    content: ""
+    content: "                                                         "
  
 ---

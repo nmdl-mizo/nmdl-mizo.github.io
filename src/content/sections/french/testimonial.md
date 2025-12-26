@@ -55,7 +55,7 @@ testimonials:
     avatar: ""
     content: "酸化物モアレ界面における特異的な電子構造の形成に関するPOSTECH, Univ. Wisconsin-Madison, Univ. Nebraskaとの共同研究成果が ACS Nano に掲載決定しました．"
 
-  - name: " "
+  - name: "  "
     designation: ""
     avatar: ""
     content: " "
