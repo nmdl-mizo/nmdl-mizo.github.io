@@ -5,6 +5,16 @@ description: "<b><u> [過去のニュース](/news) <br>[研究室 X](https://x.
 
 # Testimonials
 testimonials:
+  - name: "2026, Jan."
+    designation: ""
+    avatar: ""
+    content: "韓国で行われた国際ワークショップで学生が発表し，ポスター賞を受賞しました．<u>[こちら](https://x.com/nmdl_mizo/status/2014186812936233006)</u>"
+
+  - name: "2026, Jan."
+    designation: ""
+    avatar: ""
+    content: "NIMSの上杉さんらと打ち合わせをしました<u>[こちら](https://x.com/nmdl_mizo/status/2014186246848024769)</u>"
+
   - name: "2025, Dec."
     designation: ""
     avatar: ""
