@@ -7,41 +7,59 @@ draft: false
 ---
  <p align="right"> **Bold** *indicates presenter*
  
-1.  **溝口照康**  
-    ”＊＊“, BIOVIA講演会，品川，Nov. 13th, 2025
-
-1.  **溝口照康**  
-    ”＊＊“, 誘電体プロセス，大阪，Oct. 4th, 2025
-
-1.  **溝口照康**  
-    ”＊＊“, ニュースバル講演会 ，姫路，兵庫，Sep. 29, 2025
-
-1.  **溝口照康**  
-    ”＊＊“, 化学工学会 ，芝浦工大，東京，Sep. 16, 2025
-
-1.  **溝口照康**  
-    ”＊＊“, ARIM講演会 ，JAIST，石川，Sep. 11, 2025
-
-1.  **溝口照康**  
-    ”＊＊“, 講演会 ，横浜，July 25, 2025
-
-1.  **溝口照康**  
-    ”＊＊“, 埼玉大学情報基礎特別講義 ，埼玉大学，埼玉，July 18, 2025
+1.  **Teruyasu Mizoguchi**  
+    ”Machine-learning-driven Simulation and Generative Design of Functional Materials“, 
+    PNU-HU-international workshop, Jan. 20th, 2026
 
 1.  **Teruyasu Mizoguchi**  
-    “***”, Nanokorea 2025, Seoul, Korea, July 4, 2025
-
-1.  **Teruyasu Mizoguchi**  
-    “***”, ICMAT 2025, Signapore, June 30, 2025
+    ”Direct Simulation of Electric-Field-Induced Domain Dynamics in Ferroelectrics with Machine Learning Potentials“, 
+    BIOVIA webner，web，Jan. 13th, 2026
 
 1.  **溝口照康**  
-    ”＊＊“, 強誘電体学会 ，京都産業会館，京都，June 12, 2025
+    ” 第一原理計算と電子顕微鏡，情報科学を用いた物質研究“  
+    東京理科大学特別講義，葛飾, 東京，Nov. 16th, 2025
 
 1.  **溝口照康**  
-    ”＊＊“, 日本顕微鏡学会講演会 ，九州国際会議場，福岡，June 9, 2025
+    ”生成AIと機械学習ポテンシャルによる物質設計と計測データ解析“, BIOVIA講演会，品川，Nov. 13th, 2025
+
+1.  **溝口照康**  
+    ”データ駆動型手法を活用した物質探索と設計“, 第209回電子セラミック・プロセス研究会，大阪，Oct. 4th, 2025
+
+1.  **溝口照康**  
+    ”軟X線吸収分光の最先端計算科学～第一原理とAIが切り拓くスペクトルのフロンティア～“, ニュースバル講演会 ，姫路，兵庫，Sep. 29, 2025
+
+1.  **溝口照康**  
+    ”データ科学が拓く物質の高精度計測と設計“, 化学工学会 ，芝浦工大，東京，Sep. 16, 2025
+
+1.  **溝口照康**  
+    ”生成AIを活用した計測データからの情報抽出と物質設計“, ARIM講演会 ，JAIST，石川，Sep. 11, 2025
+
+1.  **溝口照康**  
+    ”データ駆動型手法を活用した物質探索と構造解析“, レゾナック講演会 ，横浜，July 25, 2025
+
+1.  **溝口照康**  
+    ”「情報基礎で学ぶコト」を活用した物質開発“,
+     埼玉大学情報基礎特別講義 ，埼玉大学，埼玉，July 18, 2025
 
 1.  **Teruyasu Mizoguchi**  
-    “***”, UT2-Mac workshop 2025, Hongo,Tokyo, June 3, 2025
+    “Data-driven materials design and nano-analysis”,
+     Nanokorea 2025, Seoul, Korea, July 4, 2025
+
+1.  **Teruyasu Mizoguchi**  
+    “Acceleration of Oxide Materials Developments with Machine Learning and Generative AI”,
+     ICMAT 2025, Signapore, June 30, 2025
+
+1.  **溝口照康**  
+    ”機械学習を活用した材料解析と物質探索“,
+    強誘電体学会 ，京都産業会館，京都，June 12, 2025
+
+1.  **溝口照康**  
+    ”生成AIを活用したスペクトル解析と物質開発“,
+    日本顕微鏡学会講演会 ，九州国際会議場，福岡，June 9, 2025
+
+1.  **Teruyasu Mizoguchi**  
+    “Generative AI for Materials Development and Analysis”,
+     UT2-Mac workshop 2025, Hongo,Tokyo, June 3, 2025
 
 1.  **Izumi Takahara**, Teruyasu Mizoguchi, and Bang Liu  
     ”Accelerated inorganic materials design with generative AI agents“, AI alliance Webinar ，May 22, 2025
