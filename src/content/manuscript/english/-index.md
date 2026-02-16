@@ -7,17 +7,17 @@ draft: false
 ---
  <p align="right"> **Bold** *indicates Mizoguchi Lab. member.* </p>
  
-1.  **R. Sahashi**, **P. Y. Chen**, and **R. Okubo**  
+1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
     under preparation
 
 1.  **T. Mizoguchi**, **P. Y. Chen**, **I. Takahara**, and **R. Okubo**  
     under preparation
 
 1.  **R. Okubo**, **Y. Fujikata**, **I. Takahara**, and **T. Mizoguchi**  
-    under preparation
+    submitted
 
-1.  **Y. Fujikata** and **T. Mizoguchi**  
-    under preparation
+1.  **Y. Fujikata**, Y. Muramatsu, and **T. Mizoguchi**  
+    submitted
 
 1.  **T. Sugiura** and **T. Mizoguchi**  
     submitted
@@ -25,11 +25,17 @@ draft: false
 1.  N. Ishihara,...**T. Sugiura**, **T. Mizoguchi**, and S. Nakanishi,  
     submitted
 
+1.  P. Benitez,... **T. Mizoguchi**,..., C. Cazorla,  
+    submitted, [**arxiv**](https://arxiv.org/abs/2511.15222)
+
+1.  H. Zhang,... **I. Takahara**, **T. Mizoguchi**,..., B. Liu,  
+    submitted, [**arxiv**](https://arxiv.org/abs/2602.00169)
+
 1.  J. W. Abbott,... **I. Takahara**, **K. Shibata**, **T. Mizoguchi**, et al.,  
     FHI-aims, submitted, [**arxiv**](https://arxiv.org/abs/2505.00125)
 
 1.  **P. Y. Chen** and **T. Mizoguchi**  
-    submitted
+    submitted, [**arxiv**](https://arxiv.org/abs/2601.12914)
 
 1.  **Y. Wang, Y. Fujikata, L. Wong**, Y. Muramatsu, and **T. Mizoguchi**,  
     submitted
