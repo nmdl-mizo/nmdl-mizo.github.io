@@ -43,19 +43,21 @@ draft: false
 1.  **P. Y. Chen** and **T. Mizoguchi**  
     submitted, [**arxiv**](https://arxiv.org/abs/2511.09976)
 
-    **— 2025 —**  
+    **— 2026 —**  
 
 1.  "LDA-Based Machine Learning Force Field for Accurate Electric-Field-Driven Ferroelectric Response in BaTiO3"  
     **R. Sahashi, P. Y. Chen**, and **T. Mizoguchi**,  
     *J. Ceram. Soc. Jpn.*, (2025) in press.
 
+1.  "Machine Learning-Based XANES Analysis for Predicting the Local Structure and Valence in Amorphous Silicon Suboxides"  
+     **Y. Fujikata**, **T. Mizoguchi**, and H. Sugisawa  
+    *Physical Chemistry Chemical Physics*, 28 (2026) 3682.
+
+    **— 2025 —**  
+
 1.  "Accelerated inorganic materials design with generative AI agents"  
     **I. Takahara**, **T. Mizoguchi**, and B. Liu  
     *Cell Press Phys. Sci.*, 17 (2025) 103019-1-10. [**here**](https://www.sciencedirect.com/science/article/pii/S2666386425006186?via%3Dihub)
-
-1.  "Machine Learning-Based XANES Analysis for Predicting the Local Structure and Valence in Amorphous Silicon Suboxides"  
-     **Y. Fujikata**, **T. Mizoguchi**, and H. Sugisawa  
-    *Physical Chemistry Chemical Physics*, (2025) in press.
 
 1.  "Nonmetal interstitial solute segregation and its influence on stabilizing and strengthening of HCP Ti twin boundary"  
      **S. Lee, K. Shibata**, D. Bae, and **T. Mizoguchi**  

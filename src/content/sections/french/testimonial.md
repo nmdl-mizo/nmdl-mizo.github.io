@@ -5,6 +5,11 @@ description: "<b><u> [過去のニュース](/news) <br>[研究室 X](https://x.
 
 # Testimonials
 testimonials:
+  - name: "2026, Feb."
+    designation: ""
+    avatar: ""
+    content: "Seoul National UniversityのSeungwu Han先生がご来訪されご講演くださいました<u>[こちら](https://x.com/nmdl_mizo/status/2023928652434653221)</u>"
+
   - name: "2026, Jan."
     designation: ""
     avatar: ""

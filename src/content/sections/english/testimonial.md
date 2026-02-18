@@ -5,6 +5,21 @@ description: "<b><u> [Previous News](/en/news)<br> [Linkdin](https://www.linkedi
 
 # Testimonials
 testimonials:
+  - name: "2026, Feb."
+    designation: ""
+    avatar: ""
+    content: "Prof. Seungwu Han from Seoul National University gave great talk!!<u>[Here](https://x.com/nmdl_mizo/status/2023928652434653221)</u>"
+
+  - name: "2026, Jan."
+    designation: ""
+    avatar: ""
+    content: "Student have a presentation in international workshop at Pusan and won presentation prize!<u>[Here](https://x.com/nmdl_mizo/status/2014186812936233006)</u>"
+
+  - name: "2026, Jan."
+    designation: ""
+    avatar: ""
+    content: "We have visited Dr. Uesugi, NIMS for automatic experiment<u>[Here](https://x.com/nmdl_mizo/status/2014186246848024769)</u>"
+
   - name: "2025, Dec."
     designation: ""
     avatar: ""
