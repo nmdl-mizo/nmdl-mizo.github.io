@@ -58,7 +58,7 @@ testimonials:
   - name: "2025, Dec."
     designation: ""
     avatar: ""
-    content: "J. Ceram. Soc. Jpnに無機材料のシミューション，計測およびインフォマティクス応用に関する創設論文が掲載されました．<u>[Open Access](https://www.jstage.jst.go.jp/article/jcersj2/133/12/133_25121/_article)</u>"
+    content: "J. Ceram. Soc. Jpnに無機材料のシミューション，計測およびインフォマティクス応用に関する総説論文が掲載されました．<u>[Open Access](https://www.jstage.jst.go.jp/article/jcersj2/133/12/133_25121/_article)</u>"
 
   - name: "2025, Nov."
     designation: ""
