@@ -42,7 +42,7 @@ draft: false
 
     **— 2026 —**  
 
-1.  "Systematic Correction of Core-Loss Spectra via Machine Learning: Bridging the Gap between Simulated and Experimental Spectra"
+1.  "Systematic Correction of Core-Loss Spectra via Machine Learning: Bridging the Gap between Simulated and Experimental Spectra"  
     **Y. Wang, Y. Fujikata, L. Wong**, Y. Muramatsu, and **T. Mizoguchi**,  
     *Ultramicroscopy*, (2026) in press. [**here**](https://www.sciencedirect.com/science/article/pii/S030439912600029X)
 
