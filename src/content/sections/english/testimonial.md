@@ -8,6 +8,11 @@ testimonials:
   - name: "2026, Feb."
     designation: ""
     avatar: ""
+    content: "Prediction model to generate experimental spectrum from simulated spectrum was accepted for publicatoin in Ultramicroscopy <u>[Here](https://www.sciencedirect.com/science/article/pii/S030439912600029X)</u>"
+
+  - name: "2026, Feb."
+    designation: ""
+    avatar: ""
     content: "Prof. Seungwu Han from Seoul National University gave great talk!!<u>[Here](https://x.com/nmdl_mizo/status/2023928652434653221)</u>"
 
   - name: "2026, Jan."

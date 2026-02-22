@@ -14,10 +14,10 @@ draft: false
     under preparation
 
 1.  **R. Okubo**, **Y. Fujikata**, **I. Takahara**, and **T. Mizoguchi**  
-    submitted
+    submitted, [**arxiv**](https://arxiv.org/abs/2602.16133)
 
 1.  **Y. Fujikata**, Y. Muramatsu, and **T. Mizoguchi**  
-    submitted
+    submitted, [**arxiv**](https://arxiv.org/abs/2602.17020)
 
 1.  **T. Sugiura** and **T. Mizoguchi**  
     submitted
@@ -37,17 +37,18 @@ draft: false
 1.  **P. Y. Chen** and **T. Mizoguchi**  
     submitted, [**arxiv**](https://arxiv.org/abs/2601.12914)
 
-1.  **Y. Wang, Y. Fujikata, L. Wong**, Y. Muramatsu, and **T. Mizoguchi**,  
-    submitted
-
 1.  **P. Y. Chen** and **T. Mizoguchi**  
     submitted, [**arxiv**](https://arxiv.org/abs/2511.09976)
 
     **— 2026 —**  
 
+1.  "Systematic Correction of Core-Loss Spectra via Machine Learning: Bridging the Gap between Simulated and Experimental Spectra"
+    **Y. Wang, Y. Fujikata, L. Wong**, Y. Muramatsu, and **T. Mizoguchi**,  
+    *Ultramicroscopy*, (2026) in press. [**here**](https://www.sciencedirect.com/science/article/pii/S030439912600029X)
+
 1.  "LDA-Based Machine Learning Force Field for Accurate Electric-Field-Driven Ferroelectric Response in BaTiO3"  
     **R. Sahashi, P. Y. Chen**, and **T. Mizoguchi**,  
-    *J. Ceram. Soc. Jpn.*, (2025) in press.
+    *J. Ceram. Soc. Jpn.*, (2026) in press.
 
 1.  "Machine Learning-Based XANES Analysis for Predicting the Local Structure and Valence in Amorphous Silicon Suboxides"  
      **Y. Fujikata**, **T. Mizoguchi**, and H. Sugisawa  

@@ -1,10 +1,15 @@
 ---
 enable: true
 title: "What's new!"
-description: "<b><u> [過去のニュース](/news) <br>[研究室 X](https://x.com/nmdl_mizo) </u> </b> "
+description: "<b><u> [過去のニュース](/news) <br>[Linkdin](https://www.linkedin.com/in/teruyasu-mizoguchi-035395284/)<br>[研究室 X](https://x.com/nmdl_mizo) </u> </b> "
 
 # Testimonials
 testimonials:
+  - name: "2026, Feb."
+    designation: ""
+    avatar: ""
+    content: "ELNES/XANESの計算スペクトルから実験スペクトルを生成するモデルに関する研究成果がUltramicroscopyに掲載決定しました<u>[こちら](https://www.sciencedirect.com/science/article/pii/S030439912600029X)</u>"
+
   - name: "2026, Feb."
     designation: ""
     avatar: ""
