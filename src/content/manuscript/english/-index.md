@@ -59,7 +59,7 @@ draft: false
 
 1.  "Accelerated inorganic materials design with generative AI agents"  
     **I. Takahara**, **T. Mizoguchi**, and B. Liu  
-    *Cell Press Phys. Sci.*, 17 (2025) 103019-1-10. [**here**](https://www.sciencedirect.com/science/article/pii/S2666386425006186?via%3Dihub)
+    *Cell Reports Phys. Sci.*, 17 (2025) 103019-1-10. [**here**](https://www.sciencedirect.com/science/article/pii/S2666386425006186?via%3Dihub)
 
 1.  "Nonmetal interstitial solute segregation and its influence on stabilizing and strengthening of HCP Ti twin boundary"  
      **S. Lee, K. Shibata**, D. Bae, and **T. Mizoguchi**  
