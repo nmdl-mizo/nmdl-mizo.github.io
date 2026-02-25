@@ -10,8 +10,11 @@ draft: false
 1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
     under preparation
 
-1.  **T. Mizoguchi**, **P. Y. Chen**, **I. Takahara**, and **R. Okubo**  
+1.  **T. Mizoguchi**, **P. Y. Chen**, **I. Takahara**, **R. Okubo**, and **Y. Fujikata**  
     under preparation
+
+1.  H.K. Moberg, **T. Mizoguchi**, ...., and A. Hellman  
+    submitted
 
 1.  **R. Okubo**, **Y. Fujikata**, **I. Takahara**, and **T. Mizoguchi**  
     submitted, [**arxiv**](https://arxiv.org/abs/2602.16133)
@@ -20,7 +23,7 @@ draft: false
     submitted, [**arxiv**](https://arxiv.org/abs/2602.17020)
 
 1.  **T. Sugiura** and **T. Mizoguchi**  
-    submitted
+    submitted, [**arxiv**](https://arxiv.org/abs/2602.18054)
 
 1.  N. Ishihara,...**T. Sugiura**, **T. Mizoguchi**, and S. Nakanishi,  
     submitted
