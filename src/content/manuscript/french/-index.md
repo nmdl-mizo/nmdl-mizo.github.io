@@ -10,8 +10,14 @@ draft: false
 1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
     under preparation
 
-1.  **T. Mizoguchi**, **P. Y. Chen**, **I. Takahara**, **R. Okubo**, and **Y. Fujikata**  
+1.  **S. Ozawa**, **I. Takahara**, and **T. Mizoguchi**  
     under preparation
+
+1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
+    under preparation
+
+1.  **T. Mizoguchi**, **P. Y. Chen**, **I. Takahara**, **R. Okubo**, and **Y. Fujikata**  
+    submitted, [topical review]
 
 1.  H.K. Moberg, **T. Mizoguchi**, ...., and A. Hellman  
     submitted
@@ -26,7 +32,7 @@ draft: false
     submitted, [**arxiv**](https://arxiv.org/abs/2602.18054)
 
 1.  N. Ishihara,...**T. Sugiura**, **T. Mizoguchi**, and S. Nakanishi,  
-    submitted
+    submitted, [**Chemrxiv**](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000496/v1)
 
 1.  P. Benitez,... **T. Mizoguchi**,..., C. Cazorla,  
     submitted, [**arxiv**](https://arxiv.org/abs/2511.15222)
