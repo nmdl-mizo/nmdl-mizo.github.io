@@ -7,8 +7,16 @@ draft: false
 ---
  <p align="right"> **Bold** *indicates presenter*
  
+1.  **溝口照康**，**高原泉**，  
+    ”生成AI・LLMを活用した物質研究と新たな研究連携の可能性“  
+    第11回デジラボ研究会，本郷, 東京，March 16th, 2026
+
 1.  **Teruyasu Mizoguchi**  
     ”Machine-learning-driven Simulation and Generative Design of Functional Materials“, 
+    Synchrotron Frontier 2026, March 11th, 2026
+
+1.  **Teruyasu Mizoguchi**  
+    ”AI-Driven Analysis of EELS/XAFS for Exploring Synchrotron Frontiers in MaterialsDesign“, 
     PNU-HU-international workshop, Jan. 20th, 2026
 
 1.  **Teruyasu Mizoguchi**  

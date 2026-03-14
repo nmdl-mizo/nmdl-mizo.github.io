@@ -5,6 +5,11 @@ description: "<b><u> [過去のニュース](/news) <br>[Linkdin](https://www.li
 
 # Testimonials
 testimonials:
+  - name: "2026, March."
+    designation: ""
+    avatar: ""
+    content: "BaTiO3のPEヒステリシスに及ぼす一軸応力の影響を電場印可機械学習ポテンシャルMDにより直接計算した研究成果がMatrials & Designに掲載決定しました"
+
   - name: "2026, Feb."
     designation: ""
     avatar: ""

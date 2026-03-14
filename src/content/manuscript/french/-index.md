@@ -44,16 +44,17 @@ draft: false
     FHI-aims, submitted, [**arxiv**](https://arxiv.org/abs/2505.00125)
 
 1.  **P. Y. Chen** and **T. Mizoguchi**  
-    submitted, [**arxiv**](https://arxiv.org/abs/2601.12914)
-
-1.  **P. Y. Chen** and **T. Mizoguchi**  
     submitted, [**arxiv**](https://arxiv.org/abs/2511.09976)
 
     **— 2026 —**  
 
+1.  "Effect of uniaxial compressive stress on polarization switching and domain wall formation in tetragonal phase BaTiO3 via machine learning potential"  
+    **P. Y. Chen** and **T. Mizoguchi**  
+    Materials & Design, (2026) in press [**arxiv**](https://arxiv.org/abs/2601.12914)
+
 1.  "Systematic Correction of Core-Loss Spectra via Machine Learning: Bridging the Gap between Simulated and Experimental Spectra"  
     **Y. Wang, Y. Fujikata, L. Wong**, Y. Muramatsu, and **T. Mizoguchi**,  
-    *Ultramicroscopy*, (2026) in press. [**here**](https://www.sciencedirect.com/science/article/pii/S030439912600029X)
+    *Ultramicroscopy*, 283 (2026) 114336-1-10 [**here**](https://www.sciencedirect.com/science/article/pii/S030439912600029X)
 
 1.  "LDA-Based Machine Learning Force Field for Accurate Electric-Field-Driven Ferroelectric Response in BaTiO3"  
     **R. Sahashi, P. Y. Chen**, and **T. Mizoguchi**,  

@@ -5,6 +5,11 @@ description: "<b><u> [Previous News](/en/news)<br> [Linkdin](https://www.linkedi
 
 # Testimonials
 testimonials:
+  - name: "2026, March"
+    designation: ""
+    avatar: ""
+    content: "Research result on uniaxial stress effects to the PE hysteresis of BaTiO3 using electric-field-induced machine-learning-potential MD simulation was accepted for publication in Materials & Design</u>"
+
   - name: "2026, Feb."
     designation: ""
     avatar: ""
