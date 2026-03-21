@@ -7,14 +7,17 @@ draft: false
 ---
  <p align="right"> **Bold** *indicates Mizoguchi Lab. member.* </p>
  
-1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
+1.  **G. Fukuzawa**, **Y. Lee**, and **T. Mizoguchi**  
     under preparation
 
 1.  **S. Ozawa**, **I. Takahara**, and **T. Mizoguchi**  
     under preparation
 
 1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
-    under preparation
+    submitted, (dynamic softening) [**arxiv**](https://arxiv.org/abs/2603.18710)
+
+1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
+    submitted, (decoupling) [**arxiv**](https://arxiv.org/abs/2603.14747)
 
 1.  **T. Mizoguchi**, **P. Y. Chen**, **I. Takahara**, **R. Okubo**, and **Y. Fujikata**  
     submitted, [topical review]
