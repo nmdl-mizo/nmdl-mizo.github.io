@@ -7,6 +7,9 @@ draft: false
 ---
  <p align="right"> **Bold** *indicates Mizoguchi Lab. member.* </p>
  
+1.  KY. Liao, ..., **T. Mizoguchi**, ..., K. Suenaga  
+    under preparation
+
 1.  **G. Fukuzawa**, **Y. Lee**, and **T. Mizoguchi**  
     under preparation
 
@@ -50,6 +53,10 @@ draft: false
     submitted, [**arxiv**](https://arxiv.org/abs/2511.09976)
 
     **— 2026 —**  
+
+1.  "Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets"
+    *Pol Benítez*, Cibrán López, Edgardo Saucedo, **Teruyasu Mizoguchi**, Claudio Cazorla,  
+    Adv. Intell. Disc., (2026) in press [**arxiv**](https://arxiv.org/abs/2511.15222)
 
 1.  "Effect of uniaxial compressive stress on polarization switching and domain wall formation in tetragonal phase BaTiO3 via machine learning potential"  
     **P. Y. Chen** and **T. Mizoguchi**  
