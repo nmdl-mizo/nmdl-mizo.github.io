@@ -16,6 +16,9 @@ draft: false
 1.  **S. Ozawa**, **I. Takahara**, and **T. Mizoguchi**  
     under preparation
 
+1.  **P. Y. Chen** and **T. Mizoguchi**  
+    submitted
+
 1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
     submitted, (dynamic softening) [**arxiv**](https://arxiv.org/abs/2603.18710)
 
