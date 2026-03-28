@@ -7,14 +7,17 @@ draft: false
 ---
  <p align="right"> **Bold** *indicates Mizoguchi Lab. member.* </p>
  
-1.  KY. Liao, ..., **T. Mizoguchi**, ..., K. Suenaga  
+1.  **YR. Jin**, **T. Mizoguchi**, and J. Lee  
     under preparation
 
-1.  **G. Fukuzawa**, **Y. Lee**, and **T. Mizoguchi**  
+1.  KY. Liao, ..., **T. Mizoguchi**, ..., K. Suenaga  
     under preparation
 
 1.  **S. Ozawa**, **I. Takahara**, and **T. Mizoguchi**  
     under preparation
+
+1.  **G. Fukuzawa**, **Y. Lee**, and **T. Mizoguchi**  
+    submitted
 
 1.  **P. Y. Chen** and **T. Mizoguchi**  
     submitted
