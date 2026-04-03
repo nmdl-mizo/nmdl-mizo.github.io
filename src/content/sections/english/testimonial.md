@@ -5,6 +5,11 @@ description: "<b><u> [Previous News](/en/news)<br> [Linkdin](https://www.linkedi
 
 # Testimonials
 testimonials:
+  - name: "2026, April"
+    designation: ""
+    avatar: ""
+    content: "Welcome 5 new members! (4 students and one resarcher)!Let’s work together to create exciting research!!<u>[Here](https://www.sciencedirect.com/science/article/pii/S030439912600029X)</u>"
+
   - name: "2026, March"
     designation: ""
     avatar: ""

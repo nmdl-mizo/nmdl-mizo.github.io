@@ -5,6 +5,11 @@ description: "<b><u> [過去のニュース](/news) <br>[Linkdin](https://www.li
 
 # Testimonials
 testimonials:
+  - name: "2026, April."
+    designation: ""
+    avatar: ""
+    content: "2026年度がスタートしました．新メンバーの歓迎会を実施しました．<u>[こちら](https://x.com/nmdl_mizo/status/2039905083568320714)</u>"
+
   - name: "2026, March."
     designation: ""
     avatar: ""

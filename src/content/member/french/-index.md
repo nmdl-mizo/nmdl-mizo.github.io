@@ -36,6 +36,12 @@ Takumi Nakano（仲野 匠）
 Tasuku Sugiura（杉浦　佑）
 <br>email：tsugiura_at_iis.u-tokyo.ac.jp
 
+<img src="/images/mem/46.jpg" style="width:1.44in;height:1.94in" />
+
+Yeongrok Jin, Ph. D  
+<br>email：yrjin_at_iis.u-tokyo.ac.jp
+
+
 ##### -Student-
 
 <img src="/images/mem/image9.png" style="width:1.56667in;height:2.08333in" />
@@ -104,12 +110,29 @@ M: Kazuya Miyamoto（宮本 和弥）
 M: Yinan Wang（王 憶楠）
 <br>email：ynwang_at_iis.u-tokyo.ac.jp
 
+<img src="/images/mem/image7.png" style="width:1.44133in;height:1.91667in" />
+
+M: Kohei Ueyama（上山晃平）
+<br>email：koh1208_at__iis.u-tokyo.ac.jp
+
+<img src="/images/mem/image7.png" style="width:1.44133in;height:1.91667in" />
+
+M: Hitotsuyanagi Akihito（一栁昭仁）
+<br>email：akihito_at__iis.u-tokyo.ac.jp
+
+<img src="/images/mem/image7.png" style="width:1.44133in;height:1.91667in" />
+
+M: Yutaro Matsuki（松木悠大郎）
+<br>email：ymatsuki_at__iis.u-tokyo.ac.jp
+
+##### -Research Student-
+
+<img src="/images/mem/image7.png" style="width:1.44133in;height:1.91667in" />
+
+D: ChihLun Hsu
+<br>email：chihlun_at_iis.u-tokyo.ac.jp  
+
 ##### -International Visiting Student-
-
-<img src="/images/mem/46.jpg" style="width:1.44in;height:1.94in" />
-
-D: Yeongrok Jin (Pusan National University)
-<br>email：yrjin_at_iis.u-tokyo.ac.jp
 
 <img src="/images/mem/pol.png" style="width:1.44in;height:1.94in" />
 
