@@ -13,14 +13,23 @@ draft: false
 1.  KY. Liao, ..., **T. Mizoguchi**, ..., K. Suenaga  
     under preparation
 
+1.  L. Cojocaru, ..., **T. Mizoguchi**, ..., H. Segawa  
+    under preparation
+
 1.  **S. Ozawa**, **I. Takahara**, and **T. Mizoguchi**  
     under preparation
 
-1.  **G. Fukuzawa**, **Y. Lee**, and **T. Mizoguchi**  
+1.  S. Takahashi, H. Tamegai, **T. Mizoguchi**, S. Uchida, and H. Segawa  
     submitted
 
+1.  **Y. Wang**, A. Varadwaj, **T. Mizoguchi**, and M. Kotsugi  
+    submitted  [**arxiv**](https://arxiv.org/abs/2603.29370)
+
+1.  **G. Fukuzawa**, **Y. Lee**, and **T. Mizoguchi**  
+    submitted [**arxiv**](https://arxiv.org/abs/2603.27453)
+
 1.  **P. Y. Chen** and **T. Mizoguchi**  
-    submitted
+    submitted [**arxiv**](https://arxiv.org/abs/2603.29198)
 
 1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
     submitted, (dynamic softening) [**arxiv**](https://arxiv.org/abs/2603.18710)
