@@ -75,15 +75,15 @@ D: Youjeong Choi
 D: Masahiro Watanabe （渡辺 雅浩）
 <br>email：mw008_at_iis.u-tokyo.ac.jp
 
+<img src="/images/mem/okubo2024.jpg" style="width:2.0833in;height:2.30in"  />
+
+D: Ren Okubo（大久保　怜）
+<br>email：ROKUBO_at_iis.u-tokyo.ac.jp
+
 <img src="/images/mem/image12.png" style="width:1.61667in;height:2.08333in"  />
 
 M: Gen Fukuzawa（福沢 源）
 <br>email：genf_at_iis.u-tokyo.ac.jp
-
-<img src="/images/mem/okubo2024.jpg" style="width:2.0833in;height:2.30in"  />
-
-M: Ren Okubo（大久保　怜）
-<br>email：ROKUBO_at_iis.u-tokyo.ac.jp
 
 <img src="/images/mem/okuda.jpg" style="width:1.44133in;height:1.91667in" />
 
@@ -129,7 +129,7 @@ M: Yutaro Matsuki（松木悠大郎）
 
 <img src="/images/mem/image7.png" style="width:1.44133in;height:1.91667in" />
 
-D: ChihLun Hsu
+RS: ChihLun Hsu
 <br>email：chihlun_at_iis.u-tokyo.ac.jp  
 
 ##### -International Visiting Student-

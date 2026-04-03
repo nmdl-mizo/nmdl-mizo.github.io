@@ -8,7 +8,23 @@ draft: false
 **<b> Please see top-page, <u>[Mizoguchi Linkdin](https://www.linkedin.com/in/teruyasu-mizoguchi-035395284/)</u>, and <u>[lab X(mainly Japanese)](https://x.com/nmdl_mizo)</u> for the latest new! </b>**
 
 **2025　:**
+- Dec Accurate simulation of ferroelectric response in BaTiO3 using machine larning potential has been accepted for publication in a special issue of J. Ceram. Soc. Jpn.
 
+- Dec Our joint research with the University of Montreal and Mila-Quebec AI Institute on an autonomous and interpretable material design AI agent utilizing large-scale language models have been published in Cell Rep. Phys. Sci.!<u>[Open access](https://www.sciencedirect.com/science/article/pii/S2666386425006186)</u>, <u>[Press release](https://www.iis.u-tokyo.ac.jp/ja/news/4955/)</u>
+
+- Dec Our study on atomic and electronic structure analysis of SiOx using machine learning and XAFS has been accepted for publication in Phys. Chem. Chem. Phys.
+
+- Dec A student has presentation in NeurIPS AI4Mat workshop at SanDiego
+
+- Dec Students have presentations in MRS fall meeting at Boston
+
+- Dec Students have presentations in ChemoInformatics workshop at Hiroshima <u>[Here](https://x.com/nmdl_mizo/status/1994967350106603787)</u>
+
+- Dec A review article on simulation, characterization, and informatics for inorganic materials has been published in J. Ceram. Soc. Jpn <u>[Open Access](https://www.jstage.jst.go.jp/article/jcersj2/133/12/133_25121/_article)</u>
+
+- Nov A collaboration study with Yonsei Univ. on the influence of non-metal solute to the stability and mechanical strength of twin boundary of HCP-Ti has been accepted for publicatoin in J. Mater. Res. Tech.
+
+- Nov A collaboration study with POSTECH, Univ. Wisconsin-Madison, and Univ. Nebraska on the formation of peculiar band structure at moire interface of oxide membrene has been accepted for publication in ACS Nano．
 
 - Oct Japanese book for XAFS has been published<u>[Here](https://www.kspub.co.jp/book/detail/5404867.html)</u>．
 
