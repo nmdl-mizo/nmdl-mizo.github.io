@@ -5,6 +5,9 @@ description: "Award"
 image: ""
 draft: false
 ---
+1.  **Yujeong Choi**  
+    Best Poster Award, 2026 Workshop of PNU-HU, 2026, Jan.20th
+
 1.  **Izumi Takhara**  
     Travel Grant Award, NeurIPS 2025 AI4Mat , 2025, 2025年12月8日
 

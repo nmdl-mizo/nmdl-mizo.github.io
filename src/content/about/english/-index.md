@@ -8,20 +8,22 @@ draft: false
 
 ##### Our Research Objective = “Paving the way for Materials Design through a deep understanding of chemical bonding ”
 
-<p align="left">Enormous time and effort have been devoted to material development. However, as society continues to change dynamically and rapidly, more accurate and swift material development is now required than ever before. If we can realize material design by understanding the correlation between atomic/electronic structures and functional expression, we can significantly accelerate material development. To achieve such material design, it is essential to elucidate the atomic and electronic structures in the local regions responsible for functional expression, and further understand the mechanisms and laws governing functional expression from the obtained results. The Mizoguchi Laboratory aims to achieve 'Material Design Realization' through research using first-principles calculations, informatics methods, and atomic-resolution measurements (STEM-EELS). <br> The Mizoguchi Laboratory is engaged in the following research themes:
+<p align="left">For decades, materials development has been driven by trial and error. That paradigm is now changing. Our vision is the realization of Designed Materials — a new frontier in which atomic arrangements are deliberately engineered to achieve target functionalities, bringing into existence structures that nature alone would never produce. At the heart of this vision lies a deep understanding of structure-property relationships — the connections between atomic and electronic structure and material function. By deciphering, at the level of chemical bonding, exactly where and how function emerges, we transform materials from something to be discovered into something to be designed. 
+The Mizoguchi Research Group integrates artificial intelligence, Physical AI, computational simulation, and materials characterization into a seamless research pipeline — driving the full cycle from the elucidation of structure-property relationships to the practical implementation of materials design.
+<br> The Mizoguchi Research Group is engaged in the following research themes:
 
-##### Materials Informatics for materials developments and database and code developments　
+##### AI for Materials: Toward Designed Materials through Data-Driven Science
  <p align="left">
-In recent years, data science has been attracting attention as the fourth paradigm, and "Materials Informatics," which uses data science in material research, is advancing globally and rapidly. In our group, we are tackling the following research subjects by constructing artificial intelligence (AI) based on the informatics science.<br>
+In recent years, data science has been attracting attention as the fourth paradigm, and "Materials Informatics," which uses data science in material research, is advancing globally and rapidly.　Our laboratory integrates machine learning, large-scale data analytics, generative AI, and large language models (LLMs) with Physical AI and robotics to establish and implement a unified, data-driven research framework that seamlessly connects materials design, exploration, synthesis, measurement, and analysis. We further develop novel methodologies, build large-scale cross-modal databases spanning experiments and simulations, and advance autonomous research workflows powered by AI agents.<br>
 1) Paving the way for materials design with generative AI and large-scale language models (LLMs)<br>
 2) Multimodal materials characterization using machine learning<br>
 3) Materials developments through inverse design<br>
 4) Materials discovery and synthesis using AI Agents<br>
 5) Discovery of new materials and new physical properties using data-driven methods<br>
-6) Informatics approaches for lattice defect <br>
+6) Intelligent materials characterization via Physical AI<br>
 For example, using our methods, it is possible to complete calculations that would normally take 22 years in just 3 hours. Additionally, by utilizing AI technology, we have succeeded in gaining new insights that even specialized researchers could not obtain before.
 <br><br>
-<b>Keywords:</b>Materials Informatics, Data-Driven, Artificial Intelligence, Generative AI, LLM, AI agent, Material Exploration, Spectral Analysis, Autonomous & Automated Analysis, Lattice Defects, Physics Extraction
+<b>Keywords:</b>Materials Informatics, Data-Driven, Artificial Intelligence, Generative AI, LLM, AI agent, Material Exploration, Spectral Analysis, Autonomous & Automated Analysis, Physical AI, Lattice Defects, Physics Extraction
 <br>
 <br>
 “Accelerated inorganic materials design with generative AI agents”  
@@ -51,7 +53,9 @@ Science Adv., 2 (2016) e1600746-1-7.
 <div align="center">
 
 ![image](/images/research-ml.png)
+![image](/images/KomabaComonsLab-vision-s.jpg)
 
+We lead the [Komaba Commons Lab.](https://sites.google.com/g.ecc.u-tokyo.ac.jp/komaba-commons-lab/), a core initiative to build an integrated AI-driven research infrastructure for materials science.
 </div>
 
 ###### High Precision and High Throughput Simulation of Lattice Defect Formation and Dynamics in Semiconductors and Two-Dimensional Materials　

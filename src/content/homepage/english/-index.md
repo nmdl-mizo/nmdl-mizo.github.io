@@ -15,8 +15,8 @@ features:
     image: "/images/content-1.png"
     content:  "Research objective"
     bulletpoints:
-      -  "If we can realize material design by understanding the correlation between the atomic and electronic structure of materials and the expression of their functions, we can dramatically accelerate the development of materials. In order to realize such material design, it is necessary to understand the atomic and electronic structures of the local regions that are responsible for materials functions, and to elucidate the mechanisms and physics for arising the materials functions."
-      - "The Nano Materials Design Laboratory (NMDL) at the Institute of Industrial Science, The University of Tokyo, aims to precisely analyze the structure-function relationship of materials (structure-function relationship) using computer simulation, information science, and atomic-level measurement, and to realize materials design based on this analysis."
+      -  "A deep understanding of atomic arrangements and chemical bonding, and their relationship to functional properties, enables the realization of Designed Materials, which can dramatically accelerate the development of new materials. To achieve this, it is essential to integrate computation, measurement, and analysis to uncover the origins of functionality and to establish the underlying mechanisms and universal design principles."
+      - "At the Nano Materials Design Laboratory (NMDL), Institute of Industrial Science, The University of Tokyo, we integrate artificial intelligence, computational simulations, atomic-scale characterization, and Physical AI to advance materials research in a unified manner—from a deep understanding of structure–property relationships to the creation of Designed Materials. Through this integrated approach, we aim to establish a new paradigm of materials science that enables autonomous materials design."
     button:
       enable: true
       label: "Our Research"
@@ -69,7 +69,7 @@ features:
     content: "Research Achievements"
     bulletpoints:
       - "The students in our group have transferred universities and laboratories upon advancing to graduate school. While transferring to a new group and new university is very challenging, there are many*10 more things to gain from its experience."
-      - "The students joined to our group start new research themes after entering graduate school, and even within a limited time, they present at academic conferences, and become the first authors of academic manuscript that leave a mark in the history of Science. You can see our achievements, including conference presentations and awards, from the Achievements section above menu."
+      - "Upon joining the laboratory, students immediately engage in their research projects and, within a limited period, present their work at international conferences as well as publish scientific paper as the first author. This process goes beyond simply completing assigned tasks; students are expected to formulate their own research questions, persist through trial and error, and carry their work through to completion. Through this rigorous training, they develop solid research skills and independence, preparing them to pursue PhD studies and build their careers as researchers."
     button:
       enable: true
       label: "Manuscript"

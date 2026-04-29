@@ -5,6 +5,11 @@ description: "<b><u> [Previous News](/en/news)<br> [Linkdin](https://www.linkedi
 
 # Testimonials
 testimonials:
+  - name: "2026, April."
+    designation: ""
+    avatar: ""
+    content: "Thank you for joining us, Pol‑kun. Let’s keep in touch, and hopefully see you again soon! <u>[Here](https://x.com/nmdl_mizo/status/2049049233454747787)</u>"
+
   - name: "2026, April"
     designation: ""
     avatar: ""

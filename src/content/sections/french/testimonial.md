@@ -8,6 +8,11 @@ testimonials:
   - name: "2026, April."
     designation: ""
     avatar: ""
+    content: "スペインから7か月間滞在してくれたPol君の送別会を行いました!<u>[こちら](https://x.com/nmdl_mizo/status/2049049233454747787)</u>"
+
+  - name: "2026, April."
+    designation: ""
+    avatar: ""
     content: "2026年度がスタートしました．新メンバーの歓迎会を実施しました．<u>[こちら](https://x.com/nmdl_mizo/status/2039905083568320714)</u>"
 
   - name: "2026, March."
