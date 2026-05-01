@@ -38,8 +38,9 @@ Tasuku Sugiura（杉浦　佑）
 
 <img src="/images/mem/46.jpg" style="width:1.44in;height:1.94in" />
 
-Yeongrok Jin Ph. D 
+Yeongrok Jin, Ph. D  
 <br>email：yrjin_at_iis.u-tokyo.ac.jp
+
 
 ##### -Student-
 
@@ -74,17 +75,17 @@ D: Youjeong Choi
 D: Masahiro Watanabe （渡辺 雅浩）
 <br>email：mw008_at_iis.u-tokyo.ac.jp
 
-<img src="/images/mem/image12.png" style="width:1.61667in;height:2.08333in"  />
+<img src="/images/mem/okubo2024.jpg" style="width:2.0833in;height:2.30in"  />
 
 D: Ren Okubo（大久保　怜）
 <br>email：ROKUBO_at_iis.u-tokyo.ac.jp
 
-<img src="/images/mem/okuda.jpg" style="width:1.44133in;height:1.91667in" />
+<img src="/images/mem/image12.png" style="width:1.61667in;height:2.08333in"  />
 
 M: Gen Fukuzawa（福沢 源）
 <br>email：genf_at_iis.u-tokyo.ac.jp
 
-<img src="/images/mem/okubo2024.jpg" style="width:2.0833in;height:2.30in"  />
+<img src="/images/mem/okuda.jpg" style="width:1.44133in;height:1.91667in" />
 
 M: Ibuki Okuda（奥田　伊武来）
 <br>email：okuda_at_iis.u-tokyo.ac.jp

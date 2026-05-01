@@ -10,12 +10,6 @@ draft: false
 1.  **K. Miyamoto**, **I. Okuda**, and **T. Mizoguchi**  
     under preparation
 
-1.  **I. Okuda**, **I. Takahara**, and **T. Mizoguchi**  
-    under preparation
-
-1.  **Y. Wang**, **P.Y. Chen**, and **T. Mizoguchi**  
-    under preparation
-
 1.  KY. Liao, ..., **T. Mizoguchi**, ..., K. Suenaga  
     under preparation
 
@@ -24,6 +18,12 @@ draft: false
 
 1.  **S. Ozawa**, **I. Takahara**, and **T. Mizoguchi**  
     under preparation
+
+1.  **Y. Wang**, **P.Y. Chen**, and **T. Mizoguchi**  
+    submitted
+
+1.  **I. Okuda**, **I. Takahara**, and **T. Mizoguchi**  
+    submitted
 
 1.  **YR. Jin**, **T. Mizoguchi**, and J. Lee  
     submitted
