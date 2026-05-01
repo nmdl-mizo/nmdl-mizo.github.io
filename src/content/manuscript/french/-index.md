@@ -75,7 +75,7 @@ draft: false
 
     **— 2026 —**  
 
-1.  "Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets"
+1.  "Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets"  
     *Pol Benítez*, Cibrán López, Edgardo Saucedo, **Teruyasu Mizoguchi**, Claudio Cazorla,  
     Adv. Intell. Disc., (2026) in press [**arxiv**](https://arxiv.org/abs/2511.15222)
 

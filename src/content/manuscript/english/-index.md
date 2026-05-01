@@ -62,10 +62,7 @@ draft: false
     submitted, [**arxiv**](https://arxiv.org/abs/2602.18054)
 
 1.  N. Ishihara,...**T. Sugiura**, **T. Mizoguchi**, and S. Nakanishi,  
-    submitted, [**Chemrxiv**](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000496/v1)  
-
-1.  P. Benitez,... **T. Mizoguchi**,..., C. Cazorla,  
-    submitted, [**arxiv**](https://arxiv.org/abs/2511.15222)
+    submitted, [**Chemrxiv**](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000496/v1)
 
 1.  H. Zhang,... **I. Takahara**, **T. Mizoguchi**,..., B. Liu,  
     submitted, [**arxiv**](https://arxiv.org/abs/2602.00169)
@@ -78,7 +75,7 @@ draft: false
 
     **— 2026 —**  
 
-1.  "Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets"
+1.  "Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets"  
     *Pol Benítez*, Cibrán López, Edgardo Saucedo, **Teruyasu Mizoguchi**, Claudio Cazorla,  
     Adv. Intell. Disc., (2026) in press [**arxiv**](https://arxiv.org/abs/2511.15222)
 
@@ -90,18 +87,13 @@ draft: false
     **Y. Wang, Y. Fujikata, L. Wong**, Y. Muramatsu, and **T. Mizoguchi**,  
     *Ultramicroscopy*, 283 (2026) 114336-1-10 [**here**](https://www.sciencedirect.com/science/article/pii/S030439912600029X)
 
-1.  "Systematic Correction of Core-Loss Spectra via Machine Learning: Bridging the Gap between Simulated and Experimental Spectra"  
-    **Y. Wang, Y. Fujikata, L. Wong**, Y. Muramatsu, and **T. Mizoguchi**,  
-    *Ultramicroscopy*, (2026) in press. [**here**](https://www.sciencedirect.com/science/article/pii/S030439912600029X)
-
 1.  "LDA-Based Machine Learning Force Field for Accurate Electric-Field-Driven Ferroelectric Response in BaTiO3"  
     **R. Sahashi, P. Y. Chen**, and **T. Mizoguchi**,  
-    *J. Ceram. Soc. Jpn.*, (2025) in press.
+    *J. Ceram. Soc. Jpn.*, (2026) in press.
 
 1.  "Machine Learning-Based XANES Analysis for Predicting the Local Structure and Valence in Amorphous Silicon Suboxides"  
      **Y. Fujikata**, **T. Mizoguchi**, and H. Sugisawa  
     *Physical Chemistry Chemical Physics*, 28 (2026) 3682.
-
 
     **— 2025 —**  
 
