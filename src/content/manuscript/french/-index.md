@@ -14,16 +14,16 @@ draft: false
     under preparation
 
 1.  L. Cojocaru, ..., **T. Mizoguchi**, ..., H. Segawa  
-    under preparation
+    submitted
 
 1.  **S. Ozawa**, **I. Takahara**, and **T. Mizoguchi**  
-    under preparation
+    submitted   [**arxiv**](https://arxiv.org/abs/2605.03515)
 
 1.  **Y. Wang**, **P.Y. Chen**, and **T. Mizoguchi**  
-    submitted
+    submitted   [**arxiv**](https://arxiv.org/abs/2604.27342)
 
 1.  **I. Okuda**, **I. Takahara**, and **T. Mizoguchi**  
-    submitted
+    submitted   [**arxiv**](https://arxiv.org/abs/2605.01286)
 
 1.  **YR. Jin**, **T. Mizoguchi**, and J. Lee  
     submitted

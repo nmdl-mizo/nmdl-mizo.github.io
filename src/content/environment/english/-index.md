@@ -31,14 +31,10 @@ Nice space and many books and whiteboards for anytime discussions.
 <img src="/images/environment/image5.png" style="width:1.81412in;height:2.86667in" />
 <img src="/images/environment/image6.png" style="width:3.6in;height:2.6in" />
 
-- Computer cluster (Dual Xeon, 40~64cores) x ~60
-- Computer cluster (Single Xeon, 20~24cores) x 23
-- GPU server: Blackwell 6000Pro-MaxQ x 9
-- GPU server: RTX 6000ada x 5
-- GPU server: 5090 x 2
-- GPU server: A100 
-- GPU server: 4090 x 5
-- GPU server: 3090 x 2
+- Computer Clusters (Xeon)
+- GPU Servers (4090~Blackwell 6000Pro etc.)
+- DGX Spark
+- 
 - \+ more…. 
 
 <br>
@@ -86,7 +82,7 @@ Nice space and many books and whiteboards for anytime discussions.
 <img src="/images/3DS2025.png" style="width:2.0in;height:2.0in" />
 <img src="/images/3DS2024.png" style="width:2.0in;height:2.0in" />  
 
-Mizoguchi is [<u>Ambassador</u>](https://www.3ds.com/science/science-ambassador-program)  of Dassault Systems.
+Mizoguchi is an [<u>Ambassador</u>](https://www.3ds.com/science/science-ambassador-program)  of Dassault Systems.
 
 <br>
 
@@ -98,16 +94,16 @@ Mizoguchi is [<u>Ambassador</u>](https://www.3ds.com/science/science-ambassador-
 
 <img src="/images/environment/KomabaCommons.jpg">
 
-Komaba Commons Lab / [駒場コモンズラボ](https://sites.google.com/g.ecc.u-tokyo.ac.jp/komaba-commons-lab/)  
-Established in 2026.April.  "Komaba Commons Lab" is a future-oriented shared research infrastructure.
+<u>[Komaba Commons Lab / 駒場コモンズラボ](https://sites.google.com/g.ecc.u-tokyo.ac.jp/komaba-commons-lab/)  </u>  
+Komaba Commons Labs established in 2026.April.  "Komaba Commons Lab" is a future-oriented shared research infrastructure powered by AI and Physical AI.
 
 <img src="/images/environment/image10.png" style="width:3.27019in;height:0.66181in"/>
 
-Komaba Analysis Core / [東京大学・生産技術研究所・駒場分析コア](https://sites.google.com/g.ecc.u-tokyo.ac.jp/iis-materials-core)
+[Komaba Analysis Core / 東京大学・生産技術研究所・駒場分析コア](https://sites.google.com/g.ecc.u-tokyo.ac.jp/iis-materials-core)
 
 <img src="/images/environment/image11.png" style="width:3.4in;height:0.60012in" />
 
-ARIM / [マテリアル先端リサーチインフラ](https://nanonet.mext.go.jp/)
+[ARIM / マテリアル先端リサーチインフラ](https://nanonet.mext.go.jp/)
 
 <u>[駒場コモンズラボ/Komaba Commons Lab](https://sites.google.com/g.ecc.u-tokyo.ac.jp/komaba-commons-lab/)</u>，<u>[駒場分析コア/Komaba Analysis Core](https://sites.google.com/g.ecc.u-tokyo.ac.jp/iis-materials-core) </u>および<u>[ARIM](https://nanonet.mext.go.jp/)</u> and synchrtron facility are used for Physical AI and materials characterization experiments.
 
