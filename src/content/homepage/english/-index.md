@@ -11,7 +11,7 @@ banner:
 
 # Features
 features:
-  - title: "Paving the way for Materials Design"
+  - title: "Paving the way for Designed Materials"
     image: "/images/content-1.png"
     content:  "Research objective"
     bulletpoints:

@@ -7,6 +7,9 @@ draft: false
 ---
  <p align="right"> **Bold** *indicates Mizoguchi Lab. member.* </p>
  
+1.  **Y. Choi**, **T. Sugiura**,......, and **T. Mizoguchi**  
+    under preparation
+
 1.  **K. Miyamoto**, **I. Okuda**, and **T. Mizoguchi**  
     under preparation
 
@@ -17,12 +20,15 @@ draft: false
     submitted
 
 1.  **S. Ozawa**, **I. Takahara**, and **T. Mizoguchi**  
+    "Scale-Dependent Input Representation and Confidence Estimation for LLMs in Materials Property Prediction"  
     submitted   [**arxiv**](https://arxiv.org/abs/2605.03515)
 
 1.  **Y. Wang**, **P.Y. Chen**, and **T. Mizoguchi**  
-    submitted   [**arxiv**](https://arxiv.org/abs/2604.27342)
+    "Ultrafast Sliding Ferroelectric Switching in Bilayer Hexagonal Boron Nitride Revealed by Deep Learning Molecular Dynamics"  
+        submitted   [**arxiv**](https://arxiv.org/abs/2604.27342)
 
 1.  **I. Okuda**, **I. Takahara**, and **T. Mizoguchi**  
+    "Inverse Materials Design via Joint Generation of Crystal Structures and Local Electronic Descriptors"  
     submitted   [**arxiv**](https://arxiv.org/abs/2605.01286)
 
 1.  **YR. Jin**, **T. Mizoguchi**, and J. Lee  
@@ -32,18 +38,23 @@ draft: false
     submitted
 
 1.  **Y. Wang**, A. Varadwaj, **T. Mizoguchi**, and M. Kotsugi  
+    "Decoding Dopant-Induced Electronic Modulation in Graphene via Region-Resolved Machine Learning of XANES"  
     submitted  [**arxiv**](https://arxiv.org/abs/2603.29370)
 
 1.  **G. Fukuzawa**, **Y. Lee**, and **T. Mizoguchi**  
+    "Twist-Angle Engineering of Moiré Potentials for High-Performance Ionics in Bilayer Graphene"  
     submitted [**arxiv**](https://arxiv.org/abs/2603.27453)
 
 1.  **P. Y. Chen** and **T. Mizoguchi**  
+    "Long-range interaction effects on the phase transition, mechanical effect, and electric field response of BaTiO3 by machine learning potentials"  
     submitted [**arxiv**](https://arxiv.org/abs/2603.29198)
 
 1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
+    "Origin of Reduced Coercive Field in ScAlN: Synergy of Structural Softening and Dynamic Atomic Correlations"  
     submitted, (dynamic softening) [**arxiv**](https://arxiv.org/abs/2603.18710)
 
 1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
+    "Decoupling structural and bonding effects on ferroelectric switching in ScAlN via molecular dynamics under an applied electric field"  
     submitted, (decoupling) [**arxiv**](https://arxiv.org/abs/2603.14747)
 
 1.  **T. Mizoguchi**, **P. Y. Chen**, **I. Takahara**, **R. Okubo**, and **Y. Fujikata**  
@@ -53,25 +64,32 @@ draft: false
     submitted
 
 1.  **R. Okubo**, **Y. Fujikata**, **I. Takahara**, and **T. Mizoguchi**  
+    "Generative Inverse Estimation of 3D Atomic Coordination from Near-Edge Spectra via Equivariant Diffusion Models"  
     submitted, [**arxiv**](https://arxiv.org/abs/2602.16133)
 
 1.  **Y. Fujikata**, Y. Muramatsu, and **T. Mizoguchi**  
+    "Finite-size effects and energy alignment in molecular XANES under periodic boundary conditions: A systematic comparison of core-hole treatments"  
     submitted, [**arxiv**](https://arxiv.org/abs/2602.17020)
 
 1.  **T. Sugiura** and **T. Mizoguchi**  
+    "Achieving Robust Extrapolation in Materials Property Prediction via Decoupled Transfer Learning"  
     submitted, [**arxiv**](https://arxiv.org/abs/2602.18054)
 
-1.  N. Ishihara,...**T. Sugiura**, **T. Mizoguchi**, and S. Nakanishi,  
+1.  N. Ishihara,...**T. Sugiura**, **T. Mizoguchi**, and S. Nakanishi  
+    "Vacancy-Driven Phase Separation Governs Li+ Transport Degradation in Li2−xO2 : A Computational Study Relevant to Li–O2 Batteries"  
     submitted, [**Chemrxiv**](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000496/v1)
 
 1.  H. Zhang,... **I. Takahara**, **T. Mizoguchi**,..., B. Liu,  
+    "Towards Agentic Intelligence for Materials Science"  
     submitted, [**arxiv**](https://arxiv.org/abs/2602.00169)
 
 1.  J. W. Abbott,... **I. Takahara**, **K. Shibata**, **T. Mizoguchi**, et al.,  
+     "Roadmap on Advancements of the FHI-aims Software Package"  
     FHI-aims, submitted, [**arxiv**](https://arxiv.org/abs/2505.00125)
 
 1.  **P. Y. Chen** and **T. Mizoguchi**  
-    submitted, [**arxiv**](https://arxiv.org/abs/2511.09976)
+    "Electric Field-Induced Phase Transitions and Hysteresis in Ferroelectric HfO2 Captured with Machine Learning Potential"  
+    submitted, [**arxiv**](https://arxiv.org/abs/2511.09976)  
 
     **— 2026 —**  
 

@@ -6,7 +6,7 @@ image: "/images/content-1.png"
 draft: false
 ---
 
-##### Our Research Objective = “Paving the way for Materials Design through a deep understanding of chemical bonding ”
+##### Our Research Objective = “Paving the way for Designed Materials through a deep understanding of chemical bonding ”
 
 <p align="left">For decades, materials development has been driven by trial and error. That paradigm is now changing. Our vision is the realization of Designed Materials — a new frontier in which atomic arrangements are deliberately engineered to achieve target functionalities, bringing into existence structures that nature alone would never produce. At the heart of this vision lies a deep understanding of structure-property relationships — the connections between atomic and electronic structure and material function. By deciphering, at the level of chemical bonding, exactly where and how function emerges, we transform materials from something to be discovered into something to be designed. 
 The Mizoguchi Research Group integrates artificial intelligence, Physical AI, computational simulation, and materials characterization into a seamless research pipeline — driving the full cycle from the elucidation of structure-property relationships to the practical implementation of materials design.
@@ -20,7 +20,7 @@ In recent years, data science has been attracting attention as the fourth paradi
 3) Materials developments through inverse design<br>
 4) Materials discovery and synthesis using AI Agents<br>
 5) Discovery of new materials and new physical properties using data-driven methods<br>
-6) Intelligent materials characterization via Physical AI<br>
+6) Intelligent materials characterizations and developments via Physical AIs<br>
 For example, using our methods, it is possible to complete calculations that would normally take 22 years in just 3 hours. Additionally, by utilizing AI technology, we have succeeded in gaining new insights that even specialized researchers could not obtain before.
 <br><br>
 <b>Keywords:</b>Materials Informatics, Data-Driven, Artificial Intelligence, Generative AI, LLM, AI agent, Material Exploration, Spectral Analysis, Autonomous & Automated Analysis, Physical AI, Lattice Defects, Physics Extraction
