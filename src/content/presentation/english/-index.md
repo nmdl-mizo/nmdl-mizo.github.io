@@ -6,37 +6,43 @@ image: ""
 draft: false
 ---
 
+**国内会議は下の方にあります**
+
 **International Conference**
-1.  **Y. Choi**, T. Sugiura, and T. Mizoguchi
-    "****"
+1.  **Y. Choi**, T. Sugiura, and T. Mizoguchi  
+    "Halogen Effects on Defect Structures and Chemical Bonding Properites in Li-Air Batteries Discharge Products"  
     2026 workshop PNU-HU, Pusan, Korea, Jan.,20th 2026
 
-1.  **I. Takahara**, T. Mizoguchi, and B. Liu
-    "****"
+1.  **I. Takahara**, T. Mizoguchi, and B. Liu  
+    "MatAgent: Interpretable and Autonomous Materials Design via Generative AI Agents"  
     NeurIPS, workshop AI4Mat, SanDiego, USA, Dec. 7, 2025
 
-1.  **Louis Wong**, I. Takahara, and T. Mizoguchi
-    "****"
+1.  **I. Takahara**, T. Mizoguchi, and B. Liu  
+    "Benchmarking Multimodal Large Language Models on Electronic Structure Analysis and Interpretation"  
+    NeurIPS, workshop AI4Mat, SanDiego, USA, Dec. 7, 2025
+
+1.  **Louis Wong**, I. Takahara, and T. Mizoguchi  
+    " AutoNet++: A Graph-Autoencoder Framework for Predicting Electronic Structure and Bonding Characteristics in Perovskites"  
     MRS fall meeting, Boston, Nov. 4, 2025
 
 1.  **P. Y. Chen**, and T. Mizoguchi
-    "****"
+    "Modeling Electric Field Response in BaTiO₃ and HfO₂ with Machine Learning Potentials"   
+    MRS fall meeting, Boston, Nov. 1, 2025  
+
+1.  **I. Takahara**, T. Mizoguchi, and B. Liu  
+    "MatAgent: Interpretable and Autonomous Materials Design via Generative AI Agents"  
     MRS fall meeting, Boston, Nov. 1, 2025
 
-1.  **I. Takahara**, T. Mizoguchi, and B. Liu
-    "****"
-    MRS fall meeting, Boston, Nov. 1, 2025
-
-1.  **I. Takahara**, K. Shibata, and T. Mizoguchi,
-    "Diffusion Generative Modelling with Transformers for Generative Materials Design"
+1.  **I. Takahara**, K. Shibata, and T. Mizoguchi,  
+    "Diffusion Generative Modelling with Transformers for Generative Materials Design"  
     MRS fall meeting, Boston, Nov. 5, 2024
 
-1.  **P. Y. Chen**, K. Shibata, and T. Mizoguchi,
-    "Large-scale BaTiO3 system investigation via machine learning force field"
+1.  **P. Y. Chen**, K. Shibata, and T. Mizoguchi,  
+    "Large-scale BaTiO3 system investigation via machine learning force field"  
     NTU-UT workshop, Nov.,28 2024
 
-1.  **I. Takahara**, K. Shibata, and T. Mizoguchi,
-    "Generative Inverse Design of Crystal Structuresvia Diffusion Models with Transformers"
+1.  **I. Takahara**, K. Shibata, and T. Mizoguchi,  
+    "Generative Inverse Design of Crystal Structuresvia Diffusion Models with Transformers"  
     IJCAI, AI4Science workshop, 2024, Aug. 5th, Jeju, Korea
 
 1.  **K. Shibata** and T. Mizoguchi,
@@ -493,64 +499,64 @@ draft: false
 
 **Domestic Conference**
 
-1.  **Youjeong Choi**，杉浦祐，溝口照康
-    ”**”
+1.  **Youjeong Choi**，杉浦祐，溝口照康  
+    ”第一原理計算に基づいたリチウム空気電池の放電生成物における欠陥形成特性の評価”  
     電気化学会，2026. 3. 18, 東京科学大学，大岡山
 
-1.  **PY Chen**，溝口照康
-    ”**”
+1.  **PY Chen**，溝口照康  
+    ”一軸圧縮応力下における正方晶BaTiO₃の分極応答に対する機械学習力場解析”  
     応用物理学会，2026. 3. 18, 東京科学大学，大岡山
 
-1.  **Yinan Wang**，藤方悠，溝口照康
-    ”**”
+1.  **Yinan Wang**，藤方悠，溝口照康  
+    ”*機械学習を用いた理論XANESスペクトルと実験スペクトル間のギャップ補正”  
     応用物理学会，2026. 3. 16, 東京科学大学，大岡山
 
-1.  **小澤修一郎**，高原泉，溝口照康
-    ”**”
+1.  **小澤修一郎**，高原泉，溝口照康  
+    ”大規模言語モデルの結晶物性予測における構造記述と語彙設計の影響”  
     応用物理学会，2026. 3. 15, 東京科学大学，大岡山
 
-1.  **奥田伊武来**，高原泉，溝口照康
-    ”**”
+1.  **奥田伊武来**，高原泉，溝口照康  
+    ”結晶構造と局所電子構造の同時生成による逆材料設計”  
     応用物理学会，2026. 3. 15, 東京科学大学，大岡山
 
-1.  **宮本和弥**, 奥田伊武来，溝口照康
-    ”**”
+1.  **宮本和弥**, 奥田伊武来，溝口照康  
+    ”データ駆動型手法による表面構造の逆設計”  
     応用物理学会，2026. 3. 15, 東京科学大学，大岡山
 
-1.  **佐橋遼太郎**, PY Chen，溝口照康
-    ”**”
+1.  **佐橋遼太郎**, PY Chen，溝口照康  
+    ”機械学習力場によるScAlNの強誘電特性への組成・構造歪み効果の解析”  
     応用物理学会，2026. 3. 18, 東京科学大学，大岡山
 
-1.  **Youjeong Choi**, 溝口照康
-    ”**”
+1.  **Youjeong Choi**, 溝口照康  
+    ”リチウム空気電池放電生成物の欠陥構造と結合状態に及ぼすハロゲン効果の解析”    
     ケモインフォマティクス討論会，2025. 11. 27, 東広島，広島
 
-1.  **杉浦祐**, 溝口照康
-    ”**”
+1.  **杉浦祐**, 溝口照康  
+    ”リチウム空気電池の放電生成物設計を指向したリチウム-酸素系化合物の構造探索”  
     ケモインフォマティクス討論会，2025. 11. 27, 東広島，広島
 
-1.  **Pol Benitez**,Claudio Cazorla,  溝口照康
-    ”**”
+1.  **Pol Benitez**,Claudio Cazorla,  溝口照康  
+    ”Improving Neural Network Prediction of Material Properties with Phonon-Informed Distortions”  
     ケモインフォマティクス討論会，2025.  11. 27, 東広島，広島
 
-1.  **佐橋遼太郎**, PY Chen，溝口照康
-    ”**”
+1.  **佐橋遼太郎**, PY Chen，溝口照康  
+    ”機械学習力場による ScAlN 強誘電体の分極応答解析”  
     電子材料研究討論会，2025. 10. 20, 慶応大学，日吉
 
 1.  **PY Chen**，溝口照康
-    ”**”
+    ”機械学習ポテンシャルを用いた強誘電体材料の電場応答解析”
     応用物理学会春季大会，2025. 9. 7, 名城大学，愛知
 
 1.  **藤方悠**，溝口照康
-    ”**”
+    ”深層学習を活用したスペクトルからの局所構造予測”
     XAFS討論会，2025. 9. 14, Photon Factory, つくば
 
 1.  **大久保　怜**，藤方悠，溝口照康
-    ”**”
+    ”XANESスペクトルを条件とした拡散モデルによる配位環境の予測”
     XAFS討論会，2025. 9. 14, Photon Factory, つくば
 
 1.  **Y. N．Wang**，藤方悠，村松康司，溝口照康
-    ”**”
+    ”機械学習を活用した実験と計算間の系統的な補正”
     XAFS討論会，2025. 9. 14, Photon Factory, つくば
 
 1.  **柴田基洋**，溝口照康
