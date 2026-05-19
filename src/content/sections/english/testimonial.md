@@ -5,6 +5,21 @@ description: "<b><u> [Previous News](/en/news)<br> [Linkdin](https://www.linkedi
 
 # Testimonials
 testimonials:
+  - name: "2026, May."
+    designation: ""
+    avatar: ""
+    content: "Research paper on finite-size dependence of core-hole simulation for organic molecule was accepted for publication in J. Chem. Phys."
+
+  - name: "2026, May."
+    designation: ""
+    avatar: ""
+    content: "For the open-campus (June 5-6), we have joined campus clean-up <u>[Here](https://x.com/nmdl_mizo/status/2056150534378360986)</u>"
+
+  - name: "2026, May."
+    designation: ""
+    avatar: ""
+    content: "Former member, Nishio-kun, has visited lab. Thank you Nishio-kun! Enjoy US!!<u>[Here](https://x.com/nmdl_mizo/status/2055648461853544526)</u>"
+
   - name: "2026, April."
     designation: ""
     avatar: ""

@@ -5,6 +5,21 @@ description: "<b><u> [過去のニュース](/news) <br>[Linkdin](https://www.li
 
 # Testimonials
 testimonials:
+  - name: "2026, May."
+    designation: ""
+    avatar: ""
+    content: "有機分子のELNES計算における内殻空孔効果のスーパーセルサイズ依存性に関する研究がJ. Chem. Phys.に掲載決定しました．"
+
+  - name: "2026, May."
+    designation: ""
+    avatar: ""
+    content: "駒場リサーチキャンパス公開（6/5-6/6)に向けたキャンパス清掃に参加しました．皆さんお疲れさまでした！<u>[こちら](https://x.com/nmdl_mizo/status/2056150534378360986)</u>"
+
+  - name: "2026, May."
+    designation: ""
+    avatar: ""
+    content: "卒業生の西尾君が研究室に来てくれました！<u>[こちら](https://x.com/nmdl_mizo/status/2055648461853544526)</u>"
+
   - name: "2026, April."
     designation: ""
     avatar: ""

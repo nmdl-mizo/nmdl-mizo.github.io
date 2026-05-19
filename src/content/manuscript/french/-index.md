@@ -67,10 +67,6 @@ draft: false
     "Generative Inverse Estimation of 3D Atomic Coordination from Near-Edge Spectra via Equivariant Diffusion Models"  
     submitted, [**arxiv**](https://arxiv.org/abs/2602.16133)
 
-1.  **Y. Fujikata**, Y. Muramatsu, and **T. Mizoguchi**  
-    "Finite-size effects and energy alignment in molecular XANES under periodic boundary conditions: A systematic comparison of core-hole treatments"  
-    submitted, [**arxiv**](https://arxiv.org/abs/2602.17020)
-
 1.  **T. Sugiura** and **T. Mizoguchi**  
     "Achieving Robust Extrapolation in Materials Property Prediction via Decoupled Transfer Learning"  
     submitted, [**arxiv**](https://arxiv.org/abs/2602.18054)
@@ -93,13 +89,17 @@ draft: false
 
     **— 2026 —**  
 
+1.  "Finite-size effects and energy alignment in molecular XANES under periodic boundary conditions: A systematic comparison of core-hole treatments"  
+    **Y. Fujikata**, Y. Muramatsu, and **T. Mizoguchi**  
+    *J. Chem. Phys., in press*, [**arxiv**](https://arxiv.org/abs/2602.17020)  
+
 1.  "Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets"  
-    *Pol Benítez*, Cibrán López, Edgardo Saucedo, **Teruyasu Mizoguchi**, Claudio Cazorla,  
-    Adv. Intell. Disc., (2026) in press [**arxiv**](https://arxiv.org/abs/2511.15222)
+    **Pol Benítez**, Cibrán López, Edgardo Saucedo, **Teruyasu Mizoguchi**, Claudio Cazorla,  
+    *Adv. Intell. Disc.*, 2 (2026) e202500229-1-11 [**arxiv**](https://arxiv.org/abs/2511.15222)
 
 1.  "Effect of uniaxial compressive stress on polarization switching and domain wall formation in tetragonal phase BaTiO3 via machine learning potential"  
     **P. Y. Chen** and **T. Mizoguchi**  
-    Materials & Design, (2026) in press [**arxiv**](https://arxiv.org/abs/2601.12914)
+    *Materials & Design*, 265 (2026) 115851 [**arxiv**](https://arxiv.org/abs/2601.12914)
 
 1.  "Systematic Correction of Core-Loss Spectra via Machine Learning: Bridging the Gap between Simulated and Experimental Spectra"  
     **Y. Wang, Y. Fujikata, L. Wong**, Y. Muramatsu, and **T. Mizoguchi**,  
