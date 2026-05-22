@@ -7,11 +7,21 @@ draft: false
 ---
 **<b> 最新のニュースはTop pageやTwitter（X)をご覧ください </b>**
 
-**2025:**
+**2026**  
+- Mar 2026 BaTiO3のPEヒステリシスに及ぼす一軸応力の影響を電場印加機械学習ポテンシャルMDにより直接計算した研究成果がMaterials & Designに掲載決定しました．
+
+- Feb 2026 ELNES/XANESの計算スペクトルから実験スペクトルを生成するモデルに関する研究成果がUltramicroscopyに掲載決定しました．<u>[こちら](https://www.sciencedirect.com/science/article/pii/S030439912600029X)</u>
+
+- Feb 2026 Seoul National UniversityのSeungwu Han先生がご来訪されご講演くださいました．<u>[こちら](https://x.com/nmdl_mizo/status/2023928652434653221)</u>
+
+- Jan 2026 韓国で行われた国際ワークショップで学生が発表し，ポスター賞を受賞しました．<u>[こちら](https://x.com/nmdl_mizo/status/2014186812936233006)</u>
+
+- Jan 2026 NIMSの上杉さんらと打ち合わせをしました．<u>[こちら](https://x.com/nmdl_mizo/status/2014186246848024769)</u>
+
+**2025:**  
 - Dec 2025年度・マテリアル自由研究が終了しました．今年はWell-beingについてマテリアルの視点から調べました．<u>[こちら](https://x.com/nmdl_mizo/status/2004495115637948515)</u>
 
 - Dec BaTiO3における電場応答を高精度に再現する機械学習ポテンシャルに関する研究成果がJ. Ceram. Soc. Jpnの特集号に掲載されました
-
 
 - Dec 大規模言語モデルを活用して自律性と解釈性を備えた物質設計AIエージェントに関する，モントリオール大学・Mila-Quebec AI Instituteとの共同研究成果がCell Rep. Phys. Sci.に掲載され，プレスリリースしました．<u>[Open access](https://www.sciencedirect.com/science/article/pii/S2666386425006186)</u>, <u>[プレスリリース](https://www.iis.u-tokyo.ac.jp/ja/news/4955/)</u>  
 

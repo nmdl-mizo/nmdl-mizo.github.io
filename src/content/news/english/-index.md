@@ -7,6 +7,18 @@ draft: false
 ---
 **<b> Please see top-page, <u>[Mizoguchi Linkdin](https://www.linkedin.com/in/teruyasu-mizoguchi-035395284/)</u>, and <u>[lab X(mainly Japanese)](https://x.com/nmdl_mizo)</u> for the latest new! </b>**
 
+**2026　:**
+- Mar 2026 Research result on uniaxial stress effects on the PE hysteresis of BaTiO3 using electric-field-induced machine-learning-potential MD simulations was accepted for publication in Materials & Design.
+
+- Feb 2026 A prediction model to generate experimental spectra from simulated spectra was accepted for publication in Ultramicroscopy. <u>https://www.sciencedirect.com/science/article/pii/S030439912600029X</u>
+
+- Feb 2026 Prof. Seungwu Han from Seoul National University gave a great talk. <u>https://x.com/nmdl_mizo/status/2023928652434653221</u>
+
+- Jan 2026 A student gave a presentation at an international workshop in Busan and won a presentation prize. <u>https://x.com/nmdl_mizo/status/2014186812936233006</u>
+
+- Jan 2026 We visited Dr. Uesugi at NIMS for discussions on automated experiments. <u>https://x.com/nmdl_mizo/status/2014186246848024769</u>
+
+
 **2025　:**
 - Dec Accurate simulation of ferroelectric response in BaTiO3 using machine larning potential has been accepted for publication in a special issue of J. Ceram. Soc. Jpn.
 
