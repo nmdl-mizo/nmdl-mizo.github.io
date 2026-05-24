@@ -32,11 +32,13 @@ Through a deep understanding of materials from the perspective of atoms and elec
 
 Students in our laboratory start new research themes after entering graduate school and have achieved numerous research results that have left their mark in the history of science, even within a limited period. There is no need to have prior knowledge of programming, theoretical calculations, or atomic-level measurements. Almost all students who have joined our laboratory started their research without such knowledge and acquired it as they progressed in their research. The important prerequisites are first, **an interest in atoms and electrons**, and second, **the motivation to engage seriously with research during your time here and to grow as an individual**.
 
-By dedicating yourself earnestly to graduate-level research during your enrollment, you can acquire the following important abilities for your future life, regardless of your career path after graduation:
- -An attitude of engaging sincerely with research and challenges
- -Experience in overcoming difficulties, both large and small
- -The ability to deeply analyze obtained results and the balanced perspective to evaluate them appropriately
- -Skills in effective storytelling for conferences and papers
+As AI research advances rapidly and technologies such as AI agents, Physical AI, and AI Scientists transform the landscape of research and development, the ability to extract meaningful insight from the AI generated results and to determine the direction of one's research still requires deep domain knowledge. Our laboratory actively integrates these cutting-edge AI technologies into materials research, while placing equal importance on cultivating the judgment and expertise that make such technologies truly useful. We welcome those who wish to engage seriously with this pivotal moment in science and technology, and to develop the ability to grasp what truly matters.
+
+By dedicating yourself earnestly to graduate-level research during your enrollment, you can acquire the following important abilities for your future life, regardless of your career path after graduation:  
+ -An attitude of engaging sincerely with research and challenges  
+ -Experience in overcoming difficulties, both large and small  
+ -The ability to deeply analyze obtained results and the balanced perspective to evaluate them appropriately  
+ -Skills in effective storytelling for conferences and papers  
 
 The Mizoguchi Laboratory widely welcomes students who **love atoms and electrons** and **wish to achieve significant personal growth through research activities via PhD study**.
 
@@ -44,7 +46,7 @@ We also welcome applications for [**JSPS Research Fellowships (PD, RPD)**](https
 
 **◆ Guidance for Doctoral Studies**
 
-**Currently, we are accepting only international students who have a strong commitment to pursuing a doctoral degree.**
+Currently, we are accepting only international students who have a strong commitment to pursuing a doctoral degree.
 
 **◆ How to Join the Mizoguchi Lab**
 
