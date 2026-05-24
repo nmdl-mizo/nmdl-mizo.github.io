@@ -53,10 +53,6 @@ draft: false
     "Origin of Reduced Coercive Field in ScAlN: Synergy of Structural Softening and Dynamic Atomic Correlations"  
     submitted, (dynamic softening) [**arxiv**](https://arxiv.org/abs/2603.18710)
 
-1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
-    "Decoupling structural and bonding effects on ferroelectric switching in ScAlN via molecular dynamics under an applied electric field"  
-    submitted, (decoupling) [**arxiv**](https://arxiv.org/abs/2603.14747)
-
 1.  **T. Mizoguchi**, **P. Y. Chen**, **I. Takahara**, **R. Okubo**, and **Y. Fujikata**  
     submitted, [topical review]
 
@@ -85,33 +81,41 @@ draft: false
 
 1.  **P. Y. Chen** and **T. Mizoguchi**  
     "Electric Field-Induced Phase Transitions and Hysteresis in Ferroelectric HfO2 Captured with Machine Learning Potential"  
-    submitted, [**arxiv**](https://arxiv.org/abs/2511.09976)  
+    submitted, [**arxiv**](https://arxiv.org/abs/2511.09976)
 
     **— 2026 —**  
 
+1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
+    "Decoupling structural and bonding effects on ferroelectric switching in ScAlN via molecular dynamics under an applied electric field"  
+    *APL Materials*, in press,  [**arxiv**](https://arxiv.org/abs/2603.14747)
+
 1.  "Finite-size effects and energy alignment in molecular XANES under periodic boundary conditions: A systematic comparison of core-hole treatments"  
     **Y. Fujikata**, Y. Muramatsu, and **T. Mizoguchi**  
-    *J. Chem. Phys., in press*, [**arxiv**](https://arxiv.org/abs/2602.17020)  
-
-1.  "Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets"  
-    *Pol Benítez*, Cibrán López, Edgardo Saucedo, **Teruyasu Mizoguchi**, Claudio Cazorla,  
-    *Adv. Intell. Disc.*, 2 (2026) e202500229-1-11 [**arxiv**](https://arxiv.org/abs/2511.15222)
-
-1.  "Effect of uniaxial compressive stress on polarization switching and domain wall formation in tetragonal phase BaTiO3 via machine learning potential"  
-    **P. Y. Chen** and **T. Mizoguchi**  
-    *Materials & Design*, 265 (2026) 115851-1-10 [**arxiv**](https://arxiv.org/abs/2601.12914)
-
-1.  "Systematic Correction of Core-Loss Spectra via Machine Learning: Bridging the Gap between Simulated and Experimental Spectra"  
-    **Y. Wang, Y. Fujikata, L. Wong**, Y. Muramatsu, and **T. Mizoguchi**,  
-    *Ultramicroscopy*, 283 (2026) 114336-1-10 [**here**](https://www.sciencedirect.com/science/article/pii/S030439912600029X)
+    *J. Chem. Phys.*, in press, [**arxiv**](https://arxiv.org/abs/2602.17020)  
 
 1.  "LDA-Based Machine Learning Force Field for Accurate Electric-Field-Driven Ferroelectric Response in BaTiO3"  
     **R. Sahashi, P. Y. Chen**, and **T. Mizoguchi**,  
     *J. Ceram. Soc. Jpn.*, (2026) in press.
 
+1.  "Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets"  
+    **Pol Benítez**, Cibrán López, Edgardo Saucedo, **Teruyasu Mizoguchi**, Claudio Cazorla,  
+    *Adv. Intell. Disc.*, 2 (2026) e202500229-1-11 [**arxiv**](https://arxiv.org/abs/2511.15222)
+
+1.  "Effect of uniaxial compressive stress on polarization switching and domain wall formation in tetragonal phase BaTiO3 via machine learning potential"  
+    **P. Y. Chen** and **T. Mizoguchi**  
+    *Materials & Design*, 265 (2026) 115851 [**arxiv**](https://arxiv.org/abs/2601.12914)
+
+1.  "Systematic Correction of Core-Loss Spectra via Machine Learning: Bridging the Gap between Simulated and Experimental Spectra"  
+    **Y. Wang, Y. Fujikata, L. Wong**, Y. Muramatsu, and **T. Mizoguchi**,  
+    *Ultramicroscopy*, 283 (2026) 114336-1-10 [**here**](https://www.sciencedirect.com/science/article/pii/S030439912600029X)
+
 1.  "Machine Learning-Based XANES Analysis for Predicting the Local Structure and Valence in Amorphous Silicon Suboxides"  
      **Y. Fujikata**, **T. Mizoguchi**, and H. Sugisawa  
     *Physical Chemistry Chemical Physics*, 28 (2026) 3682.
+
+1.  *Invited Review:* "Data-Driven ELNES/XANES Analysis: Predicting Spectra, Unveiling Structures, and Quantifying Properties"  
+     **T. Mizoguchi**  
+    *Microscopy*, 75, (2026) 164-184.  DOI:10.1093/jmicro/dfaf038, [**here**](https://doi.org/10.1093/jmicro/dfaf038)  
 
     **— 2025 —**  
 
@@ -125,15 +129,11 @@ draft: false
 
 1.  "Charge Disproportionation at Twisted SrTiO3 Bilayer Interface Driven by Local Atomic Registry"  
      Min-Su Kim, Kyoungjun Lee, Ryo Ishikawa, Kyung Song, Naafis Ahnaf Shahed, Kitae Eom, Mark Rzchowski, Evgeny Y Tsymbal, Naoya Shibata, **Teruyasu Mizoguchi**, Chang-Beom Eom, Si-Young Choi  
-    *ACS Nano*, 19 (2025) 39714-39724.
+    *ACS Nano*, 19 (2025) 39714-39724. [**here**](https://pubs.acs.org/doi/10.1021/acsnano.5c11685)
 
 1.    *Invited Review:* "A Review of Simulation, Characterization, and Informatics in Inorganic Materials"  
      **T. Mizoguchi**   
     *J. Ceram. Soc. Jpn*, 133, (2025) 713-734.  [**here**](https://www.jstage.jst.go.jp/article/jcersj2/133/12/133_25121/_article)
-
-1.  *Invited Review:* "Data-Driven ELNES/XANES Analysis: Predicting Spectra, Unveiling Structures, and Quantifying Properties"  
-     **T. Mizoguchi**  
-    *Microscopy*, 2025 in press.  DOI:10.1093/jmicro/dfaf038, [**here**](https://doi.org/10.1093/jmicro/dfaf038)  
 
 1.  "Application of CASTEP Code to the Simulation of Soft X-ray Emission Spectra of Light Element Materials"  
      M. Niibe, T. Nakashima, Y. Saito, Y. Ando, **T. Mizoguchi**, and I. Matsuda  

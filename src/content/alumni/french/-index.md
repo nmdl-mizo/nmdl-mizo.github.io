@@ -6,6 +6,12 @@ image: "/images/content-2.png"
 draft: false
 ---
 
+##### 2026
+
+<img src="/images/mem/pol.png" style="width:1.44in;height:1.94in" />
+
+**D: Pol Benítez Colominas (Universitat Politècnica de Catalunya)**
+
 ##### 2025
 
 <img src="/images/mem/image8.png" style="width:1.61667in;height:2.08333in"  />

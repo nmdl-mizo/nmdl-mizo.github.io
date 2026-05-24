@@ -6,9 +6,15 @@ image: "/images/content-2.png"
 draft: false
 ---
 
-##### 2025
+##### 2026
 
-<img src="/images/mem/image8.png" style="width:1.61667in;height:2.08333in"  />
+<img src="/images/mem/pol.png" style="width:1.44in;height:1.94in" />
+
+**D: Pol Benítez Colominas (Universitat Politècnica de Catalunya)**
+
+<img src="/images/mem/image8.png" style="width:1.61667in;height:2.08333in"  />  
+
+##### 2025
 
 **D: Naoto Kawaguchi（川口 直登）**
 <br>層間化合物のデータベース構築と新物質探索という新しいテーマに取り組んでくれました．また，社会人博士として様々な場面で研究室の活動をサポートしてくれました．
