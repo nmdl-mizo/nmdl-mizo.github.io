@@ -8,6 +8,11 @@ testimonials:
   - name: "2026, May."
     designation: ""
     avatar: ""
+    content: "仙台で行われた日本顕微鏡学会学術講演会で学生が発表しました．<u>[こちら](https://x.com/nmdl_mizo/status/2061675736260542757)</u>"
+
+  - name: "2026, May."
+    designation: ""
+    avatar: ""
     content: "ScAlNのドメインスイッチメカニズムにおける構造・結合効果に関する研究成果が APL mateiralsに掲載決定しました．"
 
   - name: "2026, May."

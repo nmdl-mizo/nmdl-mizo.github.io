@@ -8,6 +8,11 @@ testimonials:
   - name: "2026, May."
     designation: ""
     avatar: ""
+    content: "Excellent presentations by our students in JSM2026@Sendai!!<u>[Here](https://x.com/nmdl_mizo/status/2061675736260542757)</u>"
+
+  - name: "2026, May."
+    designation: ""
+    avatar: ""
     content: "A research paper on decoupling structural and bonding effects in the domain dynamics of ScAlN was accepted for publication in APL Materials"
 
   - name: "2026, May."

@@ -19,6 +19,10 @@ draft: false
 1.  L. Cojocaru, ..., **T. Mizoguchi**, ..., H. Segawa  
     submitted
 
+1.  **P. Y. Chen** and **T. Mizoguchi**  
+    "Transition from Homogeneous to Domain-Wall-Mediated Polarization Switching in BaTiO3: A Machine-Learning Molecular Dynamics Study"  
+    submitted [**arxiv**](https://arxiv.org/abs/2605.25485)
+
 1.  **S. Ozawa**, **I. Takahara**, and **T. Mizoguchi**  
     "Scale-Dependent Input Representation and Confidence Estimation for LLMs in Materials Property Prediction"  
     submitted   [**arxiv**](https://arxiv.org/abs/2605.03515)
