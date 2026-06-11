@@ -5,6 +5,11 @@ description: "<b><u> [Previous News](/en/news)<br> [Linkdin](https://www.linkedi
 
 # Testimonials
 testimonials:
+  - name: "2026, June."
+    designation: ""
+    avatar: ""
+    content: "Thank you for joing exciting events, Open Campus and Open Lab.! <u>[Here](https://x.com/nmdl_mizo/status/2063807830633971969)</u> and <u>[Here](https://x.com/nmdl_mizo/status/2064931181456703911)</u>"
+
   - name: "2026, May."
     designation: ""
     avatar: ""
@@ -39,5 +44,10 @@ testimonials:
     designation: ""
     avatar: ""
     content: "Welcome 5 new members! (4 students and one resarcher)!Let’s work together to create exciting research!!<u>[Here](https://www.sciencedirect.com/science/article/pii/S030439912600029X)</u>"
+
+  - name: "2026, Lab. NEWS"
+    designation: ""
+    avatar: ""
+    content: "     "
 
 ---

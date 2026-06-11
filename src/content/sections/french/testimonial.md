@@ -5,6 +5,11 @@ description: "<b><u> [過去のニュース](/news) <br>[Linkdin](https://www.li
 
 # Testimonials
 testimonials:
+  - name: "2026, June."
+    designation: ""
+    avatar: ""
+    content: "駒場リサーチキャンパス公開および研究室公開を実施しました．たくさんの方々にご来訪いただきました．<u>[こちら](https://x.com/nmdl_mizo/status/2063807830633971969)</u>と<u>[こちら](https://x.com/nmdl_mizo/status/2064931181456703911)</u>"
+
   - name: "2026, May."
     designation: ""
     avatar: ""
@@ -39,6 +44,11 @@ testimonials:
     designation: ""
     avatar: ""
     content: "2026年度がスタートしました．新メンバーの歓迎会を実施しました．<u>[こちら](https://x.com/nmdl_mizo/status/2039905083568320714)</u>"
+
+  - name: "2026, Lab. NEWS"
+    designation: ""
+    avatar: ""
+    content: "     "
 
  
 ---

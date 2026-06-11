@@ -57,9 +57,6 @@ draft: false
     "Origin of Reduced Coercive Field in ScAlN: Synergy of Structural Softening and Dynamic Atomic Correlations"  
     submitted, (dynamic softening) [**arxiv**](https://arxiv.org/abs/2603.18710)
 
-1.  **T. Mizoguchi**, **P. Y. Chen**, **I. Takahara**, **R. Okubo**, and **Y. Fujikata**  
-    submitted, [topical review]
-
 1.  H.K. Moberg, **T. Mizoguchi**, ...., and A. Hellman  
     submitted
 
@@ -89,13 +86,17 @@ draft: false
 
     **— 2026 —**  
 
-1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
-    "Decoupling structural and bonding effects on ferroelectric switching in ScAlN via molecular dynamics under an applied electric field"  
-    *APL Materials*, in press,  [**arxiv**](https://arxiv.org/abs/2603.14747)
+1.  *Topical Review:* "Inverse Analysis of Near-edge Spectra: Toward the Prediction of Chemical Bonding and Atomic Structure"  
+     **T. Mizoguchi**, **P. Y. Chen**, **I. Takahara**, **R. Okubo**, and **Y. Fujikata**  
+    *J. Phys.:Cond. Matter*, (2026) in press 
+
+1.  "Decoupling structural and bonding effects on ferroelectric switching in ScAlN via molecular dynamics under an applied electric field"  
+     **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
+     *APL Materials*, (2026) in press,  [**arxiv**](https://arxiv.org/abs/2603.14747)
 
 1.  "Finite-size effects and energy alignment in molecular XANES under periodic boundary conditions: A systematic comparison of core-hole treatments"  
     **Y. Fujikata**, Y. Muramatsu, and **T. Mizoguchi**  
-    *J. Chem. Phys.*, in press, [**arxiv**](https://arxiv.org/abs/2602.17020)  
+    *J. Chem. Phys.*, (2026) in press, [**arxiv**](https://arxiv.org/abs/2602.17020)  
 
 1.  "LDA-Based Machine Learning Force Field for Accurate Electric-Field-Driven Ferroelectric Response in BaTiO3"  
     **R. Sahashi, P. Y. Chen**, and **T. Mizoguchi**,  
