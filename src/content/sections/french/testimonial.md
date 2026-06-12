@@ -8,6 +8,16 @@ testimonials:
   - name: "2026, June."
     designation: ""
     avatar: ""
+    content: "MLIPを用いた強誘電体シミューレションにおける長距離相互作用(Long-range interaction)に関して調査した研究成果が APL Machine Learningに掲載決定しました．"
+
+  - name: "2026, June."
+    designation: ""
+    avatar: ""
+    content: "XANES/ELNESスペクトルの逆解析（inverse analysis）に関するTopical ReviewがJ. Phys.: Cond. Matterに掲載決定しました．"
+
+  - name: "2026, June."
+    designation: ""
+    avatar: ""
     content: "駒場リサーチキャンパス公開および研究室公開を実施しました．たくさんの方々にご来訪いただきました．<u>[こちら](https://x.com/nmdl_mizo/status/2063807830633971969)</u>と<u>[こちら](https://x.com/nmdl_mizo/status/2064931181456703911)</u>"
 
   - name: "2026, May."

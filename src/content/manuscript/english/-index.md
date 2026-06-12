@@ -49,10 +49,6 @@ draft: false
     "Twist-Angle Engineering of Moiré Potentials for High-Performance Ionics in Bilayer Graphene"  
     submitted [**arxiv**](https://arxiv.org/abs/2603.27453)
 
-1.  **P. Y. Chen** and **T. Mizoguchi**  
-    "Long-range interaction effects on the phase transition, mechanical effect, and electric field response of BaTiO3 by machine learning potentials"  
-    submitted [**arxiv**](https://arxiv.org/abs/2603.29198)
-
 1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
     "Origin of Reduced Coercive Field in ScAlN: Synergy of Structural Softening and Dynamic Atomic Correlations"  
     submitted, (dynamic softening) [**arxiv**](https://arxiv.org/abs/2603.18710)
@@ -85,6 +81,10 @@ draft: false
     submitted, [**arxiv**](https://arxiv.org/abs/2511.09976)
 
     **— 2026 —**  
+
+1.  "Long-range interaction effects on the phase transition, mechanical effect, and electric field response of BaTiO3 by machine learning potentials"  
+    **P. Y. Chen** and **T. Mizoguchi**  
+    *APL Mach. Lear.* (2026) in press [**arxiv**](https://arxiv.org/abs/2603.29198)
 
 1.  *Topical Review:* "Inverse Analysis of Near-edge Spectra: Toward the Prediction of Chemical Bonding and Atomic Structure"  
      **T. Mizoguchi**, **P. Y. Chen**, **I. Takahara**, **R. Okubo**, and **Y. Fujikata**  

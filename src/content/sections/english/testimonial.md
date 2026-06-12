@@ -8,6 +8,16 @@ testimonials:
   - name: "2026, June."
     designation: ""
     avatar: ""
+    content: "A research paper on effects of long-range interaction for MLIP simulation of ferroelectric materials was accepted for publicatoin in APL Machine Learning"
+
+  - name: "2026, June."
+    designation: ""
+    avatar: ""
+    content: "A topical review on inverse analysis of near-edge spectra was accepted for publication in J. Phys.: Cond. Matter"
+
+  - name: "2026, June."
+    designation: ""
+    avatar: ""
     content: "Thank you for joing exciting events, Open Campus and Open Lab.! <u>[Here](https://x.com/nmdl_mizo/status/2063807830633971969)</u> and <u>[Here](https://x.com/nmdl_mizo/status/2064931181456703911)</u>"
 
   - name: "2026, May."
