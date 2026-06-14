@@ -76,11 +76,11 @@ draft: false
      "Roadmap on Advancements of the FHI-aims Software Package"  
     FHI-aims, submitted, [**arxiv**](https://arxiv.org/abs/2505.00125)
 
-1.  **P. Y. Chen** and **T. Mizoguchi**  
-    "Electric Field-Induced Phase Transitions and Hysteresis in Ferroelectric HfO2 Captured with Machine Learning Potential"  
-    submitted, [**arxiv**](https://arxiv.org/abs/2511.09976)
-
     **— 2026 —**  
+
+1.   "Electric Field-Induced Phase Transitions and Hysteresis in Ferroelectric HfO2 Captured with Machine Learning Potential"  
+     **P. Y. Chen** and **T. Mizoguchi**  
+    *Materials Today Electronics* (2026) in press, [**arxiv**](https://arxiv.org/abs/2511.09976)
 
 1.  "Long-range interaction effects on the phase transition, mechanical effect, and electric field response of BaTiO3 by machine learning potentials"  
     **P. Y. Chen** and **T. Mizoguchi**  

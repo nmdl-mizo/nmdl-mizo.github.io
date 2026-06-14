@@ -8,6 +8,11 @@ testimonials:
   - name: "2026, June."
     designation: ""
     avatar: ""
+    content: "電場印可MLIP手法の開発とHfO2への応用に関する研究成果がMaterials Today Electronicsに掲載決定しました．"
+
+  - name: "2026, June."
+    designation: ""
+    avatar: ""
     content: "MLIPを用いた強誘電体シミューレションにおける長距離相互作用(Long-range interaction)に関して調査した研究成果が APL Machine Learningに掲載決定しました．"
 
   - name: "2026, June."

@@ -8,6 +8,11 @@ testimonials:
   - name: "2026, June."
     designation: ""
     avatar: ""
+    content: "A research paper on developping electric-field induced MLIP MD simulation and an applicationin to HfO2 was accepted for publication in Materials Today Electronics"
+
+  - name: "2026, June."
+    designation: ""
+    avatar: ""
     content: "A research paper on effects of long-range interaction for MLIP simulation of ferroelectric materials was accepted for publicatoin in APL Machine Learning"
 
   - name: "2026, June."
