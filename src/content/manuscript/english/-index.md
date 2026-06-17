@@ -75,7 +75,7 @@ draft: false
 
     **— 2026 —**  
 
-1.  "Unraveling the Impact of Interface Modification on Perovskite Microstructure and Photovoltaic Efficiency"
+1.  "Unraveling the Impact of Interface Modification on Perovskite Microstructure and Photovoltaic Efficiency"  
      S. Takahashi, H. Tamegai, **T. Mizoguchi**, S. Uchida, and H. Segawa  
     *ACS Appl. Mater. & Inter.* (2026) in press.
 
