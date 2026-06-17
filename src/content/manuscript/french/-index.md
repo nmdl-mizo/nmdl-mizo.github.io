@@ -38,9 +38,6 @@ draft: false
 1.  **YR. Jin**, **T. Mizoguchi**, and J. Lee  
     submitted
 
-1.  S. Takahashi, H. Tamegai, **T. Mizoguchi**, S. Uchida, and H. Segawa  
-    submitted
-
 1.  **Y. Wang**, A. Varadwaj, **T. Mizoguchi**, and M. Kotsugi  
     "Decoding Dopant-Induced Electronic Modulation in Graphene via Region-Resolved Machine Learning of XANES"  
     submitted  [**arxiv**](https://arxiv.org/abs/2603.29370)
@@ -77,6 +74,10 @@ draft: false
     FHI-aims, submitted, [**arxiv**](https://arxiv.org/abs/2505.00125)
 
     **— 2026 —**  
+
+1.  "Unraveling the Impact of Interface Modification on Perovskite Microstructure and Photovoltaic Efficiency"
+     S. Takahashi, H. Tamegai, **T. Mizoguchi**, S. Uchida, and H. Segawa  
+    *ACS Appl. Mater. & Inter.* (2026) in press.
 
 1.   "Electric Field-Induced Phase Transitions and Hysteresis in Ferroelectric HfO2 Captured with Machine Learning Potential"  
      **P. Y. Chen** and **T. Mizoguchi**  
