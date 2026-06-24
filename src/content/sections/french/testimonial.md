@@ -8,6 +8,11 @@ testimonials:
   - name: "2026, June."
     designation: ""
     avatar: ""
+    content: "モアレを利用したイオニクス材料研究，モアレイオニクス，に関する研究成果がJ. Phys. Chem. Cに掲載決定しました．"
+
+  - name: "2026, June."
+    designation: ""
+    avatar: ""
     content: "電場印可MLIP手法の開発とHfO2への応用に関する研究成果がMaterials Today Electronicsに掲載決定しました．"
 
   - name: "2026, June."

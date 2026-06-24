@@ -7,17 +7,19 @@ draft: false
 ---
  <p align="right"> **Bold** *indicates Mizoguchi Lab. member.* </p>
  
-1.  **Y. Choi**, **T. Sugiura**,......, and **T. Mizoguchi**  
-    under preparation
-
-1.  **K. Miyamoto**, **I. Okuda**, and **T. Mizoguchi**  
+1.  **K. Miyamoto**, **I. Okuda**, **I. Takahara**, and **T. Mizoguchi**  
     under preparation
 
 1.  KY. Liao, ..., **T. Mizoguchi**, ..., K. Suenaga  
     under preparation
 
 1.  L. Cojocaru, ..., **T. Mizoguchi**, ..., H. Segawa  
+    "Surface Cleaning and Trap Passivation of Solution Crystallized AgBiS2 Thin Film for Improved Solar Cell Performance"  
     submitted
+
+1.  **Y. Choi**, **T. Sugiura**,......, and **T. Mizoguchi**  
+    "Intrinsic Defect Energetics and Fluorine Doping Effects in Li2CO3 and Li2O2: A First-Principles Study"  
+    submitted 
 
 1.  **P. Y. Chen** and **T. Mizoguchi**  
     "Transition from Homogeneous to Domain-Wall-Mediated Polarization Switching in BaTiO3: A Machine-Learning Molecular Dynamics Study"  
@@ -35,16 +37,13 @@ draft: false
     "Inverse Materials Design via Joint Generation of Crystal Structures and Local Electronic Descriptors"  
     submitted   [**arxiv**](https://arxiv.org/abs/2605.01286)
 
-1.  **YR. Jin**, **T. Mizoguchi**, and J. Lee  
+1.  **YR. Jin**, J. Lee, and **T. Mizoguchi**   
+    "Learning Unfolded Band Structures from Spectra"  
     submitted
 
 1.  **Y. Wang**, A. Varadwaj, **T. Mizoguchi**, and M. Kotsugi  
     "Decoding Dopant-Induced Electronic Modulation in Graphene via Region-Resolved Machine Learning of XANES"  
     submitted  [**arxiv**](https://arxiv.org/abs/2603.29370)
-
-1.  **G. Fukuzawa**, **Y. Lee**, and **T. Mizoguchi**  
-    "Twist-Angle Engineering of Moiré Potentials for High-Performance Ionics in Bilayer Graphene"  
-    submitted [**arxiv**](https://arxiv.org/abs/2603.27453)
 
 1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
     "Origin of Reduced Coercive Field in ScAlN: Synergy of Structural Softening and Dynamic Atomic Correlations"  
@@ -75,6 +74,10 @@ draft: false
 
     **— 2026 —**  
 
+1.   "Twist-Angle Engineering of Moiré Potentials for High-Performance Ionics in Bilayer Graphene"  
+     **G. Fukuzawa**, **Y. Lee**, and **T. Mizoguchi**  
+    *J. Phys. Chem. C*, (2026)  in press [**arxiv**](https://arxiv.org/abs/2603.27453)
+
 1.  "Unraveling the Impact of Interface Modification on Perovskite Microstructure and Photovoltaic Efficiency"  
      S. Takahashi, H. Tamegai, **T. Mizoguchi**, S. Uchida, and H. Segawa  
     *ACS Appl. Mater. & Inter.* (2026) in press.
@@ -89,15 +92,15 @@ draft: false
 
 1.  *Topical Review:* "Inverse Analysis of Near-edge Spectra: Toward the Prediction of Chemical Bonding and Atomic Structure"  
      **T. Mizoguchi**, **P. Y. Chen**, **I. Takahara**, **R. Okubo**, and **Y. Fujikata**  
-    *J. Phys.:Cond. Matter*, (2026) in press 
+    *J. Phys.:Cond. Matter*, (2026) in press [**here**](https://iopscience.iop.org/article/10.1088/1361-648X/ae7b9e/meta)
 
 1.  "Decoupling structural and bonding effects on ferroelectric switching in ScAlN via molecular dynamics under an applied electric field"  
      **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
-     *APL Materials*, (2026) in press,  [**arxiv**](https://arxiv.org/abs/2603.14747)
+     *APL Materials*, 14 (2026) 061104-1-9,  [**here**](https://pubs.aip.org/aip/apm/article/14/6/061104/3393750/Decoupling-structural-and-bonding-effects-on)
 
 1.  "Finite-size effects and energy alignment in molecular XANES under periodic boundary conditions: A systematic comparison of core-hole treatments"  
     **Y. Fujikata**, Y. Muramatsu, and **T. Mizoguchi**  
-    *J. Chem. Phys.*, (2026) in press, [**arxiv**](https://arxiv.org/abs/2602.17020)  
+    *J. Chem. Phys.*, 164 (2026) 214112-1-12, [**here**](https://pubs.aip.org/aip/jcp/article/164/21/214112/3393756/Finite-size-effects-and-energy-alignment-in)  
 
 1.  "LDA-Based Machine Learning Force Field for Accurate Electric-Field-Driven Ferroelectric Response in BaTiO3"  
     **R. Sahashi, P. Y. Chen**, and **T. Mizoguchi**,  
