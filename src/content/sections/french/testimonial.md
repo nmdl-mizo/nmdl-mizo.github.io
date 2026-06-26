@@ -13,12 +13,12 @@ testimonials:
   - name: "2026, June."
     designation: ""
     avatar: ""
-    content: "電場印可MLIP手法の開発とHfO2への応用に関する研究成果がMaterials Today Electronicsに掲載決定しました．"
+    content: "電場印可MLIP手法の開発とHfO2への応用に関する研究成果がMaterials Today Electronicsに掲載されました．"
 
   - name: "2026, June."
     designation: ""
     avatar: ""
-    content: "MLIPを用いた強誘電体シミューレションにおける長距離相互作用(Long-range interaction)に関して調査した研究成果が APL Machine Learningに掲載決定しました．"
+    content: "MLIPを用いた強誘電体シミューレションにおける長距離相互作用(Long-range interaction)に関して調査した研究成果が APL Machine Learningに掲載されました．"
 
   - name: "2026, June."
     designation: ""
@@ -38,12 +38,12 @@ testimonials:
   - name: "2026, May."
     designation: ""
     avatar: ""
-    content: "ScAlNのドメインスイッチメカニズムにおける構造・結合効果に関する研究成果が APL mateiralsに掲載決定しました．"
+    content: "ScAlNのドメインスイッチメカニズムにおける構造・結合効果に関する研究成果が APL mateiralsに掲載されました．"
 
   - name: "2026, May."
     designation: ""
     avatar: ""
-    content: "有機分子のELNES計算における内殻空孔効果のスーパーセルサイズ依存性に関する研究がJ. Chem. Phys.に掲載決定しました．"
+    content: "有機分子のELNES計算における内殻空孔効果のスーパーセルサイズ依存性に関する研究がJ. Chem. Phys.に掲載されました．"
 
   - name: "2026, May."
     designation: ""

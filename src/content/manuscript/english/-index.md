@@ -19,11 +19,11 @@ draft: false
 
 1.  **Y. Choi**, **T. Sugiura**,......, and **T. Mizoguchi**  
     "Intrinsic Defect Energetics and Fluorine Doping Effects in Li2CO3 and Li2O2: A First-Principles Study"  
-    submitted 
+    submitted [**arxiv**](https://arxiv.org/abs/2606.25408)  
 
 1.  **P. Y. Chen** and **T. Mizoguchi**  
     "Transition from Homogeneous to Domain-Wall-Mediated Polarization Switching in BaTiO3: A Machine-Learning Molecular Dynamics Study"  
-    submitted [**arxiv**](https://arxiv.org/abs/2605.25485)
+    submitted [**arxiv**](https://arxiv.org/abs/2605.25485)  
 
 1.  **S. Ozawa**, **I. Takahara**, and **T. Mizoguchi**  
     "Scale-Dependent Input Representation and Confidence Estimation for LLMs in Materials Property Prediction"  
@@ -84,7 +84,7 @@ draft: false
 
 1.   "Electric Field-Induced Phase Transitions and Hysteresis in Ferroelectric HfO2 Captured with Machine Learning Potential"  
      **P. Y. Chen** and **T. Mizoguchi**  
-    *Materials Today Electronics* (2026) in press, [**arxiv**](https://arxiv.org/abs/2511.09976)
+    *Materials Today Electronics* 17 (2026) 100228-1-9, [**here**](https://www.sciencedirect.com/science/article/pii/S2772949426000331?via%3Dihub)
 
 1.  "Long-range interaction effects on the phase transition, mechanical effect, and electric field response of BaTiO3 by machine learning potentials"  
     **P. Y. Chen** and **T. Mizoguchi**  
