@@ -8,7 +8,7 @@ testimonials:
   - name: "2026, June."
     designation: ""
     avatar: ""
-    content: "Our manuscript on "Moire ionics", namely application of moire structure made by 2-layer graphene for fast ionic migration, was accepted for publication in J. Phys. Chem. C"
+    content: "Our manuscript on <b>Moire ionics</b>, namely application of moire structure made by 2-layer graphene for fast ionic migration, was accepted for publication in J. Phys. Chem. C"
 
   - name: "2026, June."
     designation: ""
