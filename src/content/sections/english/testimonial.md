@@ -5,6 +5,16 @@ description: "<b><u> [Previous News](/en/news)<br> [Linkdin](https://www.linkedi
 
 # Testimonials
 testimonials:
+  - name: "2026, July."
+    designation: ""
+    avatar: ""
+    content: "A collaboration research paper on Li-vacancy phase transition in Li2O2 was accepted for publication in J. Phys. Chem. C"
+
+  - name: "2026, June."
+    designation: ""
+    avatar: ""
+    content: "A big-collaboration research paper on FHI-aims code was accepted for publication in Electronic Structure"
+
   - name: "2026, June."
     designation: ""
     avatar: ""

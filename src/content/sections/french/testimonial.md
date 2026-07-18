@@ -5,6 +5,16 @@ description: "<b><u> [過去のニュース](/news) <br>[Linkdin](https://www.li
 
 # Testimonials
 testimonials:
+  - name: "2026, July."
+    designation: ""
+    avatar: ""
+    content: "Li2O2におけるLi空孔駆動相転移に関する大阪大学，東京電機大学との共同研究成果がJ. Phys. Chem. Cに掲載決定しました．"
+
+  - name: "2026, June."
+    designation: ""
+    avatar: ""
+    content: "DFTコードFHI-aims code開発に関する国際共同研究成果Electronic Structureに掲載決定しました．"
+
   - name: "2026, June."
     designation: ""
     avatar: ""

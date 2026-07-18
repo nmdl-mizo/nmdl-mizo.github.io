@@ -10,8 +10,14 @@ draft: false
 1.  **K. Miyamoto**, **I. Okuda**, **I. Takahara**, and **T. Mizoguchi**  
     under preparation
 
+1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
+    under preparation
+
 1.  KY. Liao, ..., **T. Mizoguchi**, ..., K. Suenaga  
     under preparation
+
+1.  **L. Wong**, **Y. R. Jin**, and **T. Mizoguchi**  
+    submitted
 
 1.  L. Cojocaru, ..., **T. Mizoguchi**, ..., H. Segawa  
     "Surface Cleaning and Trap Passivation of Solution Crystallized AgBiS2 Thin Film for Improved Solar Cell Performance"  
@@ -60,19 +66,11 @@ draft: false
     "Achieving Robust Extrapolation in Materials Property Prediction via Decoupled Transfer Learning"  
     submitted, [**arxiv**](https://arxiv.org/abs/2602.18054)
 
-1.  N. Ishihara,...**T. Sugiura**, **T. Mizoguchi**, and S. Nakanishi  
-    "Vacancy-Driven Phase Separation Governs Li+ Transport Degradation in Li2−xO2 : A Computational Study Relevant to Li–O2 Batteries"  
-    submitted, [**Chemrxiv**](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000496/v1)
-
-1.  H. Zhang,... **I. Takahara**, **T. Mizoguchi**,..., B. Liu,  
-    "Towards Agentic Intelligence for Materials Science"  
-    submitted, [**arxiv**](https://arxiv.org/abs/2602.00169)
-
-1.  J. W. Abbott,... **I. Takahara**, **K. Shibata**, **T. Mizoguchi**, et al.,  
-     "Roadmap on Advancements of the FHI-aims Software Package"  
-    FHI-aims, submitted, [**arxiv**](https://arxiv.org/abs/2505.00125)
-
     **— 2026 —**  
+
+1.   "Vacancy-Driven Phase Separation Governs Li+ Transport Degradation in Li2−xO2 : A Computational Study Relevant to Li–O2 Batteries"  
+     N. Ishihara,K. Nagita, **T. Sugiura**, Y. Mukoyama, **T. Mizoguchi**, and S. Nakanishi  
+    *J. Phys. Chem. C*, (2026) in press [**Chemrxiv**](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000496/v1)
 
 1.   "Twist-Angle Engineering of Moiré Potentials for High-Performance Ionics in Bilayer Graphene"  
      **G. Fukuzawa**, **Y. Lee**, and **T. Mizoguchi**  
@@ -82,17 +80,21 @@ draft: false
      S. Takahashi, H. Tamegai, **T. Mizoguchi**, S. Uchida, and H. Segawa  
     *ACS Appl. Mater. & Inter.* (2026) in press.
 
+1.  *Topical Review:* "Inverse Analysis of Near-edge Spectra: Toward the Prediction of Chemical Bonding and Atomic Structure"  
+     **T. Mizoguchi**, **P. Y. Chen**, **I. Takahara**, **R. Okubo**, and **Y. Fujikata**  
+    *J. Phys.:Cond. Matter*, (2026) in press [**here**](https://iopscience.iop.org/article/10.1088/1361-648X/ae7b9e/meta)
+
+1.   "Roadmap on Advancements of the FHI-aims Software Package"  
+     J. W. Abbott,... **I. Takahara**, **K. Shibata**, **T. Mizoguchi**, et al.,  
+    *Electronic Structure*, (2026), in press, [**here**](https://iopscience.iop.org/article/10.1088/2516-1075/ae8067), [**arxiv**](https://arxiv.org/abs/2505.00125)
+
 1.   "Electric Field-Induced Phase Transitions and Hysteresis in Ferroelectric HfO2 Captured with Machine Learning Potential"  
      **P. Y. Chen** and **T. Mizoguchi**  
     *Materials Today Electronics* 17 (2026) 100228-1-9, [**here**](https://www.sciencedirect.com/science/article/pii/S2772949426000331?via%3Dihub)
 
 1.  "Long-range interaction effects on the phase transition, mechanical effect, and electric field response of BaTiO3 by machine learning potentials"  
     **P. Y. Chen** and **T. Mizoguchi**  
-    *APL Mach. Lear.* (2026) in press [**arxiv**](https://arxiv.org/abs/2603.29198)
-
-1.  *Topical Review:* "Inverse Analysis of Near-edge Spectra: Toward the Prediction of Chemical Bonding and Atomic Structure"  
-     **T. Mizoguchi**, **P. Y. Chen**, **I. Takahara**, **R. Okubo**, and **Y. Fujikata**  
-    *J. Phys.:Cond. Matter*, (2026) in press [**here**](https://iopscience.iop.org/article/10.1088/1361-648X/ae7b9e/meta)
+    *APL Mach. Lear.* 4 (2026) 036101-1-9 [**here**](https://pubs.aip.org/aip/aml/article/4/3/036101/3397586/Long-range-interaction-effects-on-the-phase) [**arxiv**](https://arxiv.org/abs/2603.29198)
 
 1.  "Decoupling structural and bonding effects on ferroelectric switching in ScAlN via molecular dynamics under an applied electric field"  
      **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
@@ -103,8 +105,13 @@ draft: false
     *J. Chem. Phys.*, 164 (2026) 214112-1-12, [**here**](https://pubs.aip.org/aip/jcp/article/164/21/214112/3393756/Finite-size-effects-and-energy-alignment-in)  
 
 1.  "LDA-Based Machine Learning Force Field for Accurate Electric-Field-Driven Ferroelectric Response in BaTiO3"  
+    **Selected as Editor's Choice** 
     **R. Sahashi, P. Y. Chen**, and **T. Mizoguchi**,  
-    *J. Ceram. Soc. Jpn.*, (2026) in press.
+    *J. Ceram. Soc. Jpn.*, 137 (2026) 431-438, [**here**](https://doi.org/10.2109/jcersj2.25164)
+
+1.  H. Zhang,... **I. Takahara**, **T. Mizoguchi**,..., B. Liu,  
+    "Towards Agentic Intelligence for Materials Science"  
+    arXiv:2602.00169 [**arxiv**](https://arxiv.org/abs/2602.00169)
 
 1.  "Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets"  
     **Pol Benítez**, Cibrán López, Edgardo Saucedo, **Teruyasu Mizoguchi**, Claudio Cazorla,  
