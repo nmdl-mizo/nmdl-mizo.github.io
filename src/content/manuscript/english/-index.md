@@ -10,17 +10,13 @@ draft: false
 1.  **K. Miyamoto**, **I. Okuda**, **I. Takahara**, and **T. Mizoguchi**  
     under preparation
 
-1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
-    under preparation
-
 1.  KY. Liao, ..., **T. Mizoguchi**, ..., K. Suenaga  
     under preparation
 
-1.  **L. Wong**, **Y. R. Jin**, and **T. Mizoguchi**  
+1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
     submitted
 
-1.  L. Cojocaru, ..., **T. Mizoguchi**, ..., H. Segawa  
-    "Surface Cleaning and Trap Passivation of Solution Crystallized AgBiS2 Thin Film for Improved Solar Cell Performance"  
+1.  **L. Wong**, **Y. R. Jin**, and **T. Mizoguchi**  
     submitted
 
 1.  **Y. Choi**, **T. Sugiura**,......, and **T. Mizoguchi**  
@@ -68,17 +64,21 @@ draft: false
 
     **— 2026 —**  
 
+1.  "Surface Cleaning and Trap Passivation of Solution Crystallized AgBiS₂ Thin Film for Improved Solar Cell Performance"
+     L. Cojocaru, A. Jena, H. Tamegai, M. Kamiko, **T. Mizoguchi**, T. Kubo, S. Uchida, H. Segawa  
+    *ACS Appl. Ene. Mater.*, (2026) in press
+
 1.   "Vacancy-Driven Phase Separation Governs Li+ Transport Degradation in Li2−xO2 : A Computational Study Relevant to Li–O2 Batteries"  
      N. Ishihara,K. Nagita, **T. Sugiura**, Y. Mukoyama, **T. Mizoguchi**, and S. Nakanishi  
     *J. Phys. Chem. C*, (2026) in press [**Chemrxiv**](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000496/v1)
 
 1.   "Twist-Angle Engineering of Moiré Potentials for High-Performance Ionics in Bilayer Graphene"  
      **G. Fukuzawa**, **Y. Lee**, and **T. Mizoguchi**  
-    *J. Phys. Chem. C*, (2026)  in press [**arxiv**](https://arxiv.org/abs/2603.27453)
+    *J. Phys. Chem. C*, 130 (2026) 10142-10151 [**here**](https://pubs.acs.org/jpccck/article/130/29/10142/5208798/Twist-Angle-Engineering-of-Moire-Potentials-for), [**arxiv**](https://arxiv.org/abs/2603.27453)
 
 1.  "Unraveling the Impact of Interface Modification on Perovskite Microstructure and Photovoltaic Efficiency"  
      S. Takahashi, H. Tamegai, **T. Mizoguchi**, S. Uchida, and H. Segawa  
-    *ACS Appl. Mater. & Inter.* (2026) in press.
+    *ACS Appl. Mater. & Inter.* 18 (2026) 38748-38755 [**here**](https://pubs.acs.org/aamick/article/18/28/38748/5169322/Unraveling-the-Impact-of-Interface-Modification-on), [**Front Cover!!**](https://pubs.acs.org/aamick/issue/18/28)  
 
 1.  *Topical Review:* "Inverse Analysis of Near-edge Spectra: Toward the Prediction of Chemical Bonding and Atomic Structure"  
      **T. Mizoguchi**, **P. Y. Chen**, **I. Takahara**, **R. Okubo**, and **Y. Fujikata**  
