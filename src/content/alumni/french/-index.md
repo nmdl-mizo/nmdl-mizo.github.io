@@ -226,7 +226,7 @@ draft: false
 <img src="/images/alumni/image29.jpeg" style="width:2.05833in;height:2.57292in"  />
 
 **研究員**
-**Resarcher, Shiro Otsuki (大槻 史郎)**  
+**Researcher, Shiro Otsuki (大槻 史郎)**  
 <br> (2010/April ~ 2012/April)
 
 ##### 2011
