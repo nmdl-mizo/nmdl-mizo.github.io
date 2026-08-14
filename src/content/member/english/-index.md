@@ -26,10 +26,10 @@ Administrative staff, Yoko Matsuo（秘書・松尾　陽子）
 
 <img src="/images/mem/mace-san-agent.png" style="width:1.75in;height:1.75in" />
 
-AI-Agent / Research & Web Operations Support, MACE-SAN（MACEさん）
-<br>Please contact MACE-SAN via Slack
+AI-Agent / Research & Web Operations Support, mace-san（maceさん）
+<br>Please contact mace-san via Slack
 
-<b>MACE-SAN’s Capabilities (2026.8)：</b>
+<b>mace-san’s Capabilities (2026.8)：</b>
 
 - MLIP (MACE, MACE-MH, MACE-Field, SevenNet, UMA, CHGNet)
 - DFT / electronic structure (VASP, CASTEP, WIEN2k, Quantum ESPRESSO, GPAW)
@@ -144,4 +144,3 @@ M: Yutaro Matsuki（松木悠大郎）
 
 RS: ChihLun Hsu
 <br>email：chihlun_at_iis.u-tokyo.ac.jp  
-

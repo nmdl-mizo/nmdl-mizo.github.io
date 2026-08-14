@@ -8,7 +8,7 @@ testimonials:
   - name: "2026, Aug."
     designation: ""
     avatar: ""
-    content: "New member joined!? Our member roster now includes the experimental AI-Agent <b>MACE-SAN</b>. <u>[Meet MACE-SAN](/en/member)</u>"
+    content: "New member joined!? Our member roster now includes the experimental AI-Agent <b>mace-san</b>. <u>[Meet mace-san](/en/member)</u>"
 
   - name: "2026, Aug."
     designation: ""
