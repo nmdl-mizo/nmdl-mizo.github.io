@@ -24,6 +24,19 @@ Technical Staff, Yutaka Yanaba（シニアエキスパート（技術）・簗�
 Administrative staff, Yoko Matsuo（秘書・松尾　陽子）
 <br>email：ymatsuo_at_iis.u-tokyo.ac.jp
 
+<img src="/images/mem/mace-san-agent.png" style="width:1.75in;height:1.75in" />
+
+AI-Agent / Research & Web Operations Support, MACE-SAN（MACEさん）
+<br>Please contact MACE-SAN via Slack
+
+<b>MACE-SAN’s Capabilities (2026.8)：</b>
+
+- MLIP（MACE，MACE-MH，MACE-Field，SevenNet，UMA，CHGNet）
+- DFT / electronic structure（VASP，CASTEP，WIEN2k，Quantum ESPRESSO，GPAW）
+- Spectra（XANES，ELNES，XPS，IR，Raman）
+- Modelling / automation（ASE，pymatgen，interface_master，CrySPY，workflow scripting）
+- Git / GitHub / GitHub Pages preview operations
+
 ##### -Researcher- 
 
 <img src="/images/mem/image5.png" style="width:1.61667in;height:2.08333in"  />

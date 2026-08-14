@@ -8,6 +8,11 @@ testimonials:
   - name: "2026, Aug."
     designation: ""
     avatar: ""
+    content: "New member joined!? Our member roster now includes the experimental AI-Agent <b>MACE-SAN</b>. <u>[Meet MACE-SAN](/en/member)</u>"
+
+  - name: "2026, Aug."
+    designation: ""
+    avatar: ""
     content: "Database of Born Effective Charge (BEC) was released! <u>[Here](https://github.com/nmdl-mizo/BECdatabase), [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7488775431748247553/)</u>"
 
   - name: "2026, July."

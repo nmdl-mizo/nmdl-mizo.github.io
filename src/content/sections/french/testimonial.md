@@ -8,6 +8,11 @@ testimonials:
   - name: "2026, Aug."
     designation: ""
     avatar: ""
+    content: "新メンバー加入！？ メンバー欄に，実験的 AI-Agent の <b>MACE-SAN</b> が登場しました．<u>[MACE-SAN はこちら](/member)</u>"
+
+  - name: "2026, Aug."
+    designation: ""
+    avatar: ""
     content: "強誘電体材料に関するBorn Effective Charge (BEC)のデータベースを公開しました<u>[こちら](https://github.com/nmdl-mizo/BECdatabase)</u>, [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7488775431748247553/)</u>"
 
   - name: "2026, July."
