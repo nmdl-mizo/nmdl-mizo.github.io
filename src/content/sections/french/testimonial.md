@@ -8,6 +8,11 @@ testimonials:
   - name: "2026, Aug."
     designation: ""
     avatar: ""
+    content: "状態密度（DOS）からバンド構造を生成（unfold）する機械学習手法に関する研究成果が，Digital Discovery誌への掲載が決定しました．"
+
+  - name: "2026, Aug."
+    designation: ""
+    avatar: ""
     content: "新メンバー加入！？ メンバー欄に，実験的 AI-Agent の <b>mace-san</b> が登場しました．<u>[mace-san はこちら](/member)</u>"
 
   - name: "2026, Aug."

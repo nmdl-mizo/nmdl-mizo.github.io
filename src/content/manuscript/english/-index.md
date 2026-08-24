@@ -48,10 +48,6 @@ draft: false
     "Inverse Materials Design via Joint Generation of Crystal Structures and Local Electronic Descriptors"  
     submitted   [**arxiv**](https://arxiv.org/abs/2605.01286)
 
-1.  **YR. Jin**, J. Lee, and **T. Mizoguchi**   
-    "Learning Unfolded Band Structures from Spectra"  
-    submitted
-
 1.  **Y. Wang**, A. Varadwaj, **T. Mizoguchi**, and M. Kotsugi  
     "Decoding Dopant-Induced Electronic Modulation in Graphene via Region-Resolved Machine Learning of XANES"  
     submitted  [**arxiv**](https://arxiv.org/abs/2603.29370)
@@ -72,6 +68,10 @@ draft: false
     submitted, [**arxiv**](https://arxiv.org/abs/2602.18054)
 
     **— 2026 —**  
+
+1.  "Learning Unfolded Band Structures from Spectra"  
+     **YR. Jin**, J. Lee, and **T. Mizoguchi**  
+     *Digital Discovery*, (2026) in press.  
 
 1.  "Surface Cleaning and Trap Passivation of Solution Crystallized AgBiS2 Thin Film for Improved Solar Cell Performance"  
      L. Cojocaru, A. Jena, H. Tamegai, M. Kamiko, **T. Mizoguchi**, T. Kubo, S. Uchida, H. Segawa  

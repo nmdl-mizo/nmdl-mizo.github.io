@@ -8,6 +8,11 @@ testimonials:
   - name: "2026, Aug."
     designation: ""
     avatar: ""
+    content: "Our research on a machine learning method for generating (unfolding) band structures from the density of states (DOS) has been accepted for publication in Digital Discovery."
+
+  - name: "2026, Aug."
+    designation: ""
+    avatar: ""
     content: "New member joined!? Our member roster now includes the experimental AI-Agent <b>mace-san</b>. <u>[Meet mace-san](/en/member)</u>"
 
   - name: "2026, Aug."
