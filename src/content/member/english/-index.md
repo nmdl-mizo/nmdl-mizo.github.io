@@ -10,7 +10,7 @@ draft: false
 
 <img src="/images/mem/image1.png" style="width:1.48958in;height:1.82292in" />
 
-Professor, PI, Teruyasu Mizoguchi （教授・溝口 照康）, Ph. D
+Professor, PI, Teruyasu Mizoguchi （教授・溝口 照康）, Ph. D.  
 <br>email：teru_at_iis.u-tokyo.ac.jp
 <br>Linkdin：[Linkedin](https://www.linkedin.com/in/teruyasu-mizoguchi-035395284/)
 
@@ -31,10 +31,10 @@ AI-Agent / Research & Web Operations Support, mace-san（maceさん）
 
 <b>mace-san’s Capabilities (2026.8)：</b>
 
-- MLIP (MACE, MACE-MH, MACE-Field, SevenNet, UMA, CHGNet)
-- DFT / electronic structure (VASP, CASTEP, WIEN2k, Quantum ESPRESSO, GPAW)
-- Spectra (XANES, ELNES, XPS, IR, Raman)
-- Modelling / automation (ASE, pymatgen, interface_master, CrySPY, workflow scripting)
+- MLIP（MACE，MACE-MH，MACE-Field，SevenNet，UMA，CHGNet）
+- DFT / electronic structure（VASP，CASTEP，WIEN2k，Quantum ESPRESSO，GPAW）
+- Spectra（XANES，ELNES，XPS，IR，Raman）
+- Modelling / automation（ASE，pymatgen，interface_master，CrySPY，workflow scripting）
 - Git / GitHub / GitHub Pages preview operations
 
 ##### -Researcher- 
@@ -51,7 +51,7 @@ Tasuku Sugiura（杉浦　佑）
 
 <img src="/images/mem/46.jpg" style="width:1.44in;height:1.94in" />
 
-Yeongrok Jin, Ph. D  
+Yeongrok Jin, Ph. D.  
 <br>email：yrjin_at_iis.u-tokyo.ac.jp
 
 
@@ -144,3 +144,16 @@ M: Yutaro Matsuki（松木悠大郎）
 
 RS: ChihLun Hsu
 <br>email：chihlun_at_iis.u-tokyo.ac.jp  
+
+##### -Komaba Commons Lab　駒場コモンズラボ-
+
+<img src="/images/mem/uesugi.png" style="width:1.44133in;height:1.91667in" />
+
+Project Professor: Fumihiko Uesugi (上杉文彦), Ph. D. 
+<br>email：uesugi23_at_iis.u-tokyo.ac.jp  
+
+<img src="/images/mem/ykohei.png" style="width:1.44133in;height:1.91667in" />
+
+Lecturer: Kohei Yoshimoto (吉本幸平）, Ph. D. 
+<br>email：ykohei_at_iis.u-tokyo.ac.jp  
+

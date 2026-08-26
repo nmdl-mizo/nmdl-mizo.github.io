@@ -13,6 +13,11 @@ testimonials:
   - name: "2026, Aug."
     designation: ""
     avatar: ""
+    content: "Physical AIを活用した物質計測拠点，<u>[駒場コモンズラボ](https://sites.google.com/g.ecc.u-tokyo.ac.jp/komaba-commons-lab/)</u>所属の協力メンバーを追加しました"
+
+  - name: "2026, Aug."
+    designation: ""
+    avatar: ""
     content: "新メンバー加入！？ メンバー欄に，実験的 AI-Agent の <b>mace-san</b> が登場しました．<u>[mace-san はこちら](/member)</u>"
 
   - name: "2026, Aug."
