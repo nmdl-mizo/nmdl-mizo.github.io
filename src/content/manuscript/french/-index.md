@@ -32,10 +32,6 @@ draft: false
     "Intrinsic Defect Energetics and Fluorine Doping Effects in Li2CO3 and Li2O2: A First-Principles Study"  
     submitted [**arxiv**](https://arxiv.org/abs/2606.25408)  
 
-1.  **P. Y. Chen** and **T. Mizoguchi**  
-    "Transition from Homogeneous to Domain-Wall-Mediated Polarization Switching in BaTiO3: A Machine-Learning Molecular Dynamics Study"  
-    submitted [**arxiv**](https://arxiv.org/abs/2605.25485)  
-
 1.  **S. Ozawa**, **I. Takahara**, and **T. Mizoguchi**  
     "Scale-Dependent Input Representation and Confidence Estimation for LLMs in Materials Property Prediction"  
     submitted   [**arxiv**](https://arxiv.org/abs/2605.03515)
@@ -68,6 +64,10 @@ draft: false
     submitted, [**arxiv**](https://arxiv.org/abs/2602.18054)
 
     **— 2026 —**  
+
+1.  "Transition from Homogeneous to Domain-Wall-Mediated Polarization Switching in BaTiO3: A Machine-Learning Molecular Dynamics Study"  
+     **P. Y. Chen** and **T. Mizoguchi**  
+    *Phys. Rev. B*, (2026) in press. [**arxiv**](https://arxiv.org/abs/2605.25485)  
 
 1.  "Learning Unfolded Band Structures from Spectra"  
      **YR. Jin**, J. Lee, and **T. Mizoguchi**  
