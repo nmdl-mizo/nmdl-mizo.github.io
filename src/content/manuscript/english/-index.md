@@ -13,6 +13,9 @@ draft: false
 1.  KY. Liao, ..., **T. Mizoguchi**, ..., K. Suenaga  
     under preparation
 
+1.  **Pol Benítez**, T. Ouchi, C. Cazorla, and **Teruyasu Mizoguchi**    
+    submitted 
+
 1.  **Y. Wang** and **T. Mizoguchi**  
     "All-Electron Single-Atom Reference Correction for Absolute Transition Energies in Fixed-Reference PAW-XCH Calculations"  
     submitted  [**arxiv**](https://arxiv.org/abs/2608.09216)

@@ -15,7 +15,7 @@ testimonials:
     avatar: ""
     content: "Our research on a machine learning method for generating (unfolding) band structures from the density of states (DOS) has been accepted for publication in Digital Discovery."
 
-- name: "2026, Aug."
+  - name: "2026, Aug."
     designation: ""
     avatar: ""
     content: "Welcome Fumihiko and Kohei from the <u>[Komaba Commons Lab](https://sites.google.com/g.ecc.u-tokyo.ac.jp/komaba-commons-lab/eng_home)</u> as new collaborative members in our Physical AI for Materials research activities!!"
