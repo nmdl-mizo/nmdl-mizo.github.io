@@ -31,6 +31,10 @@ draft: false
     ”***“，
     東京都市大学－生産技術研究所 学術連携シンポジウム，東京都市大学渋谷 PXU，東京，Sep. 30，2026．
 
+1.  **高原泉**, 溝口照康
+    ”大規模言語モデルエージェントに基づく材料設計手法の開発“
+    第50回日本磁気学会学術講演会，東京科学大学大岡山キャンパス，2026年9月3日．
+
 1.  **溝口照康**
     ”AI-Driven Materials Discovery: From Atomistic Simulation to Generative Design“，
     4th JAsCerS Special Symposium 2026 on the Satellite Program of ICC11，札幌，北海道，Sep. 6，2026．
@@ -59,9 +63,17 @@ draft: false
     ”「情報基礎で学ぶコト」を活用した物質開発“，
     埼玉大学情報基礎特別講義，埼玉大学，埼玉，July 24，2026．
 
+1.  **高原泉**
+    ”大規模言語モデルを基盤とした自律型材料探索・合成手法の開発“
+    第1回 AI for Scienceフロンティアセミナー，理化学研究所，2026年7月13日．
+
 1.  **溝口照康**
     ”AI技術およびシミュレーションを活用した物質研究“，
     東京高専セミナー，八王子，東京，July 10，2026．
+
+1.  **高原 泉**
+    ”LLMエージェントを活用したAI駆動材料開発に向けた取り組み“
+    第7回AIロボット駆動科学研究会，Shimazu Tokyo Innovation Plaza，2026年5月11日．
 
 1.  **溝口照康**，**高原泉**，  
     ”生成AI・LLMを活用した物質研究と新たな研究連携の可能性“  
@@ -70,6 +82,10 @@ draft: false
 1.  **Teruyasu Mizoguchi**  
     ”Machine-learning-driven Simulation and Generative Design of Functional Materials“, 
     Synchrotron Frontier 2026, March 11th, 2026
+
+1.  **Izumi Takahara**
+    ”Leveraging Large Language Models for Generative Design and Discovery of Inorganic Materials“
+    第23回マテリアル基盤セミナー，NIMS，2026年2月9日．
 
 1.  **Teruyasu Mizoguchi**  
     ”AI-Driven Analysis of EELS/XAFS for Exploring Synchrotron Frontiers in MaterialsDesign“, 
