@@ -7,11 +7,21 @@ draft: false
 ---
  <p align="right"> **Bold** *indicates Mizoguchi Lab. member.* </p>
  
+1.  **Y. Choi**, **PY. Chen**, and **T. Mizoguchi**  
+    under preparation
+
 1.  **K. Miyamoto**, **I. Okuda**, **I. Takahara**, and **T. Mizoguchi**  
     under preparation
 
 1.  KY. Liao, ..., **T. Mizoguchi**, ..., K. Suenaga  
     under preparation
+
+1.  **K. Miyamoto**, **I. Okuda**, **I. Takahara**, and **T. Mizoguchi**  
+    under preparation
+
+1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
+    "Atomistic origin and strain control of the finite-temperature dielectric response in BaTiO3"  
+    submitted [**arxiv**](https://arxiv.org/abs/2609.07219)
 
 1.  **Pol Benítez**, T. Ouchi, C. Cazorla, and **Teruyasu Mizoguchi**    
     submitted 

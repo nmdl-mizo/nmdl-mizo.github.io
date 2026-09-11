@@ -5,6 +5,11 @@ description: "<b><u> [Previous News](/en/news)<br> [Linkdin](https://www.linkedi
 
 # Testimonials
 testimonials:
+  - name: "2026, Sep."
+    designation: ""
+    avatar: ""
+    content: "Lab members made excellent preentations in JSAP@Hokkaido!! We have really enjoyed Hokkaido!<u>[Here](https://x.com/nmdl_mizo/status/2098343713974165566)</u>"
+
   - name: "2026, Aug."
     designation: ""
     avatar: ""

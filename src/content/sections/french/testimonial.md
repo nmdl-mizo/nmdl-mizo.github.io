@@ -5,6 +5,11 @@ description: "<b><u> [過去のニュース](/news) <br>[Linkdin](https://www.li
 
 # Testimonials
 testimonials:
+  - name: "2026, Sep."
+    designation: ""
+    avatar: ""
+    content: "学生やスタッフが北海道で行われた応用物理学会で発表しました<u>[こちら](https://x.com/nmdl_mizo/status/2098343713974165566)</u>"
+
   - name: "2026, Aug."
     designation: ""
     avatar: ""
