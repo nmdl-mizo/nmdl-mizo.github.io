@@ -75,6 +75,10 @@ draft: false
 
     **— 2026 —**  
 
+1.  "Intrinsic Defect Energetics and Fluorine Doping Effects in Li2CO3 and Li2O2: A First-Principles Study"  
+    **Y. Choi**, **T. Sugiura**, K. Mukai, N. Ishihara, S. Nakanishi, and **T. Mizoguchi**  
+    *The Journal of Physical Chemistry C*, (2026) accepted for publication. [**arxiv**](https://arxiv.org/abs/2606.25408)  
+
 1.  "Transition from Homogeneous to Domain-Wall-Mediated Polarization Switching in BaTiO3: A Machine-Learning Molecular Dynamics Study"  
      **P. Y. Chen** and **T. Mizoguchi**  
     *Phys. Rev. B*, (2026) in press. [**arxiv**](https://arxiv.org/abs/2605.25485)  
