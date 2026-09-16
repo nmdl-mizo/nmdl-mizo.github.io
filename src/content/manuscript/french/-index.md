@@ -30,6 +30,10 @@ draft: false
     "All-Electron Single-Atom Reference Correction for Absolute Transition Energies in Fixed-Reference PAW-XCH Calculations"  
     submitted  [**arxiv**](https://arxiv.org/abs/2608.09216)
 
+1.  **I. Takahara**, K. Nishio, A. Aiba, S. Kobayashi, T. Nakajima, T. Hitosugi, and **T. Mizoguchi**  
+    "Hypothesis-Driven Autonomous Materials Synthesis with Multimodal LLM Agents"  
+    submitted
+
 1.  **I. Takahara** and **T. Mizoguchi**  
     "Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents"  
     submitted [**arxiv**](https://arxiv.org/abs/2607.09195)
