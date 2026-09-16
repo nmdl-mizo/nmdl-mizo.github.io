@@ -98,6 +98,8 @@ draft: false
 
 <img src="/images/environment/KomabaCommons.jpg">
 
+<a href="https://sites.google.com/g.ecc.u-tokyo.ac.jp/komaba-commons-lab/" target="_blank" rel="noopener noreferrer"><img src="/images/environment/komaba-commons-lab-ja.jpg" alt="駒場コモンズラボ" style="width:min(100%, 520px);height:auto;display:block;margin:0.5rem auto 0.75rem;" /></a>
+
 Komaba Commons Lab / [駒場コモンズラボ](https://sites.google.com/g.ecc.u-tokyo.ac.jp/komaba-commons-lab/)  
 Established in 2026.April.  "Komaba Commons Lab" is a future-oriented shared research infrastructure.
 

@@ -94,6 +94,8 @@ Mizoguchi is an [<u>Ambassador</u>](https://www.3ds.com/science/science-ambassad
 
 <img src="/images/environment/KomabaCommons.jpg">
 
+<a href="https://sites.google.com/g.ecc.u-tokyo.ac.jp/komaba-commons-lab/" target="_blank" rel="noopener noreferrer"><img src="/images/environment/komaba-commons-lab-en.jpg" alt="Komaba Commons Lab." style="width:min(100%, 520px);height:auto;display:block;margin:0.5rem auto 0.75rem;" /></a>
+
 <u>[Komaba Commons Lab / 駒場コモンズラボ](https://sites.google.com/g.ecc.u-tokyo.ac.jp/komaba-commons-lab/)  </u>  
 Komaba Commons Labs established in 2026.April.  "Komaba Commons Lab" is a future-oriented shared research infrastructure powered by AI and Physical AI.
 
