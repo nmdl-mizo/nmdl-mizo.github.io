@@ -8,6 +8,34 @@ draft: false
 **<b> 最新のニュースはTop pageやTwitter（X)をご覧ください </b>**
 
 **2026**  
+- July 2026 Li2O2におけるLi空孔駆動相転移に関する大阪大学，東京電機大学との共同研究成果がJ. Phys. Chem. Cに掲載決定しました．
+
+- June 2026 DFTコードFHI-aims code開発に関する国際共同研究成果Electronic Structureに掲載決定しました．
+
+- June 2026 モアレを利用したイオニクス材料研究，モアレイオニクス，に関する研究成果がJ. Phys. Chem. Cに掲載決定しました．
+
+- June 2026 電場印可MLIP手法の開発とHfO2への応用に関する研究成果がMaterials Today Electronicsに掲載されました．
+
+- June 2026 MLIPを用いた強誘電体シミューレションにおける長距離相互作用(Long-range interaction)に関して調査した研究成果が APL Machine Learningに掲載されました．
+
+- June 2026 XANES/ELNESスペクトルの逆解析（inverse analysis）に関するTopical ReviewがJ. Phys.: Cond. Matterに掲載決定しました．
+
+- June 2026 駒場リサーチキャンパス公開および研究室公開を実施しました．たくさんの方々にご来訪いただきました．<u>[こちら](https://x.com/nmdl_mizo/status/2063807830633971969)</u>と<u>[こちら](https://x.com/nmdl_mizo/status/2064931181456703911)</u>
+
+- May 2026 仙台で行われた日本顕微鏡学会学術講演会で学生が発表しました．<u>[こちら](https://x.com/nmdl_mizo/status/2061675736260542757)</u>
+
+- May 2026 ScAlNのドメインスイッチメカニズムにおける構造・結合効果に関する研究成果が APL Materialsに掲載されました．
+
+- May 2026 有機分子のELNES計算における内殻空孔効果のスーパーセルサイズ依存性に関する研究がJ. Chem. Phys.に掲載されました．
+
+- May 2026 駒場リサーチキャンパス公開（6/5-6/6)に向けたキャンパス清掃に参加しました．皆さんお疲れさまでした！<u>[こちら](https://x.com/nmdl_mizo/status/2056150534378360986)</u>
+
+- May 2026 卒業生の西尾君が研究室に来てくれました！<u>[こちら](https://x.com/nmdl_mizo/status/2055648461853544526)</u>
+
+- April 2026 スペインから7か月間滞在してくれたPol君の送別会を行いました!<u>[こちら](https://x.com/nmdl_mizo/status/2049049233454747787)</u>
+
+- April 2026 2026年度がスタートしました．新メンバーの歓迎会を実施しました．<u>[こちら](https://x.com/nmdl_mizo/status/2039905083568320714)</u>
+
 - Mar 2026 BaTiO3のPEヒステリシスに及ぼす一軸応力の影響を電場印加機械学習ポテンシャルMDにより直接計算した研究成果がMaterials & Designに掲載決定しました．
 
 - Feb 2026 ELNES/XANESの計算スペクトルから実験スペクトルを生成するモデルに関する研究成果がUltramicroscopyに掲載決定しました．<u>[こちら](https://www.sciencedirect.com/science/article/pii/S030439912600029X)</u>

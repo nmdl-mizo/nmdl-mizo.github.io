@@ -8,6 +8,34 @@ draft: false
 **<b> Please see top-page, <u>[Mizoguchi Linkdin](https://www.linkedin.com/in/teruyasu-mizoguchi-035395284/)</u>, and <u>[lab X(mainly Japanese)](https://x.com/nmdl_mizo)</u> for the latest new! </b>**
 
 **2026　:**
+- July 2026 A collaborative research paper on Li-vacancy phase transition in Li2O2 was accepted for publication in J. Phys. Chem. C.
+
+- June 2026 A big-collaboration research paper on FHI-aims code was accepted for publication in Electronic Structure.
+
+- June 2026 Our manuscript on <b>Moire ionics</b>, namely application of moire structure made by 2-layer graphene for fast ionic migration, was accepted for publication in J. Phys. Chem. C.
+
+- June 2026 A research paper on developing electric-field-induced MLIP MD simulation and an application to HfO2 was accepted for publication in Materials Today Electronics.
+
+- June 2026 A research paper on effects of long-range interaction for MLIP simulation of ferroelectric materials was accepted for publication in APL Machine Learning.
+
+- June 2026 A topical review on inverse analysis of near-edge spectra was accepted for publication in J. Phys.: Cond. Matter.
+
+- June 2026 Thank you for joining exciting events, Open Campus and Open Lab! <u>[Here](https://x.com/nmdl_mizo/status/2063807830633971969)</u> and <u>[Here](https://x.com/nmdl_mizo/status/2064931181456703911)</u>
+
+- May 2026 Excellent presentations by our students in JSM2026@Sendai! <u>[Here](https://x.com/nmdl_mizo/status/2061675736260542757)</u>
+
+- May 2026 A research paper on decoupling structural and bonding effects in the domain dynamics of ScAlN was accepted for publication in APL Materials.
+
+- May 2026 A research paper on finite-size dependence of core-hole simulation for organic molecule was accepted for publication in J. Chem. Phys.
+
+- May 2026 For the open campus (June 5-6), we joined campus clean-up. <u>[Here](https://x.com/nmdl_mizo/status/2056150534378360986)</u>
+
+- May 2026 Former member, Nishio-kun, visited the lab. Thank you Nishio-kun! Enjoy the US! <u>[Here](https://x.com/nmdl_mizo/status/2055648461853544526)</u>
+
+- April 2026 Thank you for joining us, Pol-kun. Let’s keep in touch, and hopefully see you again soon! <u>[Here](https://x.com/nmdl_mizo/status/2049049233454747787)</u>
+
+- April 2026 Welcome 5 new members (4 students and one researcher)! Let’s work together to create exciting research! <u>[Here](https://www.sciencedirect.com/science/article/pii/S030439912600029X)</u>
+
 - Mar 2026 Research result on uniaxial stress effects on the PE hysteresis of BaTiO3 using electric-field-induced machine-learning-potential MD simulations was accepted for publication in Materials & Design.
 
 - Feb 2026 A prediction model to generate experimental spectra from simulated spectra was accepted for publication in Ultramicroscopy. <u>https://www.sciencedirect.com/science/article/pii/S030439912600029X</u>
