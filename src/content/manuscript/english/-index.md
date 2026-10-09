@@ -32,6 +32,10 @@ draft: false
     "Transient Detour and Cooperative Oxygen Exchange in the Polarization Switching of Ferroelectric Hf0.5Zr0.5O2"  
     submitted [**arxiv**](https://arxiv.org/abs/2607.26597)
 
+1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
+    "Atomistic Origin and Strain Control of the Finite-Temperature Dielectric Response in BaTiO3"  
+    submitted [**arxiv**](https://arxiv.org/abs/2609.07219)
+
 1.  **L. Wong**, **Y. R. Jin**, and **T. Mizoguchi**  
     submitted
 
