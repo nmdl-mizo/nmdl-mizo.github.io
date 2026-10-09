@@ -14,6 +14,11 @@ Professor, PI, Teruyasu Mizoguchi （教授・溝口 照康）, Ph. D.
 <br>email：teru_at_iis.u-tokyo.ac.jp
 <br>Linkdin：[Linkedin](https://www.linkedin.com/in/teruyasu-mizoguchi-035395284/)
 
+<img src="/images/mem/image7.png" style="width:1.75in;height:1.75in" />
+
+Assistant Professor, Kunyen Liao, Ph. D.
+<br>email：kunyen_at_iis.u-tokyo.ac.jp
+
 <img src="/images/mem/yanaba.png" style="width:1.44133in;height:1.91667in" />
 
 Technical Staff, Yutaka Yanaba（シニアエキスパート（技術）・簗場　豊）,
@@ -57,11 +62,6 @@ Yeongrok Jin, Ph. D.
 
 ##### -Student-
 
-<img src="/images/mem/image9.png" style="width:1.56667in;height:2.08333in" />
-
-D: Poyen Chen
-<br>email：POYEN_at_iis.u-tokyo.ac.jp
-
 <img src="/images/mem/image10.png" style="width:1.56667in;height:2.08333in" />
 
 <!-- [D: Izumi Takahara](https://izumitkhr.github.io/)（[高原 泉](https://izumitkhr.github.io/)） -->
@@ -92,11 +92,6 @@ D: Masahiro Watanabe （渡辺 雅浩）
 
 D: Ren Okubo（大久保　怜）
 <br>email：ROKUBO_at_iis.u-tokyo.ac.jp
-
-<img src="/images/mem/image12.png" style="width:1.61667in;height:2.08333in"  />
-
-M: Gen Fukuzawa（福沢 源）
-<br>email：genf_at_iis.u-tokyo.ac.jp
 
 <img src="/images/mem/okuda.jpg" style="width:1.44133in;height:1.91667in" />
 
@@ -138,12 +133,10 @@ M: Hitotsuyanagi Akihito（一栁昭仁）
 M: Yutaro Matsuki（松木悠大郎）
 <br>email：ymatsuki_at__iis.u-tokyo.ac.jp
 
-##### -Research Student-
-
 <img src="/images/mem/hsu.jpg" style="width:1.44133in;height:1.91667in" />
 
-RS: ChihLun Hsu
-<br>email：chihlun_at_iis.u-tokyo.ac.jp  
+M: ChihLun Hsu
+<br>email：chihlun_at_iis.u-tokyo.ac.jp
 
 ##### -Komaba Commons Lab　駒場コモンズラボ-
 

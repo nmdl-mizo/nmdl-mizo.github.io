@@ -12,6 +12,16 @@ draft: false
 
 **D: Pol Benítez Colominas (Universitat Politècnica de Catalunya)**
 
+<img src="/images/mem/image9.png" style="width:1.56667in;height:2.08333in" />
+
+**D: Poyen Chen**
+<br>電場印可MLIP-MD計算手法を開発してくれて多くの成果を出してくれました．また，後輩も多く育ててくれて，研究室の現在のActivityに大変貢献してくれました．（現在TSMCで活躍中！）
+
+<img src="/images/mem/image12.png" style="width:1.61667in;height:2.08333in" />
+
+**M: Gen Fukuzawa（福沢 源）**
+<br>モアレイオニクスに関する研究に取り組み，最後に論文を出してくれました．
+
 ##### 2025
 
 <img src="/images/mem/image8.png" style="width:1.61667in;height:2.08333in"  />
@@ -101,7 +111,7 @@ draft: false
 <img src="/images/alumni/image8.png" style="width:1.61667in;height:2.08333in"  />
 
 **D: Liao Kunyen，Ph. D**
-<br> STEM-EELSを利用したセラミックス材料解析に関する研究に取り組み，ガラスを構成するアルミや酸素の配位数の分布を明らかにする手法を開発したり，局所熱物性を計測する手法を開発したりしてくれました．（現在，TSMCで活躍中！）
+<br> STEM-EELSを利用したセラミックス材料解析に関する研究に取り組み，ガラスを構成するアルミや酸素の配位数の分布を明らかにする手法を開発したり，局所熱物性を計測する手法を開発したりしてくれました．（現在，溝口研究室の助教として活躍中！）
 
 <img src="/images/alumni/image9.png" style="width:1.61667in;height:2.08333in"  />
 
