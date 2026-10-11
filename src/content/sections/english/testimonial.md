@@ -5,6 +5,11 @@ description: "<b><u> [Previous News](/en/news)<br> [Linkdin](https://www.linkedi
 
 # Testimonials
 testimonials:
+  - name: "2026, Oct."
+    designation: ""
+    avatar: ""
+    content: "Our research using electric-field-driven machine-learning-potential molecular dynamics to reveal transient detours and cooperative oxygen exchange during polarization switching in ferroelectric Hf0.5Zr0.5O2 has been accepted for publication in <b>ACS Appl. Electron. Mater.</b>."
+
   - name: "2026, Sep."
     designation: ""
     avatar: ""

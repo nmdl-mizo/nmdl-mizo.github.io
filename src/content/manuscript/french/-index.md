@@ -29,10 +29,6 @@ draft: false
     submitted [**arxiv**](https://arxiv.org/abs/2607.09195)
 
 1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
-    "Transient Detour and Cooperative Oxygen Exchange in the Polarization Switching of Ferroelectric Hf0.5Zr0.5O2"  
-    submitted [**arxiv**](https://arxiv.org/abs/2607.26597)
-
-1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
     "Atomistic Origin and Strain Control of the Finite-Temperature Dielectric Response in BaTiO3"  
     submitted [**arxiv**](https://arxiv.org/abs/2609.07219)
 
@@ -71,6 +67,10 @@ draft: false
     submitted, [**arxiv**](https://arxiv.org/abs/2602.18054)
 
     **— 2026 —**  
+
+1.  "Transient Detour and Cooperative Oxygen Exchange in the Polarization Switching of Ferroelectric Hf0.5Zr0.5O2"  
+    **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
+    *ACS Appl. Electron. Mater.*, (2026) in press. [**arxiv**](https://arxiv.org/abs/2607.26597)  
 
 1.  "Intrinsic Defect Energetics and Fluorine Doping Effects in Li2CO3 and Li2O2: A First-Principles Study"  
     **Y. Choi**, **T. Sugiura**, K. Mukai, N. Ishihara, S. Nakanishi, and **T. Mizoguchi**  
