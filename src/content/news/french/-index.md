@@ -14,7 +14,7 @@ draft: false
 
 - June 2026 モアレを利用したイオニクス材料研究，モアレイオニクス，に関する研究成果がJ. Phys. Chem. Cに掲載決定しました．
 
-- June 2026 電場印可MLIP手法の開発とHfO2への応用に関する研究成果がMaterials Today Electronicsに掲載されました．
+- June 2026 電場印加MLIP手法の開発とHfO2への応用に関する研究成果がMaterials Today Electronicsに掲載されました．
 
 - June 2026 MLIPを用いた強誘電体シミューレションにおける長距離相互作用(Long-range interaction)に関して調査した研究成果が APL Machine Learningに掲載されました．
 

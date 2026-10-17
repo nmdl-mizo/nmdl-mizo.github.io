@@ -15,7 +15,7 @@ draft: false
 <img src="/images/mem/image9.png" style="width:1.56667in;height:2.08333in" />
 
 **D: Poyen Chen**
-<br>電場印可MLIP-MD計算手法を開発してくれて多くの成果を出してくれました．また，後輩も多く育ててくれて，研究室の現在のActivityに大変貢献してくれました．（現在TSMCで活躍中！）
+<br>電場印加MLIP-MD計算手法を開発してくれて多くの成果を出してくれました．また，後輩も多く育ててくれて，研究室の現在のActivityに大変貢献してくれました．（現在TSMCで活躍中！）
 
 <img src="/images/mem/image12.png" style="width:1.61667in;height:2.08333in" />
 

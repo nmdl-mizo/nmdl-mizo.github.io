@@ -28,7 +28,7 @@ testimonials:
   - name: "2026, Aug."
     designation: ""
     avatar: ""
-    content: "電場印可機械学習ポテンシャルMDを用いて，BaTiO₃の分極反転機構が一様な反転からdomain wallを介した反転へと移り変わる過程を明らかにした研究成果が，Physical Review Bに掲載決定しました．"
+    content: "電場印加機械学習ポテンシャルMDを用いて，BaTiO₃の分極反転機構が一様な反転からdomain wallを介した反転へと移り変わる過程を明らかにした研究成果が，Physical Review Bに掲載決定しました．"
 
   - name: "2026, Aug."
     designation: ""
