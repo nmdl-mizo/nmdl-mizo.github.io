@@ -8,6 +8,11 @@ testimonials:
   - name: "2026, Oct."
     designation: ""
     avatar: ""
+    content: "電子のふるまいを手掛かりにした物質逆設計AI, Mattergen-e-，に関する研究論文が<b>npj Comp. Mater.</b>に掲載され，プレスリリースしました．[**OpenAcess**](https://www.nature.com/articles/s41524-026-02322-4), [**Press Release**](https://www.eurekalert.org/news-releases/1147428)"
+
+  - name: "2026, Oct."
+    designation: ""
+    avatar: ""
     content: "電場印加機械学習ポテンシャルMDを用いてHf0.5Zr0.5O2の分極反転における過渡的な迂回経路と協調的酸素交換を明らかにした研究成果が，<b>ACS Appl. Electron. Mater.</b> に掲載決定しました．"
 
   - name: "2026, Sep."
@@ -18,7 +23,7 @@ testimonials:
   - name: "2026, Sep."
     designation: ""
     avatar: ""
-    content: "大阪大学・核融合科学研究所との共同研究として，Li2CO3およびLi2O2における固有欠陥エネルギーとフッ素ドーピング効果を第一原理計算で解明した研究成果が，<b>The Journal of Physical Chemistry C</b> に掲載決定しました．<u>[arxiv](https://arxiv.org/abs/2606.25408)</u>"
+    content: "大阪大学・核融合科学研究所との共同研究として，Li2CO3およびLi2O2における固有欠陥エネルギーとフッ素ドーピング効果を第一原理計算で解明した研究成果が，<b>The Journal of Physical Chemistry C</b> に掲載決定しました．<u>[arxiv](https://arxiv.org/abs/2606.25408), [**OpenAcess**](https://pubs.acs.org/jpccck/article/130/42/14726/5448426/Intrinsic-Defect-Energetics-and-Fluorine-Doping) </u>"
 
   - name: "2026, Sep."
     designation: ""
@@ -28,12 +33,12 @@ testimonials:
   - name: "2026, Aug."
     designation: ""
     avatar: ""
-    content: "電場印加機械学習ポテンシャルMDを用いて，BaTiO₃の分極反転機構が一様な反転からdomain wallを介した反転へと移り変わる過程を明らかにした研究成果が，Physical Review Bに掲載決定しました．"
+    content: "電場印加機械学習ポテンシャルMDを用いて，BaTiO₃の分極反転機構が一様な反転からdomain wallを介した反転へと移り変わる過程を明らかにした研究成果が，Physical Review Bに掲載されました．"
 
   - name: "2026, Aug."
     designation: ""
     avatar: ""
-    content: "状態密度（DOS）からバンド構造を生成（unfold）する機械学習手法に関する研究成果が，Digital Discovery誌への掲載が決定しました．"
+    content: "状態密度（DOS）からバンド構造を生成（unfold）する機械学習手法に関する研究成果が，Digital Discovery誌への掲載されました <u>[**OpenAcess**](https://pubs.rsc.org/dd/article/5/10/4221/1296732/Learning-unfolded-band-structures-from-spectra)</u>．"
 
   - name: "2026, Aug."
     designation: ""

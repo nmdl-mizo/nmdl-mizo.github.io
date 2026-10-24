@@ -8,6 +8,11 @@ testimonials:
   - name: "2026, Oct."
     designation: ""
     avatar: ""
+    content: "Our paper on MatterGen-e-, an AI for inverse materials design guided by electronic behavior, has been published in <b>npj Computational Materials</b>, and a press release has been issued．[**OpenAcess**](https://www.nature.com/articles/s41524-026-02322-4), [**Press Release**](https://www.eurekalert.org/news-releases/1147428)"
+
+  - name: "2026, Oct."
+    designation: ""
+    avatar: ""
     content: "Our research using electric-field-driven machine-learning-potential molecular dynamics to reveal transient detours and cooperative oxygen exchange during polarization switching in ferroelectric Hf0.5Zr0.5O2 has been accepted for publication in <b>ACS Appl. Electron. Mater.</b>."
 
   - name: "2026, Sep."
@@ -18,7 +23,7 @@ testimonials:
   - name: "2026, Sep."
     designation: ""
     avatar: ""
-    content: "Our collaborative research with Osaka University and the National Institute for Fusion Science, using first-principles calculations to investigate intrinsic defect energetics and fluorine-doping effects in Li2CO3 and Li2O2, has been accepted for publication in <b>The Journal of Physical Chemistry C</b>. <u>[arxiv](https://arxiv.org/abs/2606.25408)</u>"
+    content: "Our collaborative research with Osaka University and the National Institute for Fusion Science, using first-principles calculations to investigate intrinsic defect energetics and fluorine-doping effects in Li2CO3 and Li2O2, has been accepted for publication in <b>The Journal of Physical Chemistry C</b>. <u>[arxiv](https://arxiv.org/abs/2606.25408)</u>,  [**OpenAcess**](https://pubs.acs.org/jpccck/article/130/42/14726/5448426/Intrinsic-Defect-Energetics-and-Fluorine-Doping) </u>"
 
   - name: "2026, Sep."
     designation: ""
@@ -33,7 +38,7 @@ testimonials:
   - name: "2026, Aug."
     designation: ""
     avatar: ""
-    content: "Our research on a machine learning method for generating (unfolding) band structures from the density of states (DOS) has been accepted for publication in Digital Discovery."
+    content: "Our research on a machine learning method for generating (unfolding) band structures from the density of states (DOS) has been accepted for publication in Digital Discovery.<u>[**OpenAcess**](https://pubs.rsc.org/dd/article/5/10/4221/1296732/Learning-unfolded-band-structures-from-spectra)</u>．"
 
   - name: "2026, Aug."
     designation: ""
