@@ -7,24 +7,28 @@ draft: false
 ---
  <p align="right"> **Bold** *indicates presenter*
  
+1.  **高原泉**
+    ”AIエージェント時代の材料科学研究“，
+    JAPAN SCIENTIST AI JAM SESSION 2026，オンライン，Oct. 27，2026．
+
 1.  **溝口照康**
-    ”***“，
+    ”スペクトルとAIが拓く物質解析と逆設計“，
     X線分析討論会，くにびきメッセ，島根，Oct. 22，2026．
 
 1.  **溝口照康**
-    ”***“，
+    ”AI for Science時代のマテリアル研究ーAIで材料を観る，動かす，創るー“，
     RIST第22回材料系ワークショップ，秋葉原（ハイブリッド），東京，Oct. 21，2026．
 
 1.  **溝口照康**
-    ”***“，
+    ”AI for Atomistic Materials Understanding: From Spectroscopy to Generative Design“，
     ACSIN-16 & ICSPM34，姫路，兵庫，Oct. 20，2026．
 
 1.  **溝口照康**
-    ”***“（基調講演），
+    ”インフォマティクスが切り拓くAI駆動型材料研究“（基調講演），
     附置研・センター会議第1部会シンポジウム，オンライン，Oct. 13，2026．
 
 1.  **溝口照康**
-    ”***“，
+    ”From EELS to Generative AI: Thermal Expansion, Local Coordination, and Inverse Analysis“，
     RIKEN Seminar，理化学研究所，和光，Sep. 30，2026．
 
 1.  **溝口照康**
