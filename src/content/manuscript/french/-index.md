@@ -75,7 +75,7 @@ draft: false
 
 1.   "Achieving Robust Extrapolation in Materials Property Prediction via Decoupled Transfer Learning"  
      **T. Sugiura** and **T. Mizoguchi**  
-    *PRX intelligence*, (2026) in press [**arxiv**](https://arxiv.org/abs/2602.18054)
+    *PRX intelligence*, (2026) in press [**arxiv**](https://arxiv.org/abs/2602.18054), [**GitHub**](https://github.com/nmdl-mizo/decoupled-gnn-transfer-learning)
 
 1.   "Inverse Materials Design via Joint Generation of Crystal Structures and Local Electronic Descriptors"  
      **I. Okuda**, **I. Takahara**, and **T. Mizoguchi**  
