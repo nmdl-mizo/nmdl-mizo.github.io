@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "What's new!"
-description: "<b><u> [過去のニュース](/news) <br>[Linkdin](https://www.linkedin.com/in/teruyasu-mizoguchi-035395284/)<br>[研究室 X](https://x.com/nmdl_mizo) </u> </b> "
+description: "<b><u> [過去のニュース](/news) <br>[LinkedIn ↗](https://www.linkedin.com/in/teruyasu-mizoguchi-035395284/)｜研究成果メイン<br>[研究室 X ↗](https://x.com/nmdl_mizo)｜研究室の日常 </u> </b> "
 
 # Testimonials
 testimonials:
