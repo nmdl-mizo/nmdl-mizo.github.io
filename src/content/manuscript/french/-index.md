@@ -14,7 +14,7 @@ draft: false
     under preparation
 
 1.  **K. Miyamoto**, **I. Okuda**, **I. Takahara**, and **T. Mizoguchi**  
-    under preparation
+    submitted
 
 1.  "GPU acceleration of first-principles X-ray absorption spectra: an OpenACC port of XSpectra in Quantum ESPRESSO"  
     **Yinan Wang** and **Teruyasu Mizoguchi**  
