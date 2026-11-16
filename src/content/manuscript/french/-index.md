@@ -18,7 +18,7 @@ draft: false
 
 1.  "Electric Fields Turn Vacancy-trapping Grain Boundaries into Li-Ion Pathways in Li2O"  
     **Youjeong Choi**, **Po-Yen Chen**, **Tasuku Sugiura**, and **Teruyasu Mizoguchi**  
-    submitted
+    submitted [**arxiv**](https://arxiv.org/abs/2611.17679)
 
 1.  **Y. Wang** and **T. Mizoguchi**  
     "Symmetry-Gated Sliding: Decoupling Interlayer Translation from Polarization Reversal in Boron Nitride Ferroelectrics"  
