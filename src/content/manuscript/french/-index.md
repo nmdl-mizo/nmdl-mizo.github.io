@@ -7,11 +7,14 @@ draft: false
 ---
  <p align="right"> **Bold** *indicates Mizoguchi Lab. member.* </p>
  
-1.  **S. Ozawa**, et al.,  
+1.  **S. Ozawa**, **I. Takahara**, F. Uesugi, and **T. Mizoguchi**  
     under preparation
 
 1.  **L. Wong**, **Y. R. Jin**, and **T. Mizoguchi**  
     under preparation
+
+1.  **I. Takahara**, **T. Mizoguchi**, and P. Zhong,  
+    submitted
 
 1.  **K. Miyamoto**, **I. Okuda**, **I. Takahara**, and **T. Mizoguchi**  
     submitted
