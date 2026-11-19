@@ -11,10 +11,12 @@ draft: false
     under preparation
 
 1.  **Y. Fujikata** and **T. Mizoguchi**  
-    submitted
+    "XANES-Guided Molecular Structure Generation via Conditional Diffusion and Forward Spectral Prediction"  
+    submitted [**arxiv**](https://arxiv.org/abs/2611.23725)
 
 1.  **S. Ozawa**, **I. Takahara**, **F. Uesugi**, and **T. Mizoguchi**  
-    submitted
+    "Fast closed-loop STEM navigation using vision-language models with typed decisions"  
+    submitted [**arxiv**](https://arxiv.org/abs/2611.23698)
 
 1.  **I. Takahara**, **T. Mizoguchi**, and P. Zhong,  
     submitted
@@ -24,7 +26,7 @@ draft: false
 
 1.  "GPU acceleration of first-principles X-ray absorption spectra: an OpenACC port of XSpectra in Quantum ESPRESSO"  
     **Yinan Wang** and **Teruyasu Mizoguchi**  
-    submitted
+    submitted [**ChemRxiv**](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15012423/v1)
 
 1.  "Electric Fields Turn Vacancy-trapping Grain Boundaries into Li-Ion Pathways in Li2O"  
     **Youjeong Choi**, **Po-Yen Chen**, **Tasuku Sugiura**, and **Teruyasu Mizoguchi**  
